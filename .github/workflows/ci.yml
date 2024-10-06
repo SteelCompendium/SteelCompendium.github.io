@@ -22,4 +22,3 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
       - run: mkdocs gh-deploy --force
-
