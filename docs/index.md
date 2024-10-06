@@ -8,7 +8,23 @@ The Steel Compendium is an independent product published under the DRAW STEEL Cr
 
 ---
 
-Welcome to the Steel Compendium.
+Welcome to the Xentis' Steel Compendium!
 
-- Rules can be found in the [Compendium](./compendium/main)
-- [Draw Steel Elements Documentation](https://steelcompendium.io/draw-steel-elements/) for the [Obsidian](https://obsidian.md/) plugin: [Draw Steel Elements](https://obsidian.md/plugins?id=draw-steel-elements)
+## Draw Steel Rules
+
+Rules for MCDM's Draw Steel TTPRG can be found in the [Compendium](./compendium/main)
+
+![compendium.png](Media/compendium.png)
+
+## Obsidian Plugin
+
+[Obsidian](https://obsidian.md/) is a markdown note-taking tool that can be very helpful for TTRPG prep and play.
+
+The [Draw Steel Elements Plugin](https://obsidian.md/plugins?id=draw-steel-elements) is designed to help support the game.
+Details can be found in the [Draw Steel Elements Documentation](https://steelcompendium.io/draw-steel-elements/)
+
+![elements screenshot](Media/elements.png)
+
+## Data 
+
+Coming soon...
