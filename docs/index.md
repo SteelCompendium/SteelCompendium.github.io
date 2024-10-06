@@ -8,4 +8,7 @@ The Steel Compendium is an independent product published under the DRAW STEEL Cr
 
 ---
 
-This is the org site
+Welcome to the Steel Compendium.
+
+Rules can be found in the [Compendium](./compendium/main)
+
