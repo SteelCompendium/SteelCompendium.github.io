@@ -8,7 +8,7 @@ The Steel Compendium is an independent product published under the DRAW STEEL Cr
 
 ---
 
-Welcome to the Xentis' Steel Compendium!
+Welcome to Xentis' Steel Compendium!
 
 ## Draw Steel Rules
 
