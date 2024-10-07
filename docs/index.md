@@ -7,12 +7,12 @@ The Steel Compendium is an independent product published under the DRAW STEEL Cr
 
 ---
 
-Welcome to Xentis' Steel Compendium, a suite of tools and resources for 
+Welcome to Xentis' Steel Compendium, a suite of tools and resources for
 [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
 
 ## Draw Steel Rules
 
-Rules for MCDM's Draw Steel TTPRG can be found in the [Compendium](./compendium/main)
+Rules for MCDM's Draw Steel TTPRG can be found in the [Compendium](./compendium)
 
 ![compendium.png](Media/compendium.png)
 
@@ -25,6 +25,6 @@ Details can be found in the [Draw Steel Elements Documentation](https://steelcom
 
 ![elements screenshot](Media/elements.png)
 
-## Data 
+## Data
 
 Coming soon...
