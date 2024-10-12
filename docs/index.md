@@ -25,6 +25,21 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ![elements screenshot](Media/elements.png)
 
-## Data
+## Draw Steel Data
 
-Coming soon...
+Parsed variants of the Draw Steel rules and bestiary are distributed across several repos
+
+| Repo                                                                            | Data               | Format                           |
+| ------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
+| [data-md](https://github.com/SteelCompendium/data-md)                           | Rules and Bestiary | Markdown                         |
+| [data-rules-md](https://github.com/SteelCompendium/data-rules-md)               | Rules              | Markdown                         |
+| [data-betiary-md](https://github.com/SteelCompendium/data-bestiary-md)          | Bestiary           | Markdown                         |
+| [data-md-dse](https://github.com/SteelCompendium/data-md-dse)                   | Rules and Bestiary | Markdown for Draw Steel Elements |
+| [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse) | Bestiary           | Markdown for Draw Steel Elements |
+| [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)     | Bestiary           | Yaml                             |
+
+**Note**: there is currently no `data-rules-md-dse`, but its on the roadmap
+
+### I don't know which to download
+
+If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).  If you want the markdown for any other purpose, you likely want [data-md](https://github.com/SteelCompendium/data-md).
