@@ -40,6 +40,11 @@ plugins:
    - search
    - roamlinks
 
+extras:
+   analytics:
+      provider: google
+      property: G-PMF9SHHXNY
+
 extra_css:
    - stylesheets/extra.css
 
