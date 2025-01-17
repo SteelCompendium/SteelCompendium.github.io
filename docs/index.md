@@ -33,7 +33,7 @@ Parsed variants of the Draw Steel rules and bestiary are distributed across seve
 |---------------------------------------------------------------------------------| ------------------ |----------------------------------|
 | [data-md](https://github.com/SteelCompendium/data-md)                           | Rules and Bestiary | Markdown                         |
 | [data-rules-md](https://github.com/SteelCompendium/data-rules-md)               | Rules              | Markdown                         |
-| [data-betiary-md](https://github.com/SteelCompendium/data-bestiary-md)          | Bestiary           | Markdown                         |
+| [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md)         | Bestiary           | Markdown                         |
 | [data-md-dse](https://github.com/SteelCompendium/data-md-dse)                   | Rules and Bestiary | Markdown for Draw Steel Elements |
 | [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse) | Bestiary           | Markdown for Draw Steel Elements |
 | [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)     | Bestiary           | Yaml                             |
