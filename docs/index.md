@@ -5,8 +5,6 @@ The Steel Compendium is an independent product published under the DRAW STEEL Cr
 - This Compendium is unofficial
 - There is no warranty written or implied
 
----
-
 > Welcome to Xentis' Steel Compendium, a suite of tools and resources for [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
 
 ---
