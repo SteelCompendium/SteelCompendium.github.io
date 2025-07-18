@@ -1,20 +1,23 @@
 # Xentis' Steel Compendium
 
-The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 
 - This Compendium is unofficial
 - There is no warranty written or implied
 
 ---
 
-Welcome to Xentis' Steel Compendium, a suite of tools and resources for
-[MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
+> Welcome to Xentis' Steel Compendium, a suite of tools and resources for [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
+
+---
 
 ## [Draw Steel Compendium](./compendium)
 
 The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Steel TTPRG
 
 ![compendium.png](Media/compendium.png)
+
+---
 
 ## [Draw Steel Elements](https://steelcompendium.io/draw-steel-elements/) Obsidian Plugin
 
@@ -24,6 +27,8 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 - [Draw Steel Elements Documentation](https://steelcompendium.io/draw-steel-elements/)
 
 ![elements screenshot](Media/elements.png)
+
+--- 
 
 ## Draw Steel Data
 
@@ -41,6 +46,7 @@ Parsed variants of the Draw Steel rules and bestiary are distributed across seve
 
 **Note**: there is currently no `data-rules-md-dse`, but its on the roadmap
 
-### I don't know which to download
+### Don't know which to download?
 
-If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).  If you want the markdown for any other purpose, you likely want [data-md](https://github.com/SteelCompendium/data-md).
+- If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).  
+- If you want the markdown for any other purpose, you likely want [data-md](https://github.com/SteelCompendium/data-md).
