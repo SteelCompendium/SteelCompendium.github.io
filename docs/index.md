@@ -9,7 +9,7 @@ This compendium is a suite of tools and resources to support
 - There is no warranty written or implied
 - Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
 
-### Quick Links:
+#### Quick Links:
 
 - [Steel Compendium](./compendium): Rules and Resources for MCDM's Draw Steel TTRPG
 - [Draw Steel Elements](https://obsidian.md/plugins?id=draw-steel-elements): Obsidian plugin ([docs](https://steelcompendium.io/draw-steel-elements/))
