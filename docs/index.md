@@ -1,13 +1,13 @@
 # Xentis' Steel Compendium
 
-The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
+> The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
+
+This compendium is a suite of tools and resources to support 
+[MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
 
 - This Compendium is unofficial
 - There is no warranty written or implied
-
-> Welcome to Xentis' Steel Compendium, a suite of tools and resources for [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
-
-Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
+- Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
 
 ---
 
@@ -17,7 +17,6 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ![compendium.png](Media/compendium.png)
 
----
 
 ## [Draw Steel Elements](https://steelcompendium.io/draw-steel-elements/) Obsidian Plugin
 
@@ -28,7 +27,6 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ![elements screenshot](Media/elements.png)
 
---- 
 
 ## Draw Steel Data
 
@@ -40,7 +38,7 @@ construction.
 - If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).
 - If you want the markdown for any other purpose, you want [data-md](https://github.com/SteelCompendium/data-md).
 
-#### Unified (Everything)
+##### Unified (Everything)
 
 These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
 
@@ -49,7 +47,7 @@ These repos contain data aggregated from all the other repos (Adventures, Bestia
 | [data-md](https://github.com/SteelCompendium/data-md)         | Markdown                         |
 | [data-md-dse](https://github.com/SteelCompendium/data-md-dse) | Markdown for Draw Steel Elements |
 
-#### Rules
+##### Rules
 
 These repos contain rules (Heroes book) data.
 
@@ -62,7 +60,7 @@ These repos contain rules (Heroes book) data.
 
 **Note**: there is currently no `data-rules-md-dse`, but its on the roadmap
 
-#### Bestiary
+##### Bestiary
 
 These repos contain bestiary (Monster book) data.  **Note: these repos are not currently populated with data**
 
@@ -73,7 +71,7 @@ These repos contain bestiary (Monster book) data.  **Note: these repos are not c
 | [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)      | Yaml                             |
 | [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json)      | Json                             |
 
-#### Adventures
+##### Adventures
 
 These repos contain adventure data.  **Note: these repos are not currently populated with data**
 
