@@ -32,21 +32,52 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ## Draw Steel Data
 
-Parsed variants of the Draw Steel rules and bestiary are distributed across several repos
+Parsed variants of the Draw Steel rules and bestiary are distributed across several repos.  These repos are still under 
+construction.
 
-| Repo                                                                            | Data               | Format                           |
-|---------------------------------------------------------------------------------| ------------------ |----------------------------------|
-| [data-md](https://github.com/SteelCompendium/data-md)                           | Rules and Bestiary | Markdown                         |
-| [data-rules-md](https://github.com/SteelCompendium/data-rules-md)               | Rules              | Markdown                         |
-| [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md)         | Bestiary           | Markdown                         |
-| [data-md-dse](https://github.com/SteelCompendium/data-md-dse)                   | Rules and Bestiary | Markdown for Draw Steel Elements |
-| [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse) | Bestiary           | Markdown for Draw Steel Elements |
-| [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)     | Bestiary           | Yaml                             |
-| [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json)     | Bestiary           | Json                             |
+**Don't know which markdown to download?**
+
+- If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).
+- If you want the markdown for any other purpose, you want [data-md](https://github.com/SteelCompendium/data-md).
+
+#### Unified (Everything)
+
+These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
+
+| Repo                                                          | Format                           |
+|---------------------------------------------------------------|----------------------------------|
+| [data-md](https://github.com/SteelCompendium/data-md)         | Markdown                         |
+| [data-md-dse](https://github.com/SteelCompendium/data-md-dse) | Markdown for Draw Steel Elements |
+
+#### Rules
+
+These repos contain rules (Heroes book) data.
+
+| Repo                                                                      | Format                           |
+|---------------------------------------------------------------------------|----------------------------------|
+| [data-rules-md](https://github.com/SteelCompendium/data-rules-md)         | Markdown                         |
+| [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml)     | Yaml                             |
+| [data-rules-json](https://github.com/SteelCompendium/data-rules-json)     | Json                             |
+| [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml)       | Xml                              |
 
 **Note**: there is currently no `data-rules-md-dse`, but its on the roadmap
 
-### Don't know which to download?
+#### Bestiary
 
-- If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).  
-- If you want the markdown for any other purpose, you likely want [data-md](https://github.com/SteelCompendium/data-md).
+These repos contain bestiary (Monster book) data.  **Note: these repos are not currently populated with data**
+
+| Repo                                                                             | Format                           |
+|----------------------------------------------------------------------------------|----------------------------------|
+| [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md)          | Markdown                         |
+| [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse)  | Markdown for Draw Steel Elements |
+| [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)      | Yaml                             |
+| [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json)      | Json                             |
+
+#### Adventures
+
+These repos contain adventure data.  **Note: these repos are not currently populated with data**
+
+| Repo                                                                        | Format   |
+|-----------------------------------------------------------------------------|----------|
+| [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md) | Markdown |
+
