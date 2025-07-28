@@ -9,6 +9,11 @@ This compendium is a suite of tools and resources to support
 - There is no warranty written or implied
 - Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
 
+### Quick Links:
+
+- [Steel Compendium](./compendium): Rules and Resources for MCDM's Draw Steel TTRPG
+- [Draw Steel Elements](https://obsidian.md/plugins?id=draw-steel-elements): Obsidian plugin ([docs](https://steelcompendium.io/draw-steel-elements/))
+
 ---
 
 ## [Draw Steel Compendium](./compendium)
@@ -42,21 +47,17 @@ construction.
 
 These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
 
-| Repo                                                          | Format                           |
-|---------------------------------------------------------------|----------------------------------|
-| [data-md](https://github.com/SteelCompendium/data-md)         | Markdown                         |
-| [data-md-dse](https://github.com/SteelCompendium/data-md-dse) | Markdown for Draw Steel Elements |
+- [data-md](https://github.com/SteelCompendium/data-md): Markdown 
+- [data-md-dse](https://github.com/SteelCompendium/data-md-dse): Markdown for Draw Steel Elements
 
 ##### Rules
 
 These repos contain rules (Heroes book) data.
 
-| Repo                                                                      | Format                           |
-|---------------------------------------------------------------------------|----------------------------------|
-| [data-rules-md](https://github.com/SteelCompendium/data-rules-md)         | Markdown                         |
-| [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml)     | Yaml                             |
-| [data-rules-json](https://github.com/SteelCompendium/data-rules-json)     | Json                             |
-| [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml)       | Xml                              |
+- [data-rules-md](https://github.com/SteelCompendium/data-rules-md): Markdown
+- [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml): Yaml
+- [data-rules-json](https://github.com/SteelCompendium/data-rules-json): Json
+- [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml): Xml
 
 **Note**: there is currently no `data-rules-md-dse`, but its on the roadmap
 
@@ -64,18 +65,14 @@ These repos contain rules (Heroes book) data.
 
 These repos contain bestiary (Monster book) data.  **Note: these repos are not currently populated with data**
 
-| Repo                                                                             | Format                           |
-|----------------------------------------------------------------------------------|----------------------------------|
-| [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md)          | Markdown                         |
-| [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse)  | Markdown for Draw Steel Elements |
-| [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml)      | Yaml                             |
-| [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json)      | Json                             |
+- [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md): Markdown
+- [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse): Markdown for Draw Steel Elements
+- [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml): Yaml
+- [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json): Json
 
 ##### Adventures
 
 These repos contain adventure data.  **Note: these repos are not currently populated with data**
 
-| Repo                                                                        | Format   |
-|-----------------------------------------------------------------------------|----------|
-| [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md) | Markdown |
+- [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md): Markdown
 
