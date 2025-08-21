@@ -32,11 +32,15 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ![elements screenshot](Media/elements.png)
 
-
 ## Draw Steel Data
 
 Parsed variants of the Draw Steel rules and bestiary are distributed across several repos.  These repos are still under 
 construction.
+
+There is also an `npm` module for parsing and working with these models here: 
+
+- [Github - data-sdk-npm](https://github.com/SteelCompendium/data-sdk-npm)
+- [npmjs.com - steel-compendium-sdk](https://www.npmjs.com/package/steel-compendium-sdk)
 
 **Don't know which markdown to download?**
 
