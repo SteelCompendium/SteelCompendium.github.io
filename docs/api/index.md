@@ -109,7 +109,7 @@ Search for any Draw Steel content by name, type, or SCC code.
 
     statusEl.textContent = "Loading SCC registry...";
 
-    fetch(window.location.pathname.replace(/\/api\/?$/, "") + "/api/v1/scc.json")
+    fetch("v1/scc.json")
       .then(function(r) { return r.json(); })
       .then(function(data) {
         entries = data.entries;
