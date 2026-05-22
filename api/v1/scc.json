@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-22T15:41:04Z",
+  "generated": "2026-05-22T16:21:50Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -8874,7 +8874,7 @@
     },
     {
       "scc": "mcdm.heroes.v1/feature.trait/ancestry-traits",
-      "url": "https://steelcompendium.io/v2/Browse/feature/trait/ancestry-traits/",
+      "url": "https://steelcompendium.io/v2/feature/trait/ancestry-traits/",
       "name": "Ancestry Traits",
       "type": "trait",
       "source": "mcdm.heroes.v1"
