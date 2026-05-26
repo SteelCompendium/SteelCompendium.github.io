@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-24T03:22:30Z",
+  "generated": "2026-05-26T19:47:55Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -2923,9 +2923,9 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.null.level-1/null-field",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/null/level-1/null-field/",
-      "name": "Null Field",
+      "scc": "mcdm.heroes.v1/feature.ability.null.level-1/null-scc-mcdm-heroes-v1-class-null-field",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/null/level-1/null-scc-mcdm-heroes-v1-class-null-field/",
+      "name": "[Null](scc:mcdm.heroes.v1/class/null) Field",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
@@ -3455,9 +3455,9 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-5/into-the-shadows/",
-      "name": "Into the Shadows",
+      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows-scc-mcdm-heroes-v1-class-shadow",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-5/into-the-shadows-scc-mcdm-heroes-v1-class-shadow/",
+      "name": "Into the [Shadows](scc:mcdm.heroes.v1/class/shadow)",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
@@ -3532,9 +3532,9 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-8/speed-of-shadows/",
-      "name": "Speed of Shadows",
+      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows-scc-mcdm-heroes-v1-class-shadow",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-8/speed-of-shadows-scc-mcdm-heroes-v1-class-shadow/",
+      "name": "Speed of [Shadows](scc:mcdm.heroes.v1/class/shadow)",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
