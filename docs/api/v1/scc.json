@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-27T21:13:52Z",
+  "generated": "2026-05-27T22:38:04Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -1509,34 +1509,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.common/concussive-slam",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/concussive-slam/",
-      "name": "Concussive Slam",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/detonate-sigil",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/detonate-sigil/",
-      "name": "Detonate Sigil",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/draconian-pride",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/draconian-pride/",
-      "name": "Draconian Pride",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/dragon-breath",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/dragon-breath/",
-      "name": "Dragon Breath",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/feature.ability.common/dragons-fire",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/dragons-fire/",
       "name": "Dragon's Fire",
@@ -1558,20 +1530,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.common/minor-acceleration",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/minor-acceleration/",
-      "name": "Minor Acceleration",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/psionic-bolt",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/psionic-bolt/",
-      "name": "Psionic Bolt",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/ranged-weapon-free-strike/",
       "name": "Ranged Weapon Free Strike",
@@ -1582,20 +1540,6 @@
       "scc": "mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike-combat",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/ranged-weapon-free-strike-combat/",
       "name": "Ranged Weapon Free Strike",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/shadowmeld",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/shadowmeld/",
-      "name": "Shadowmeld",
-      "type": "ability",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common/the-wode-defends",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/the-wode-defends/",
-      "name": "The Wode Defends",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
@@ -2121,6 +2065,20 @@
       "scc": "mcdm.heroes.v1/feature.ability.corven/wing-buffet",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/corven/wing-buffet/",
       "name": "Wing Buffet",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/dragon-knight/draconian-pride/",
+      "name": "Draconian Pride",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/dragon-knight/dragon-breath/",
+      "name": "Dragon Breath",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
@@ -3189,6 +3147,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.ability.polder/shadowmeld",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/polder/shadowmeld/",
+      "name": "Shadowmeld",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.ability.pugilist/lets-dance",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/pugilist/lets-dance/",
       "name": "Let's Dance",
@@ -3227,6 +3192,13 @@
       "scc": "mcdm.heroes.v1/feature.ability.retiarius/net-and-stab",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/retiarius/net-and-stab/",
       "name": "Net and Stab",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.revenant/detonate-sigil",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/revenant/detonate-sigil/",
+      "name": "Detonate Sigil",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
@@ -4323,6 +4295,27 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.ability.time-raider/concussive-slam",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/time-raider/concussive-slam/",
+      "name": "Concussive Slam",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/time-raider/minor-acceleration/",
+      "name": "Minor Acceleration",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/time-raider/psionic-bolt/",
+      "name": "Psionic Bolt",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/troubadour/level-1/acrobatics/",
       "name": "Acrobatics",
@@ -4767,6 +4760,13 @@
       "scc": "mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/whirlwind/extension-of-my-arm/",
       "name": "Extension of My Arm",
+      "type": "ability",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/wode-elf/the-wode-defends/",
+      "name": "The Wode Defends",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
