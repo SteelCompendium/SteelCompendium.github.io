@@ -395,6 +395,27 @@
         "source": "mcdm.heroes.v1"
       },
       {
+        "scc": "mcdm.heroes.v1/feature.ability.common/escape-grab",
+        "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/escape-grab/",
+        "name": "Escape Grab",
+        "type": "ability",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.ability.common/grab",
+        "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/grab/",
+        "name": "Grab",
+        "type": "ability",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.ability.common/knockback",
+        "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/knockback/",
+        "name": "Knockback",
+        "type": "ability",
+        "source": "mcdm.heroes.v1"
+      },
+      {
         "scc": "mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike",
         "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/melee-weapon-free-strike/",
         "name": "Melee Weapon Free Strike",
@@ -6279,6 +6300,216 @@
         "source": "mcdm.heroes.v1"
       },
       {
+        "scc": "mcdm.heroes.v1/feature.trait.common/advance",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/advance/",
+        "name": "Advance",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/aid-attack",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/aid-attack/",
+        "name": "Aid Attack",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/ancestry-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/ancestry-traits/",
+        "name": "Ancestry Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/catch-breath",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/catch-breath/",
+        "name": "Catch Breath",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/charge",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/charge/",
+        "name": "Charge",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/defend",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/defend/",
+        "name": "Defend",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/devil-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/devil-traits/",
+        "name": "Devil Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/disengage",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/disengage/",
+        "name": "Disengage",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/dragon-knight-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/dragon-knight-traits/",
+        "name": "Dragon Knight Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/dwarf-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/dwarf-traits/",
+        "name": "Dwarf Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/escape-grab",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/escape-grab/",
+        "name": "Escape Grab",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/free-strike",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/free-strike/",
+        "name": "Free Strike",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/grab",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/grab/",
+        "name": "Grab",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/hakaan-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/hakaan-traits/",
+        "name": "Hakaan Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/heal",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/heal/",
+        "name": "Heal",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/hide",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/hide/",
+        "name": "Hide",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/high-elf-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/high-elf-traits/",
+        "name": "High Elf Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/human-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/human-traits/",
+        "name": "Human Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/knockback",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/knockback/",
+        "name": "Knockback",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/make-or-assist-a-test",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/make-or-assist-a-test/",
+        "name": "Make or Assist a Test",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/memonek-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/memonek-traits/",
+        "name": "Memonek Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/orc-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/orc-traits/",
+        "name": "Orc Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/polder-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/polder-traits/",
+        "name": "Polder Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/revenant-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/revenant-traits/",
+        "name": "Revenant Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/ride",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/ride/",
+        "name": "Ride",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/search-for-hidden-creatures",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/search-for-hidden-creatures/",
+        "name": "Search for Hidden Creatures",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/stand-up",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/stand-up/",
+        "name": "Stand Up",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/time-raider-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/time-raider-traits/",
+        "name": "Time Raider Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/use-consumable",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/use-consumable/",
+        "name": "Use Consumable",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.common/wode-elf-traits",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/wode-elf-traits/",
+        "name": "Wode Elf Traits",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
         "scc": "mcdm.heroes.v1/feature.trait.conduit.level-1/1st-level-domain-feature",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-1/1st-level-domain-feature/",
         "name": "1st-Level Domain Feature",
@@ -9817,97 +10048,6 @@
         "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-9/roar-of-the-crowd",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-9/roar-of-the-crowd/",
         "name": "Roar of the Crowd",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/ancestry-traits",
-        "url": "https://steelcompendium.io/v2/feature/trait/ancestry-traits/",
-        "name": "Ancestry Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/devil-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil-traits/",
-        "name": "Devil Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/dragon-knight-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight-traits/",
-        "name": "Dragon Knight Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/dwarf-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf-traits/",
-        "name": "Dwarf Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/hakaan-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan-traits/",
-        "name": "Hakaan Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/high-elf-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf-traits/",
-        "name": "High Elf Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/human-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/human-traits/",
-        "name": "Human Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/memonek-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek-traits/",
-        "name": "Memonek Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/orc-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc-traits/",
-        "name": "Orc Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/polder-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder-traits/",
-        "name": "Polder Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/revenant-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant-traits/",
-        "name": "Revenant Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/time-raider-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider-traits/",
-        "name": "Time Raider Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait/wode-elf-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf-traits/",
-        "name": "Wode Elf Traits",
         "type": "trait",
         "source": "mcdm.heroes.v1"
       }
