@@ -6419,13 +6419,6 @@
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/feature.trait.common/ancestry-traits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/ancestry-traits/",
-        "name": "Ancestry Traits",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
         "scc": "mcdm.heroes.v1/feature.trait.conduit.level-1/1st-level-domain-feature",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-1/1st-level-domain-feature/",
         "name": "1st-Level Domain Feature",
