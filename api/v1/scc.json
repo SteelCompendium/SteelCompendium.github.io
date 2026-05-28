@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-28T01:59:01Z",
+  "generated": "2026-05-28T13:12:52Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -5467,13 +5467,6 @@
       "scc": "mcdm.heroes.v1/feature.trait.common.move-actions/ride",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/move-actions/ride/",
       "name": "Ride",
-      "type": "trait",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.trait.common/ancestry-traits",
-      "url": "https://steelcompendium.io/v2/Browse/feature/trait/common/ancestry-traits/",
-      "name": "Ancestry Traits",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
