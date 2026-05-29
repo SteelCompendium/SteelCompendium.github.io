@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-28T18:10:54Z",
+  "generated": "2026-05-29T01:43:18Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -1121,6 +1121,69 @@
       "url": "https://steelcompendium.io/v2/Browse/complication/wrongly-imprisoned/",
       "name": "Wrongly Imprisoned",
       "type": "complication",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/bleeding",
+      "url": "https://steelcompendium.io/v2/Browse/condition/bleeding/",
+      "name": "Bleeding",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/dazed",
+      "url": "https://steelcompendium.io/v2/Browse/condition/dazed/",
+      "name": "Dazed",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/frightened",
+      "url": "https://steelcompendium.io/v2/Browse/condition/frightened/",
+      "name": "Frightened",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/grabbed",
+      "url": "https://steelcompendium.io/v2/Browse/condition/grabbed/",
+      "name": "Grabbed",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/prone",
+      "url": "https://steelcompendium.io/v2/Browse/condition/prone/",
+      "name": "Prone",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/restrained",
+      "url": "https://steelcompendium.io/v2/Browse/condition/restrained/",
+      "name": "Restrained",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/slowed",
+      "url": "https://steelcompendium.io/v2/Browse/condition/slowed/",
+      "name": "Slowed",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/taunted",
+      "url": "https://steelcompendium.io/v2/Browse/condition/taunted/",
+      "name": "Taunted",
+      "type": "condition",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/condition/weakened",
+      "url": "https://steelcompendium.io/v2/Browse/condition/weakened/",
+      "name": "Weakened",
+      "type": "condition",
       "source": "mcdm.heroes.v1"
     },
     {
