@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-29T19:33:11Z",
+  "generated": "2026-05-29T22:08:16Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -4974,6 +4974,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-1/censor-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-1/censor-abilities/",
+      "name": "Censor Abilities",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-1/censor-order",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-1/censor-order/",
       "name": "Censor Order",
@@ -5128,6 +5135,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-2/2nd-level-order-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-2/2nd-level-order-ability/",
+      "name": "2nd-Level Order Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-2/2nd-level-order-features",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-2/2nd-level-order-features/",
       "name": "2nd-Level Order Features",
@@ -5180,6 +5194,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-2/stalwart-icon",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-2/stalwart-icon/",
       "name": "Stalwart Icon",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-3/7-wrath-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-3/7-wrath-ability/",
+      "name": "7-Wrath Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -5317,6 +5338,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-5/9-wrath-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-5/9-wrath-ability/",
+      "name": "9-Wrath Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-5/evil-revealed",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-5/evil-revealed/",
       "name": "Evil Revealed",
@@ -5334,6 +5362,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-5/stand-fast",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-5/stand-fast/",
       "name": "Stand Fast!",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-6/6th-level-order-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-6/6th-level-order-ability/",
+      "name": "6th-Level Order Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -5464,6 +5499,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-8/11-wrath-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-8/11-wrath-ability/",
+      "name": "11-Wrath Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-8/8th-level-order-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-8/8th-level-order-feature/",
       "name": "8th-Level Order Feature",
@@ -5495,6 +5537,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.censor.level-8/vow",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-8/vow/",
       "name": "Vow",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.censor.level-9/9th-level-order-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/censor/level-9/9th-level-order-ability/",
+      "name": "9th-Level Order Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -5656,6 +5705,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-fortunate-weather",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-1/blessing-of-fortunate-weather/",
       "name": "Blessing of Fortunate Weather",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-1/conduit-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-1/conduit-abilities/",
+      "name": "Conduit Abilities",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -5877,6 +5933,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-2/2nd-level-domain-ability/",
+      "name": "2nd-Level Domain Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-2/2nd-level-domain-feature/",
       "name": "2nd-Level Domain Feature",
@@ -5894,6 +5957,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-2/the-lists-of-heaven",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-2/the-lists-of-heaven/",
       "name": "The Lists of Heaven",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-3/7-piety-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-3/7-piety-ability/",
+      "name": "7-Piety Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -5943,6 +6013,20 @@
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-5/5th-level-domain-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-5/5th-level-domain-feature/",
       "name": "5th-Level Domain Feature",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-5/9-piety-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-5/9-piety-ability/",
+      "name": "9-Piety Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-6/6th-level-domain-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-6/6th-level-domain-ability/",
+      "name": "6th-Level Domain Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6073,6 +6157,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-8/11-piety-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-8/11-piety-ability/",
+      "name": "11-Piety Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-8/8th-level-domain-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-8/8th-level-domain-feature/",
       "name": "8th-Level Domain Feature",
@@ -6083,6 +6174,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.conduit.level-8/perk",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-8/perk/",
       "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.conduit.level-9/9th-level-domain-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/conduit/level-9/9th-level-domain-ability/",
+      "name": "9th-Level Domain Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6101,9 +6199,86 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/barbed-tail",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/barbed-tail/",
+      "name": "Barbed Tail",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/beast-legs",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/beast-legs/",
+      "name": "Beast Legs",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.devil/devil-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/devil-traits/",
       "name": "Devil Traits",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/glowing-eyes",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/glowing-eyes/",
+      "name": "Glowing Eyes",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/hellsight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/hellsight/",
+      "name": "Hellsight",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/impressive-horns",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/impressive-horns/",
+      "name": "Impressive Horns",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/prehensile-tail",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/prehensile-tail/",
+      "name": "Prehensile Tail",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/silver-tongue",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/silver-tongue/",
+      "name": "Signature Trait: Silver Tongue",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.devil/wings",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/devil/wings/",
+      "name": "Wings",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/draconian-guard/",
+      "name": "Draconian Guard",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/draconian-pride/",
+      "name": "Draconian Pride",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/dragon-breath/",
+      "name": "Dragon Breath",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6115,9 +6290,79 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/prismatic-scales/",
+      "name": "Prismatic Scales",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/remember-your-oath/",
+      "name": "Remember Your Oath",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/wings",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/wings/",
+      "name": "Wings",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/wyrmplate/",
+      "name": "Signature Trait: Wyrmplate",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/dwarf-traits/",
       "name": "Dwarf Traits",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/great-fortitude",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/great-fortitude/",
+      "name": "Great Fortitude",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/grounded",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/grounded/",
+      "name": "Grounded",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/runic-carving",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/runic-carving/",
+      "name": "Signature Trait: Runic Carving",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/spark-off-your-skin/",
+      "name": "Spark Off Your Skin",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/stand-tough",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/stand-tough/",
+      "name": "Stand Tough",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.dwarf/stone-singer",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/dwarf/stone-singer/",
+      "name": "Stone Singer",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6146,6 +6391,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-1/elemental-specialization/",
       "name": "Elemental Specialization",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-1/elementalist-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-1/elementalist-abilities/",
+      "name": "Elementalist Abilities",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6402,6 +6654,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-2/new-5-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-2/new-5-essence-ability/",
+      "name": "New 5-Essence Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-2/perk",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-2/perk/",
       "name": "Perk",
@@ -6419,6 +6678,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-3/3rd-level-specialization-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-3/3rd-level-specialization-feature/",
       "name": "3rd-Level Specialization Feature",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-3/7-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-3/7-essence-ability/",
+      "name": "7-Essence Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6521,6 +6787,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-5/9-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-5/9-essence-ability/",
+      "name": "9-Essence Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-5/hide-of-tenfold-shields",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-5/hide-of-tenfold-shields/",
       "name": "Hide of Tenfold Shields",
@@ -6545,6 +6818,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-5/the-mountain-does-not-move",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-5/the-mountain-does-not-move/",
       "name": "The Mountain Does Not Move",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-6/new-9-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-6/new-9-essence-ability/",
+      "name": "New 9-Essence Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6587,6 +6867,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-7/surging-essence",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-7/surging-essence/",
       "name": "Surging Essence",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-8/11-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-8/11-essence-ability/",
+      "name": "11-Essence Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6636,6 +6923,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-9/grand-wyrding",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-9/grand-wyrding/",
       "name": "Grand Wyrding",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.elementalist.level-9/new-11-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/elementalist/level-9/new-11-essence-ability/",
+      "name": "New 11-Essence Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6752,6 +7046,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-1/fury-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-1/fury-abilities/",
+      "name": "Fury Abilities",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-1/growing-ferocity",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-1/growing-ferocity/",
       "name": "Growing Ferocity",
@@ -6850,6 +7151,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-2/2nd-level-aspect-ability/",
+      "name": "2nd-Level Aspect Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-2/2nd-level-aspect-feature/",
       "name": "2nd-Level Aspect Feature",
@@ -6888,6 +7196,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-3/3rd-level-aspect-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-3/3rd-level-aspect-feature/",
       "name": "3rd-Level Aspect Feature",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-3/7-ferocity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-3/7-ferocity-ability/",
+      "name": "7-Ferocity Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -6969,6 +7284,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-5/9-ferocity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-5/9-ferocity-ability/",
+      "name": "9-Ferocity Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-5/bounder",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-5/bounder/",
       "name": "Bounder",
@@ -6986,6 +7308,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-5/unfettered",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-5/unfettered/",
       "name": "Unfettered",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-6/6th-level-aspect-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-6/6th-level-aspect-ability/",
+      "name": "6th-Level Aspect Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7046,6 +7375,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-8/11-ferocity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-8/11-ferocity-ability/",
+      "name": "11-Ferocity Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-8/8th-level-aspect-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-8/8th-level-aspect-feature/",
       "name": "8th-Level Aspect Feature",
@@ -7077,6 +7413,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.fury.level-8/strongest-there-is",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-8/strongest-there-is/",
       "name": "Strongest There Is",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.fury.level-9/9th-level-aspect-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/level-9/9th-level-aspect-ability/",
+      "name": "9th-Level Aspect Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7228,9 +7571,72 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/all-is-a-feather/",
+      "name": "All Is a Feather",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/big",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/big/",
+      "name": "Signature Trait: Big!",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/doomsight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/doomsight/",
+      "name": "Doomsight",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/forceful",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/forceful/",
+      "name": "Forceful",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/great-fortitude",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/great-fortitude/",
+      "name": "Great Fortitude",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/hakaan-traits/",
       "name": "Hakaan Traits",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.hakaan/stand-tough",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/hakaan/stand-tough/",
+      "name": "Stand Tough",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/glamor-of-terror/",
+      "name": "Glamor of Terror",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/graceful-retreat/",
+      "name": "Graceful Retreat",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/high-elf-glamor/",
+      "name": "Signature Trait: High Elf Glamor",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7242,6 +7648,55 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/high-senses",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/high-senses/",
+      "name": "High Senses",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/otherworldly-grace/",
+      "name": "Otherworldly Grace",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/revisit-memory",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/revisit-memory/",
+      "name": "Revisit Memory",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.high-elf/unstoppable-mind",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/high-elf/unstoppable-mind/",
+      "name": "Unstoppable Mind",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.human/cant-take-hold",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/cant-take-hold/",
+      "name": "Can't Take Hold",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.human/detect-the-supernatural",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/detect-the-supernatural/",
+      "name": "Signature Trait: Detect the Supernatural",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.human/determination",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/determination/",
+      "name": "Determination",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.human/human-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/human-traits/",
       "name": "Human Traits",
@@ -7249,9 +7704,93 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.human/perseverance",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/perseverance/",
+      "name": "Perseverance",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.human/resist-the-unnatural",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/resist-the-unnatural/",
+      "name": "Resist the Unnatural",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.human/staying-power",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/human/staying-power/",
+      "name": "Staying Power",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/fall-lightly",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/fall-lightly/",
+      "name": "Signature Trait: Fall Lightly",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/i-am-law",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/i-am-law/",
+      "name": "I Am Law",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/keeper-of-order",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/keeper-of-order/",
+      "name": "Keeper of Order",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/lightning-nimbleness/",
+      "name": "Lightning Nimbleness",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/lightweight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/lightweight/",
+      "name": "Signature Trait: Lightweight",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.memonek/memonek-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/memonek-traits/",
       "name": "Memonek Traits",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/nonstop",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/nonstop/",
+      "name": "Nonstop",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/systematic-mind",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/systematic-mind/",
+      "name": "Systematic Mind",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/unphased",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/unphased/",
+      "name": "Unphased",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.memonek/useful-emotion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/useful-emotion/",
+      "name": "Useful Emotion",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7308,6 +7847,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.null.level-1/metakinetic-mastery",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-1/metakinetic-mastery/",
       "name": "Metakinetic Mastery",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-1/null-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-1/null-abilities/",
+      "name": "Null Abilities",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7403,6 +7949,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-2/2nd-level-tradition-ability/",
+      "name": "2nd-Level Tradition Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-2/2nd-level-tradition-feature/",
       "name": "2nd-Level Tradition Feature",
@@ -7434,6 +7987,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-2/rapid-processing/",
       "name": "Rapid Processing",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-3/7-discipline-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-3/7-discipline-ability/",
+      "name": "7-Discipline Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7501,6 +8061,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-5/9-discipline-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-5/9-discipline-ability/",
+      "name": "9-Discipline Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.null.level-5/chilling-readiness",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-5/chilling-readiness/",
       "name": "Chilling Readiness",
@@ -7518,6 +8085,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.null.level-5/instant-action",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-5/instant-action/",
       "name": "Instant Action",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-6/6th-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-6/6th-level-tradition-ability/",
+      "name": "6th-Level Tradition Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7627,6 +8201,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-8/11-discipline-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-8/11-discipline-ability/",
+      "name": "11-Discipline Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.null.level-8/8th-level-tradition-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-8/8th-level-tradition-feature/",
       "name": "8th-Level Tradition Feature",
@@ -7662,9 +8243,44 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.null.level-9/9th-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-9/9th-level-tradition-ability/",
+      "name": "9th-Level Tradition Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.null.level-9/i-am-the-weapon",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/null/level-9/i-am-the-weapon/",
       "name": "I Am the Weapon",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/bloodfire-rush",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/bloodfire-rush/",
+      "name": "Bloodfire Rush",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/glowing-recovery",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/glowing-recovery/",
+      "name": "Glowing Recovery",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/grounded",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/grounded/",
+      "name": "Grounded",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/nonstop",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/nonstop/",
+      "name": "Nonstop",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7676,6 +8292,55 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/passionate-artisan",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/passionate-artisan/",
+      "name": "Passionate Artisan",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.orc/relentless",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/relentless/",
+      "name": "Signature Trait: Relentless",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/corruption-immunity",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/corruption-immunity/",
+      "name": "Corruption Immunity",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/fearless",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/fearless/",
+      "name": "Fearless",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/graceful-retreat",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/graceful-retreat/",
+      "name": "Graceful Retreat",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/nimblestep",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/nimblestep/",
+      "name": "Nimblestep",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/polder-geist",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/polder-geist/",
+      "name": "Polder Geist",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.polder/polder-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/polder-traits/",
       "name": "Polder Traits",
@@ -7683,9 +8348,72 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/reactive-tumble",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/reactive-tumble/",
+      "name": "Reactive Tumble",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/small",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/small/",
+      "name": "Signature Trait: Small!",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/bloodless",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/bloodless/",
+      "name": "Bloodless",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/former-life",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/former-life/",
+      "name": "Signature Trait: Former Life",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/previous-life-1-point/",
+      "name": "Previous Life: 1 Point",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/previous-life-2-points",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/previous-life-2-points/",
+      "name": "Previous Life: 2 Points",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.revenant/revenant-traits",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/revenant-traits/",
       "name": "Revenant Traits",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/tough-but-withered",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/tough-but-withered/",
+      "name": "Signature Trait: Tough But Withered",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/undead-influence",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/undead-influence/",
+      "name": "Undead Influence",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.revenant/vengeance-mark",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/vengeance-mark/",
+      "name": "Vengeance Mark",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7742,6 +8470,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-1/kit",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-1/kit/",
       "name": "Kit",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-1/shadow-abilities/",
+      "name": "Shadow Abilities",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7809,6 +8544,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-2/2nd-level-college-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-2/2nd-level-college-ability/",
+      "name": "2nd-Level College Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-2/2nd-level-college-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-2/2nd-level-college-feature/",
       "name": "2nd-Level College Feature",
@@ -7840,6 +8582,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-2/trained-assassin",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-2/trained-assassin/",
       "name": "Trained Assassin",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-3/7-insight-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-3/7-insight-ability/",
+      "name": "7-Insight Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7900,6 +8649,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-5/9-insight-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-5/9-insight-ability/",
+      "name": "9-Insight Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-5/harlequin-gambit",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-5/harlequin-gambit/",
       "name": "Harlequin Gambit",
@@ -7917,6 +8673,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-5/volatile-reagents",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-5/volatile-reagents/",
       "name": "Volatile Reagents",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-6/6th-level-college-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-6/6th-level-college-ability/",
+      "name": "6th-Level College Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -7970,6 +8733,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-8/11-insight-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-8/11-insight-ability/",
+      "name": "11-Insight Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-8/8th-level-college-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-8/8th-level-college-feature/",
       "name": "8th-Level College Feature",
@@ -8005,6 +8775,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.shadow.level-9/9th-level-college-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-9/9th-level-college-ability/",
+      "name": "9th-Level College Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.shadow.level-9/gloom-squad",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/shadow/level-9/gloom-squad/",
       "name": "Gloom Squad",
@@ -8015,6 +8792,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-1/1st-level-doctrine-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-1/1st-level-doctrine-feature/",
       "name": "1st-Level Doctrine Feature",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-1/5-focus-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-1/5-focus-ability/",
+      "name": "5-Focus Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8089,6 +8873,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-1/tactician-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-1/tactician-abilities/",
+      "name": "Tactician Abilities",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-10/characteristic-increase",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-10/characteristic-increase/",
       "name": "Characteristic Increase",
@@ -8131,6 +8922,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-2/2nd-level-doctrine-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-2/2nd-level-doctrine-ability/",
+      "name": "2nd-Level Doctrine Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-2/2nd-level-doctrine-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-2/2nd-level-doctrine-feature/",
       "name": "2nd-Level Doctrine Feature",
@@ -8162,6 +8960,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-2/perk",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-2/perk/",
       "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-3/7-focus-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-3/7-focus-ability/",
+      "name": "7-Focus Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8215,6 +9020,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-5/9-focus-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-5/9-focus-ability/",
+      "name": "9-Focus Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-5/anticipation",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-5/anticipation/",
       "name": "Anticipation",
@@ -8253,6 +9065,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-5/tactical-offensive",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-5/tactical-offensive/",
       "name": "Tactical Offensive",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-6/6th-level-doctrine-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-6/6th-level-doctrine-ability/",
+      "name": "6th-Level Doctrine Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8327,6 +9146,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-8/11-focus-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-8/11-focus-ability/",
+      "name": "11-Focus Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-8/8th-level-doctrine-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-8/8th-level-doctrine-feature/",
       "name": "8th-Level Doctrine Feature",
@@ -8358,6 +9184,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.tactician.level-8/see-your-enemies-driven-before-you",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-8/see-your-enemies-driven-before-you/",
       "name": "See Your Enemies Driven Before You",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.tactician.level-9/9th-level-doctrine-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/tactician/level-9/9th-level-doctrine-ability/",
+      "name": "9th-Level Doctrine Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8495,6 +9328,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-1/talent-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-1/talent-abilities/",
+      "name": "Talent Abilities",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-1/talent-tradition",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-1/talent-tradition/",
       "name": "Talent Tradition",
@@ -8572,6 +9412,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-2/2nd-level-tradition-ability/",
+      "name": "2nd-Level Tradition Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-2/2nd-level-tradition-feature/",
       "name": "2nd-Level Tradition Feature",
@@ -8603,6 +9450,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-2/perk",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-2/perk/",
       "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-3/7-clarity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-3/7-clarity-ability/",
+      "name": "7-Clarity Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8663,6 +9517,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-5/9-clarity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-5/9-clarity-ability/",
+      "name": "9-Clarity Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-5/compulsion",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-5/compulsion/",
       "name": "Compulsion",
@@ -8701,6 +9562,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-5/triangulate",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-5/triangulate/",
       "name": "Triangulate",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-6/6th-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-6/6th-level-tradition-ability/",
+      "name": "6th-Level Tradition Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8803,6 +9671,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-8/11-clarity-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-8/11-clarity-ability/",
+      "name": "11-Clarity Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-8/8th-level-tradition-features",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-8/8th-level-tradition-features/",
       "name": "8th-Level Tradition Features",
@@ -8859,9 +9734,58 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.talent.level-9/9th-level-tradition-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-9/9th-level-tradition-ability/",
+      "name": "9th-Level Tradition Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.talent.level-9/fortress-of-perfect-thought",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/talent/level-9/fortress-of-perfect-thought/",
       "name": "Fortress of Perfect Thought",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/beyondsight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/beyondsight/",
+      "name": "Beyondsight",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/foresight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/foresight/",
+      "name": "Foresight",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/four-armed-athletics/",
+      "name": "Four-Armed Athletics",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/four-armed-martial-arts/",
+      "name": "Four-Armed Martial Arts",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/psionic-gift",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/psionic-gift/",
+      "name": "Psionic Gift",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.time-raider/psychic-scar",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/time-raider/psychic-scar/",
+      "name": "Signature Trait: Psychic Scar",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -8943,9 +9867,23 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-1/signature-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-1/signature-ability/",
+      "name": "Signature Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-1/star-power",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-1/star-power/",
       "name": "Star Power",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-1/troubadour-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-1/troubadour-abilities/",
+      "name": "Troubadour Abilities",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -9006,6 +9944,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-2/2nd-level-class-act-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-2/2nd-level-class-act-ability/",
+      "name": "2nd-Level Class Act Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-2/allow-me-to-introduce-tonights-players",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-2/allow-me-to-introduce-tonights-players/",
       "name": "Allow Me to Introduce Tonight's Players",
@@ -9051,6 +9996,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-3/3rd-level-class-act-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-3/3rd-level-class-act-feature/",
       "name": "3rd-Level Class Act Feature",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-3/7-drama-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-3/7-drama-ability/",
+      "name": "7-Drama Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -9139,6 +10091,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-5/9-drama-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-5/9-drama-ability/",
+      "name": "9-Drama Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-5/auteur-features",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-5/auteur-features/",
       "name": "Auteur Features",
@@ -9156,6 +10115,13 @@
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-5/virtuoso-features",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-5/virtuoso-features/",
       "name": "Virtuoso Features",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-6/6th-level-class-act-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-6/6th-level-class-act-ability/",
+      "name": "6th-Level Class Act Ability",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -9202,6 +10168,13 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-8/11-drama-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-8/11-drama-ability/",
+      "name": "11-Drama Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-8/8th-level-class-act-feature",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-8/8th-level-class-act-feature/",
       "name": "8th-Level Class Act Feature",
@@ -9237,9 +10210,65 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-9/9th-level-class-act-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-9/9th-level-class-act-ability/",
+      "name": "9th-Level Class Act Ability",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/feature.trait.troubadour.level-9/roar-of-the-crowd",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/troubadour/level-9/roar-of-the-crowd/",
       "name": "Roar of the Crowd",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/forest-walk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/forest-walk/",
+      "name": "Forest Walk",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/otherworldly-grace/",
+      "name": "Otherworldly Grace",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/quick-and-brutal/",
+      "name": "Quick and Brutal",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/revisit-memory/",
+      "name": "Revisit Memory",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/swift",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/swift/",
+      "name": "Swift",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/the-wode-defends/",
+      "name": "The Wode Defends",
+      "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/wode-elf-glamor/",
+      "name": "Signature Trait: Wode Elf Glamor",
       "type": "trait",
       "source": "mcdm.heroes.v1"
     },
@@ -9248,6 +10277,69 @@
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/wode-elf/wode-elf-traits/",
       "name": "Wode Elf Traits",
       "type": "trait",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/adun",
+      "url": "https://steelcompendium.io/v2/god/adun/",
+      "name": "Adûn",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/cavall",
+      "url": "https://steelcompendium.io/v2/god/cavall/",
+      "name": "Cavall",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/kul",
+      "url": "https://steelcompendium.io/v2/god/kul/",
+      "name": "Kul",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/nebular",
+      "url": "https://steelcompendium.io/v2/god/nebular/",
+      "name": "Nebular the Star Mother",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/ord",
+      "url": "https://steelcompendium.io/v2/god/ord/",
+      "name": "Ord",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/ov",
+      "url": "https://steelcompendium.io/v2/god/ov/",
+      "name": "OV the Wave Pilot",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/salorna",
+      "url": "https://steelcompendium.io/v2/god/salorna/",
+      "name": "Salorna",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/thellasko",
+      "url": "https://steelcompendium.io/v2/god/thellasko/",
+      "name": "Thellasko the Great Designer",
+      "type": "god",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/god/val",
+      "url": "https://steelcompendium.io/v2/god/val/",
+      "name": "Val",
+      "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
@@ -9927,6 +11019,118 @@
       "url": "https://steelcompendium.io/v2/Browse/perk/wood-wise/",
       "name": "Wood Wise",
       "type": "perk",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/build-airship",
+      "url": "https://steelcompendium.io/v2/project/build-airship/",
+      "name": "Build Airship",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/build-or-repair-road",
+      "url": "https://steelcompendium.io/v2/project/build-or-repair-road/",
+      "name": "Build or Repair Road",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/community-service",
+      "url": "https://steelcompendium.io/v2/project/community-service/",
+      "name": "Community Service",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/craft-teleportation-platform",
+      "url": "https://steelcompendium.io/v2/project/craft-teleportation-platform/",
+      "name": "Craft Teleportation Platform",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/craft-treasure",
+      "url": "https://steelcompendium.io/v2/project/craft-treasure/",
+      "name": "Craft Treasure",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/discover-lore",
+      "url": "https://steelcompendium.io/v2/project/discover-lore/",
+      "name": "Discover Lore",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/find-a-cure",
+      "url": "https://steelcompendium.io/v2/project/find-a-cure/",
+      "name": "Find a Cure",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/fishing",
+      "url": "https://steelcompendium.io/v2/project/fishing/",
+      "name": "Fishing",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/go-undercover",
+      "url": "https://steelcompendium.io/v2/project/go-undercover/",
+      "name": "Go Undercover",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/hone-career-skills",
+      "url": "https://steelcompendium.io/v2/project/hone-career-skills/",
+      "name": "Hone Career Skills",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/imbue-treasure",
+      "url": "https://steelcompendium.io/v2/project/imbue-treasure/",
+      "name": "Imbue Treasure",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/learn-from-a-master",
+      "url": "https://steelcompendium.io/v2/project/learn-from-a-master/",
+      "name": "Learn From a Master",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/learn-new-language",
+      "url": "https://steelcompendium.io/v2/project/learn-new-language/",
+      "name": "Learn New Language",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/learn-new-skill",
+      "url": "https://steelcompendium.io/v2/project/learn-new-skill/",
+      "name": "Learn New Skill",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/perfect-new-recipe",
+      "url": "https://steelcompendium.io/v2/project/perfect-new-recipe/",
+      "name": "Perfect New Recipe",
+      "type": "project",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/project/spend-time-with-loved-ones",
+      "url": "https://steelcompendium.io/v2/project/spend-time-with-loved-ones/",
+      "name": "Spend Time With Loved Ones",
+      "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
