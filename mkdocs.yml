@@ -15,8 +15,6 @@ theme:
 # Extensions
 markdown_extensions:
    - footnotes
-   -  pymdownx.arithmatex:
-         generic: true
    -  pymdownx.tasklist:
          custom_checkbox: true
    - def_list
@@ -25,11 +23,7 @@ markdown_extensions:
    - pymdownx.keys
    - pymdownx.mark
    - pymdownx.tilde
-   -  pymdownx.superfences:
-         custom_fences:
-            -  name: mermaid
-               class: mermaid
-               format: !!python/name:pymdownx.superfences.fence_code_format
+   - pymdownx.superfences
    -  toc:
          permalink: true
          toc_depth: 1-8
@@ -46,10 +40,3 @@ extras:
 extra_css:
    - stylesheets/extra.css
    - stylesheets/custom_font.css
-
-extra_javascript:
-   - javascripts/mathjax.js
-   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-   - https://unpkg.com/mermaid/dist/mermaid.min.js
-   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-   - javascripts/tablesort.js
