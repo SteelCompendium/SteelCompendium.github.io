@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-06-01T14:14:31Z",
+  "generated": "2026-06-01T20:07:51Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -3378,9 +3378,9 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-1/black-ash-teleport-scc-mcdm-heroes-v1-movement-teleport/",
-      "name": "Black Ash [Teleport](scc:mcdm.heroes.v1/movement/teleport)",
+      "scc": "mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-1/black-ash-teleport/",
+      "name": "Black Ash Teleport",
       "type": "ability",
       "source": "mcdm.heroes.v1"
     },
