@@ -1,8 +1,1520 @@
 {
   "version": 1,
-  "generated": "2026-06-02T15:40:13Z",
+  "generated": "2026-06-02T20:55:41Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
+    {
+      "scc": "mcdm.beastheart.v1/chapter/the-beastheart-and-the-faeries",
+      "url": "https://steelcompendium.io/v2/Read/chapter/the-beastheart-and-the-faeries/",
+      "name": "The Beastheart \u0026 The Faeries",
+      "type": "chapter",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/class/beastheart",
+      "url": "https://steelcompendium.io/v2/Browse/class/beastheart/",
+      "name": "The Beastheart Class",
+      "type": "class",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/basilisk",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/basilisk/",
+      "name": "Basilisk",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/bear",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/bear/",
+      "name": "Bear",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/boar",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/boar/",
+      "name": "Boar",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/condor",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/condor/",
+      "name": "Condor",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/deinonychus",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/deinonychus/",
+      "name": "Deinonychus",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/drake",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/drake/",
+      "name": "Drake",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/elemental-spark",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/elemental-spark/",
+      "name": "Elemental Spark",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/gummy-ball",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/gummy-ball/",
+      "name": "Gummy Ball",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/hellhound",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/hellhound/",
+      "name": "Hellhound",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/lightbender",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/lightbender/",
+      "name": "Lightbender",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/panther",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/panther/",
+      "name": "Panther",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/spider",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/spider/",
+      "name": "Spider",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/sporeling",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/sporeling/",
+      "name": "Sporeling",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature-group.companion/wolf",
+      "url": "https://steelcompendium.io/v2/feature-group/companion/wolf/",
+      "name": "Wolf",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/all-of-you-versus-all-of-me",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/all-of-you-versus-all-of-me/",
+      "name": "All of You Versus All of Me",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/avalanche-rush",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/avalanche-rush/",
+      "name": "Avalanche Rush",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/bodyswap",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/bodyswap/",
+      "name": "Bodyswap",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/bring-the-thunder/",
+      "name": "Bring the Thunder",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/come-on",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/come-on/",
+      "name": "Come On!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/covering-fire/",
+      "name": "Covering Fire",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/feral-strike",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/feral-strike/",
+      "name": "Feral Strike",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/heart-of-the-beast",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/heart-of-the-beast/",
+      "name": "Heart of the Beast",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/herd-the-sheep",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/herd-the-sheep/",
+      "name": "Herd the Sheep",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/hungry-like-the-wolf/",
+      "name": "Hungry Like the Wolf",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/i-feed-on-your-pain",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/i-feed-on-your-pain/",
+      "name": "I Feed On Your Pain!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/jaws-of-the-storm",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/jaws-of-the-storm/",
+      "name": "Jaws of the Storm",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/lightning-leap",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/lightning-leap/",
+      "name": "Lightning Leap",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/living-arrow",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/living-arrow/",
+      "name": "Living Arrow",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/pushover",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/pushover/",
+      "name": "Pushover",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/pyre",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/pyre/",
+      "name": "Pyre",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/rain-of-fire/",
+      "name": "Rain of Fire",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/shadow-in-the-mist",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/shadow-in-the-mist/",
+      "name": "Shadow in the Mist",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/stormrage/",
+      "name": "Stormrage",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/the-pack-defends/",
+      "name": "The Pack Defends",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/thunderclap",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/thunderclap/",
+      "name": "Thunderclap",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-1/you-let-me-get-too-close/",
+      "name": "You Let Me Get Too Close",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/burning-lash",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/burning-lash/",
+      "name": "Burning Lash",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/fetch",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/fetch/",
+      "name": "Fetch!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/foe-bowling",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/foe-bowling/",
+      "name": "Foe Bowling",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/howling-gale",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/howling-gale/",
+      "name": "Howling Gale",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/jump-scare",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/jump-scare/",
+      "name": "Jump Scare",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/omnomnom",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/omnomnom/",
+      "name": "Omnomnom",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/on-you-like-your-shadow",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/on-you-like-your-shadow/",
+      "name": "On You Like Your Shadow",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/one-roar-and-were-back-in-the-fight",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/one-roar-and-were-back-in-the-fight/",
+      "name": "One Roar and We're Back In the Fight",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-2/this-ones-yours/",
+      "name": "This One's Yours",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-3/death-and-violence",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-3/death-and-violence/",
+      "name": "Death and Violence",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-3/head-to-head",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-3/head-to-head/",
+      "name": "Head to Head",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-3/jaws-of-death/",
+      "name": "Jaws of Death",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-3/shieldbreaker/",
+      "name": "Shieldbreaker",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-5/deadshot/",
+      "name": "Deadshot",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-5/dogpile/",
+      "name": "Dogpile",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-5/one-two-three-heave/",
+      "name": "One, Two, Three, Heave",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-5/rip-them-apart/",
+      "name": "Rip Them Apart!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/elements-unleashed",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/elements-unleashed/",
+      "name": "Elements Unleashed",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/killing-frost",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/killing-frost/",
+      "name": "Killing Frost",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/lead-the-pack",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/lead-the-pack/",
+      "name": "Lead the Pack",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/rolling-thunder/",
+      "name": "Rolling Thunder",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/sic-em",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/sic-em/",
+      "name": "Sic 'Em!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/soft-underbelly",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/soft-underbelly/",
+      "name": "Soft Underbelly",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/stare-down",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/stare-down/",
+      "name": "Stare Down",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-6/wraith-heart",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-6/wraith-heart/",
+      "name": "Wraith Heart",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-8/life-drinking-wound",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-8/life-drinking-wound/",
+      "name": "Life-Drinking Wound",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-8/on-the-razors-edge",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-8/on-the-razors-edge/",
+      "name": "On the Razor's Edge",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-8/ride-or-die",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-8/ride-or-die/",
+      "name": "Ride or Die",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-8/turn-the-world-to-ash",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-8/turn-the-world-to-ash/",
+      "name": "Turn the World To Ash",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/banshee-howl/",
+      "name": "Banshee Howl",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/battle-frenzy/",
+      "name": "Battle Frenzy",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/behold-the-face-of-chaos/",
+      "name": "Behold the Face of Chaos",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/for-the-pack/",
+      "name": "For the Pack!",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/juggernaut/",
+      "name": "Juggernaut",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/lets-take-this-outside",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/lets-take-this-outside/",
+      "name": "Let's Take This Outside",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/relentless",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/relentless/",
+      "name": "Relentless",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-9/wild-hunt/",
+      "name": "Wild Hunt",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.basilisk.level-1/petrify",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/basilisk/level-1/petrify/",
+      "name": "Petrify",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.bear.level-1/backhand",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/bear/level-1/backhand/",
+      "name": "Backhand",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/boar/level-1/gore/",
+      "name": "Gore",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.condor.level-1/flurry-of-wings",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/condor/level-1/flurry-of-wings/",
+      "name": "Flurry of Wings",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.deinonychus.level-1/terrible-claws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/deinonychus/level-1/terrible-claws/",
+      "name": "Terrible Claws",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.drake.level-1/drake-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/drake/level-1/drake-breath/",
+      "name": "Drake Breath",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.elemental-spark.level-1/static-shock",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/elemental-spark/level-1/static-shock/",
+      "name": "Static Shock",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.gummy-ball.level-1/absorb",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/gummy-ball/level-1/absorb/",
+      "name": "Absorb",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.hellhound.level-1/fire-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/hellhound/level-1/fire-breath/",
+      "name": "Fire Breath",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.lightbender.level-1/sparking-tail-whip",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/lightbender/level-1/sparking-tail-whip/",
+      "name": "Sparking Tail Whip",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.panther.level-1/pounce",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/panther/level-1/pounce/",
+      "name": "Pounce",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.spider.level-1/web-shot",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/spider/level-1/web-shot/",
+      "name": "Web Shot",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/sporeling/level-1/spore-puff/",
+      "name": "Spore Puff",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.wolf.level-1/clamping-jaws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/wolf/level-1/clamping-jaws/",
+      "name": "Clamping Jaws",
+      "type": "ability",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/adding-and-subtracting-actions",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/adding-and-subtracting-actions/",
+      "name": "Adding and Subtracting Actions",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/basics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/basics/",
+      "name": "Basics",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/beastheart-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/beastheart-abilities/",
+      "name": "Beastheart Abilities",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/beasthearts-and-magic-treasure",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/beasthearts-and-magic-treasure/",
+      "name": "Beasthearts and Magic Treasure",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/companion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/companion/",
+      "name": "Companion",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/companion-rules",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/companion-rules/",
+      "name": "Companion Rules",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/ferocity",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/ferocity/",
+      "name": "Ferocity",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/heart-of-the-beast",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/heart-of-the-beast/",
+      "name": "Heart of the Beast",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/kit",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/kit/",
+      "name": "Kit",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/rampage",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/rampage/",
+      "name": "Rampage",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/wild-nature/",
+      "name": "Wild Nature",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature-maneuver",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/wild-nature-maneuver/",
+      "name": "Wild Nature Maneuver",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature-triggered-action",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-1/wild-nature-triggered-action/",
+      "name": "Wild Nature Triggered Action",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/companion-advancement-feature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/companion-advancement-feature/",
+      "name": "Companion Advancement Feature",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/ferox",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/ferox/",
+      "name": "Ferox",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/final-evolution",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/final-evolution/",
+      "name": "Final Evolution",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/perk/",
+      "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/rampage-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/rampage-improvement/",
+      "name": "Rampage Improvement",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-10/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-10/skill/",
+      "name": "Skill",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/everyones-best-friend",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/everyones-best-friend/",
+      "name": "Everyone's Best Friend",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/perk/",
+      "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/stormheart",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/stormheart/",
+      "name": "Stormheart",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/supersniffer",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/supersniffer/",
+      "name": "Supersniffer",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/this-ones-yours",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/this-ones-yours/",
+      "name": "This One's Yours",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/watchdog",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/watchdog/",
+      "name": "Watchdog",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-3/companion-advancement-feature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-3/companion-advancement-feature/",
+      "name": "Companion Advancement Feature",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-4/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-4/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-4/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-4/perk/",
+      "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-4/rampage-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-4/rampage-improvement/",
+      "name": "Rampage Improvement",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-4/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-4/skill/",
+      "name": "Skill",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-4/unleash-the-beast",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-4/unleash-the-beast/",
+      "name": "Unleash the Beast",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/i-can-take-it",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/i-can-take-it/",
+      "name": "I Can Take It",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/melt-away",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/melt-away/",
+      "name": "Melt Away",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/there-for-each-other",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/there-for-each-other/",
+      "name": "There For Each Other",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/wildfire-pyre",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/wildfire-pyre/",
+      "name": "Wildfire Pyre",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-6/become-the-beast",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-6/become-the-beast/",
+      "name": "Become the Beast",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-6/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-6/perk/",
+      "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-7/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-7/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-7/feral-heart",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-7/feral-heart/",
+      "name": "Feral Heart",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-7/rampage-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-7/rampage-improvement/",
+      "name": "Rampage Improvement",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-7/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-7/skill/",
+      "name": "Skill",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/born-to-run",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/born-to-run/",
+      "name": "Born to Run",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/built-for-violence",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/built-for-violence/",
+      "name": "Built for Violence",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/nature-will-not-harm-us",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/nature-will-not-harm-us/",
+      "name": "Nature Will Not Harm Us",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/perk/",
+      "name": "Perk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/reflexes-perfected",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/reflexes-perfected/",
+      "name": "Reflexes Perfected",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-9/avatar-of-the-green",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-9/avatar-of-the-green/",
+      "name": "Avatar of the Green",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.basilisk.level-1/stoned",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/basilisk/level-1/stoned/",
+      "name": "Stoned",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.basilisk.level-10/heart-of-stone",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/basilisk/level-10/heart-of-stone/",
+      "name": "Heart of Stone",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.basilisk.level-3/foes-forever-frozen",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/basilisk/level-3/foes-forever-frozen/",
+      "name": "Foes Forever Frozen",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.basilisk.level-6/rock-smasher",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/basilisk/level-6/rock-smasher/",
+      "name": "Rock Smasher",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.bear.level-1/strong-like-bear",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/bear/level-1/strong-like-bear/",
+      "name": "Strong Like Bear",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.bear.level-10/twin-colossi",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/bear/level-10/twin-colossi/",
+      "name": "Twin Colossi",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.bear.level-3/foe-thresher",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/bear/level-3/foe-thresher/",
+      "name": "Foe Thresher",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.bear.level-6/ursine-form",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/bear/level-6/ursine-form/",
+      "name": "Ursine Form",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.boar.level-1/spiteful-endurance",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/boar/level-1/spiteful-endurance/",
+      "name": "Spiteful Endurance",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.boar.level-10/immortal-rage",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/boar/level-10/immortal-rage/",
+      "name": "Immortal Rage",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.boar.level-3/greased-pig",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/boar/level-3/greased-pig/",
+      "name": "Greased Pig",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.boar.level-6/wild-rush",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/boar/level-6/wild-rush/",
+      "name": "Wild Rush",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.condor.level-1/moving-target",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/condor/level-1/moving-target/",
+      "name": "Moving Target",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.condor.level-10/flight-of-the-condor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/condor/level-10/flight-of-the-condor/",
+      "name": "Flight of the Condor",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.condor.level-3/dive-bomb",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/condor/level-3/dive-bomb/",
+      "name": "Dive Bomb",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.condor.level-6/borne-aloft",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/condor/level-6/borne-aloft/",
+      "name": "Borne Aloft",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-1/blood-frenzy",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/deinonychus/level-1/blood-frenzy/",
+      "name": "Blood Frenzy",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-10/reaping-scythe",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/deinonychus/level-10/reaping-scythe/",
+      "name": "Reaping Scythe",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-3/tear-you-to-ribbons",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/deinonychus/level-3/tear-you-to-ribbons/",
+      "name": "Tear You to Ribbons",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-6/slake-my-thirst-in-blood",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/deinonychus/level-6/slake-my-thirst-in-blood/",
+      "name": "Slake My Thirst in Blood",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.drake.level-1/elementally-attuned",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/drake/level-1/elementally-attuned/",
+      "name": "Elementally Attuned",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.drake.level-1/shared-scales",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/drake/level-1/shared-scales/",
+      "name": "Shared Scales",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.drake.level-10/elemental-avatar",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/drake/level-10/elemental-avatar/",
+      "name": "Elemental Avatar",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.drake.level-3/endless-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/drake/level-3/endless-breath/",
+      "name": "Endless Breath",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.drake.level-6/a-burning-inside-me",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/drake/level-6/a-burning-inside-me/",
+      "name": "A Burning Inside Me",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-1/electric-surge",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/elemental-spark/level-1/electric-surge/",
+      "name": "Electric Surge",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-10/lightning-speed",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/elemental-spark/level-10/lightning-speed/",
+      "name": "Lightning Speed",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-3/electroshock",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/elemental-spark/level-3/electroshock/",
+      "name": "Electroshock",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-6/conductive",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/elemental-spark/level-6/conductive/",
+      "name": "Conductive",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-1/gelatinous",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/gummy-ball/level-1/gelatinous/",
+      "name": "Gelatinous",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-10/runaway-expansion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/gummy-ball/level-10/runaway-expansion/",
+      "name": "Runaway Expansion",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-3/suck-it-up",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/gummy-ball/level-3/suck-it-up/",
+      "name": "Suck It Up",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-6/taffy-pull",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/gummy-ball/level-6/taffy-pull/",
+      "name": "Taffy Pull",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.hellhound.level-1/hellish-pact",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/hellhound/level-1/hellish-pact/",
+      "name": "Hellish Pact",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.hellhound.level-10/wreathed-in-flames",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/hellhound/level-10/wreathed-in-flames/",
+      "name": "Wreathed in Flames",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.hellhound.level-3/infernal-apparition",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/hellhound/level-3/infernal-apparition/",
+      "name": "Infernal Apparition",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.hellhound.level-6/slavering-jaws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/hellhound/level-6/slavering-jaws/",
+      "name": "Slavering Jaws",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.lightbender.level-1/avoidance",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/lightbender/level-1/avoidance/",
+      "name": "Avoidance",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.lightbender.level-10/everywhere-and-nowhere",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/lightbender/level-10/everywhere-and-nowhere/",
+      "name": "Everywhere and Nowhere",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.lightbender.level-3/hit-and-run",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/lightbender/level-3/hit-and-run/",
+      "name": "Hit and Run",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.lightbender.level-6/lightbearer",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/lightbender/level-6/lightbearer/",
+      "name": "Lightbearer",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.panther.level-1/mighty-spring",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/panther/level-1/mighty-spring/",
+      "name": "Mighty Spring",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.panther.level-10/panther-spirit",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/panther/level-10/panther-spirit/",
+      "name": "Panther Spirit",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.panther.level-3/cat-and-mouse",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/panther/level-3/cat-and-mouse/",
+      "name": "Cat and Mouse",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.panther.level-6/single-bound",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/panther/level-6/single-bound/",
+      "name": "Single Bound",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.spider.level-1/come-into-my-parlor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/spider/level-1/come-into-my-parlor/",
+      "name": "Come Into My Parlor",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.spider.level-10/life-drinker",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/spider/level-10/life-drinker/",
+      "name": "Life Drinker",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.spider.level-3/dripping-fangs",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/spider/level-3/dripping-fangs/",
+      "name": "Dripping Fangs",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.spider.level-6/web-slinger",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/spider/level-6/web-slinger/",
+      "name": "Web Slinger",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.sporeling.level-1/skulker",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/sporeling/level-1/skulker/",
+      "name": "Skulker",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.sporeling.level-10/trailing-mycelia",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/sporeling/level-10/trailing-mycelia/",
+      "name": "Trailing Mycelia",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.sporeling.level-3/slowing-spores",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/sporeling/level-3/slowing-spores/",
+      "name": "Slowing Spores",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.sporeling.level-6/plant-walk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/sporeling/level-6/plant-walk/",
+      "name": "Plant Walk",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.wolf.level-1/retriever",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/wolf/level-1/retriever/",
+      "name": "Retriever",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.wolf.level-10/dire-wolf",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/wolf/level-10/dire-wolf/",
+      "name": "Dire Wolf",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.wolf.level-3/my-what-big-teeth-you-have",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/wolf/level-3/my-what-big-teeth-you-have/",
+      "name": "My, What Big Teeth You Have",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/feature.trait.companion.wolf.level-6/call-of-the-wild",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/companion/wolf/level-6/call-of-the-wild/",
+      "name": "Call of the Wild",
+      "type": "trait",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/born-tracker",
+      "url": "https://steelcompendium.io/v2/Browse/perk/born-tracker/",
+      "name": "Born Tracker",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/people-sense",
+      "url": "https://steelcompendium.io/v2/Browse/perk/people-sense/",
+      "name": "People Sense",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/ride-along",
+      "url": "https://steelcompendium.io/v2/Browse/perk/ride-along/",
+      "name": "Ride Along",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/trained-thief",
+      "url": "https://steelcompendium.io/v2/Browse/perk/trained-thief/",
+      "name": "Trained Thief",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/voice-of-the-wild",
+      "url": "https://steelcompendium.io/v2/Browse/perk/voice-of-the-wild/",
+      "name": "Voice of the Wild",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/wild-rumpus",
+      "url": "https://steelcompendium.io/v2/Browse/perk/wild-rumpus/",
+      "name": "Wild Rumpus",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/wilds-explorer",
+      "url": "https://steelcompendium.io/v2/Browse/perk/wilds-explorer/",
+      "name": "Wilds Explorer",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/perk/you-can-pet-them-theyre-friendly",
+      "url": "https://steelcompendium.io/v2/Browse/perk/you-can-pet-them-theyre-friendly/",
+      "name": "You Can Pet Them, They're Friendly",
+      "type": "perk",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/bandana-of-invisibility",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/bandana-of-invisibility/",
+      "name": "Bandana of Invisibility",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/battle-wings",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/battle-wings/",
+      "name": "Battle Wings",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/cavalry-armor",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/cavalry-armor/",
+      "name": "Cavalry Armor",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/glancing-bow",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/glancing-bow/",
+      "name": "Glancing Bow",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/horned-champion",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/horned-champion/",
+      "name": "Horned Champion",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/longclaw",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/longclaw/",
+      "name": "Longclaw",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/pack-harness",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/pack-harness/",
+      "name": "Pack Harness",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/precious-collar",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/precious-collar/",
+      "name": "Precious Collar",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/rampant-shield",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/rampant-shield/",
+      "name": "Rampant Shield",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/ruby-ring-of-recall",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/ruby-ring-of-recall/",
+      "name": "Ruby Ring of Recall",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/scorpion-tails",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/scorpion-tails/",
+      "name": "Scorpion Tails",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/speaking-scarab",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/speaking-scarab/",
+      "name": "Speaking Scarab",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/thorn-dragonscale",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/thorn-dragonscale/",
+      "name": "Thorn Dragonscale",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/treasure/werewolf-tooth-pendant",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/werewolf-tooth-pendant/",
+      "name": "Werewolf Tooth Pendant",
+      "type": "treasure",
+      "source": "mcdm.beastheart.v1"
+    },
     {
       "scc": "mcdm.heroes.v1/ancestry/devil",
       "url": "https://steelcompendium.io/v2/Browse/ancestry/devil/",
