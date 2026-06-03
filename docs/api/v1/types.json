@@ -7499,6 +7499,20 @@
         "source": "mcdm.beastheart.v1"
       },
       {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/2nd-level-wild-nature-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/2nd-level-wild-nature-ability/",
+        "name": "2nd-Level Wild Nature Ability",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/2nd-level-wild-nature-feature",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/2nd-level-wild-nature-feature/",
+        "name": "2nd-Level Wild Nature Feature",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/everyones-best-friend",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/everyones-best-friend/",
         "name": "Everyone's Best Friend",
@@ -7537,6 +7551,13 @@
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-2/watchdog",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-2/watchdog/",
         "name": "Watchdog",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-3/7-ferocity-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-3/7-ferocity-ability/",
+        "name": "7-Ferocity Ability",
         "type": "trait",
         "source": "mcdm.beastheart.v1"
       },
@@ -7583,6 +7604,20 @@
         "source": "mcdm.beastheart.v1"
       },
       {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/5th-level-wild-nature-feature",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/5th-level-wild-nature-feature/",
+        "name": "5th-Level Wild Nature Feature",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/9-ferocity-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/9-ferocity-ability/",
+        "name": "9-Ferocity Ability",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/i-can-take-it",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/i-can-take-it/",
         "name": "I Can Take It",
@@ -7607,6 +7642,13 @@
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-5/wildfire-pyre",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-5/wildfire-pyre/",
         "name": "Wildfire Pyre",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-6/6th-level-wild-nature-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-6/6th-level-wild-nature-ability/",
+        "name": "6th-Level Wild Nature Ability",
         "type": "trait",
         "source": "mcdm.beastheart.v1"
       },
@@ -7653,6 +7695,20 @@
         "source": "mcdm.beastheart.v1"
       },
       {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/11-ferocity-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/11-ferocity-ability/",
+        "name": "11-Ferocity Ability",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/8th-level-wild-nature-feature",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/8th-level-wild-nature-feature/",
+        "name": "8th-Level Wild Nature Feature",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/born-to-run",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/born-to-run/",
         "name": "Born to Run",
@@ -7684,6 +7740,13 @@
         "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-8/reflexes-perfected",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-8/reflexes-perfected/",
         "name": "Reflexes Perfected",
+        "type": "trait",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/feature.trait.beastheart.level-9/9th-level-wild-nature-ability",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/beastheart/level-9/9th-level-wild-nature-ability/",
+        "name": "9th-Level Wild Nature Ability",
         "type": "trait",
         "source": "mcdm.beastheart.v1"
       },
