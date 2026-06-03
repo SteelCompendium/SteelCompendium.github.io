@@ -1,8 +1,22 @@
 {
   "version": 1,
-  "generated": "2026-06-03T00:00:15Z",
+  "generated": "2026-06-03T02:36:31Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
+    {
+      "scc": "mcdm.beastheart.v1/chapter/perks",
+      "url": "https://steelcompendium.io/v2/Read/chapter/perks/",
+      "name": "Perks",
+      "type": "chapter",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/chapter/rewards",
+      "url": "https://steelcompendium.io/v2/Read/chapter/rewards/",
+      "name": "Rewards",
+      "type": "chapter",
+      "source": "mcdm.beastheart.v1"
+    },
     {
       "scc": "mcdm.beastheart.v1/chapter/the-beastheart-and-the-faeries",
       "url": "https://steelcompendium.io/v2/Read/chapter/the-beastheart-and-the-faeries/",
@@ -11,9 +25,16 @@
       "source": "mcdm.beastheart.v1"
     },
     {
+      "scc": "mcdm.beastheart.v1/chapter/the-beastheart-class",
+      "url": "https://steelcompendium.io/v2/Read/chapter/the-beastheart-class/",
+      "name": "The Beastheart Class",
+      "type": "chapter",
+      "source": "mcdm.beastheart.v1"
+    },
+    {
       "scc": "mcdm.beastheart.v1/class/beastheart",
       "url": "https://steelcompendium.io/v2/Browse/class/beastheart/",
-      "name": "The Beastheart Class",
+      "name": "Beastheart",
       "type": "class",
       "source": "mcdm.beastheart.v1"
     },
