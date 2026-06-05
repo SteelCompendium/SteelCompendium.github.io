@@ -13493,233 +13493,800 @@
     ],
     "treasure": [
       {
-        "scc": "mcdm.beastheart.v1/treasure/bandana-of-invisibility",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/bandana-of-invisibility/",
-        "name": "Bandana of Invisibility",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/battle-wings",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/battle-wings/",
-        "name": "Battle Wings",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/cavalry-armor",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/cavalry-armor/",
-        "name": "Cavalry Armor",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/glancing-bow",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/glancing-bow/",
-        "name": "Glancing Bow",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/horned-champion",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/horned-champion/",
-        "name": "Horned Champion",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/longclaw",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/longclaw/",
-        "name": "Longclaw",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/pack-harness",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/pack-harness/",
-        "name": "Pack Harness",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/precious-collar",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/precious-collar/",
+        "scc": "mcdm.beastheart.v1/treasure.1st-echelon.trinket/precious-collar",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/precious-collar/",
         "name": "Precious Collar",
         "type": "treasure",
         "source": "mcdm.beastheart.v1"
       },
       {
-        "scc": "mcdm.beastheart.v1/treasure/rampant-shield",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/rampant-shield/",
-        "name": "Rampant Shield",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/ruby-ring-of-recall",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/ruby-ring-of-recall/",
+        "scc": "mcdm.beastheart.v1/treasure.1st-echelon.trinket/ruby-ring-of-recall",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/ruby-ring-of-recall/",
         "name": "Ruby Ring of Recall",
         "type": "treasure",
         "source": "mcdm.beastheart.v1"
       },
       {
-        "scc": "mcdm.beastheart.v1/treasure/scorpion-tails",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/scorpion-tails/",
-        "name": "Scorpion Tails",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/speaking-scarab",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/speaking-scarab/",
+        "scc": "mcdm.beastheart.v1/treasure.1st-echelon.trinket/speaking-scarab",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/speaking-scarab/",
         "name": "Speaking Scarab",
         "type": "treasure",
         "source": "mcdm.beastheart.v1"
       },
       {
-        "scc": "mcdm.beastheart.v1/treasure/thorn-dragonscale",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/thorn-dragonscale/",
-        "name": "Thorn Dragonscale",
-        "type": "treasure",
-        "source": "mcdm.beastheart.v1"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/treasure/werewolf-tooth-pendant",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/werewolf-tooth-pendant/",
+        "scc": "mcdm.beastheart.v1/treasure.2nd-echelon.trinket/werewolf-tooth-pendant",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/werewolf-tooth-pendant/",
         "name": "Werewolf Tooth Pendant",
         "type": "treasure",
         "source": "mcdm.beastheart.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/1st-echelon-consumables",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon-consumables/",
-        "name": "1st-Echelon Consumables",
+        "scc": "mcdm.beastheart.v1/treasure.3rd-echelon.trinket/bandana-of-invisibility",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/bandana-of-invisibility/",
+        "name": "Bandana of Invisibility",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.4th-echelon.trinket/battle-wings",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/trinket/battle-wings/",
+        "name": "Battle Wings",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.armor/cavalry-armor",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/cavalry-armor/",
+        "name": "Cavalry Armor",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.armor/pack-harness",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/pack-harness/",
+        "name": "Pack Harness",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.armor/rampant-shield",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/rampant-shield/",
+        "name": "Rampant Shield",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.armor/thorn-dragonscale",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/thorn-dragonscale/",
+        "name": "Thorn Dragonscale",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.weapon/glancing-bow",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/glancing-bow/",
+        "name": "Glancing Bow",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.weapon/horned-champion",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/horned-champion/",
+        "name": "Horned Champion",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.weapon/longclaw",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/longclaw/",
+        "name": "Longclaw",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/treasure.leveled.weapon/scorpion-tails",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/scorpion-tails/",
+        "name": "Scorpion Tails",
+        "type": "treasure",
+        "source": "mcdm.beastheart.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/black-ash-dart",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/black-ash-dart/",
+        "name": "Black Ash Dart",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/1st-echelon-trinkets",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon-trinkets/",
-        "name": "1st-Echelon Trinkets",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/blood-essence-vial",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/blood-essence-vial/",
+        "name": "Blood Essence Vial",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/2nd-echelon-consumables",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon-consumables/",
-        "name": "2nd-Echelon Consumables",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/buzz-balm",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/buzz-balm/",
+        "name": "Buzz Balm",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/2nd-echelon-trinkets",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon-trinkets/",
-        "name": "2nd-Echelon Trinkets",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/catapult-dust",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/catapult-dust/",
+        "name": "Catapult Dust",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/3rd-echelon-consumables",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon-consumables/",
-        "name": "3rd-Echelon Consumables",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/giants-blood-flame",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/giants-blood-flame/",
+        "name": "Giant's-Blood Flame",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/3rd-echelon-trinkets",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon-trinkets/",
-        "name": "3rd-Echelon Trinkets",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/growth-potion",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/growth-potion/",
+        "name": "Growth Potion",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/4th-echelon-consumables",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon-consumables/",
-        "name": "4th-Echelon Consumables",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/healing-potion",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/healing-potion/",
+        "name": "Healing Potion",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/4th-echelon-trinkets",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon-trinkets/",
-        "name": "4th-Echelon Trinkets",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/imps-tongue",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/imps-tongue/",
+        "name": "Imp's Tongue",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/carry-three-safely",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/carry-three-safely/",
-        "name": "Carry Three Safely",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/lachomp-tooth",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/lachomp-tooth/",
+        "name": "Lachomp Tooth",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/leveled-armor-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled-armor-treasures/",
-        "name": "Leveled Armor Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/mirror-token",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/mirror-token/",
+        "name": "Mirror Token",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/leveled-benefits",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled-benefits/",
-        "name": "Leveled Benefits",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/pocket-homunculus",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/pocket-homunculus/",
+        "name": "Pocket Homunculus",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/leveled-implement-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled-implement-treasures/",
-        "name": "Leveled Implement Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/portable-cloud",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/portable-cloud/",
+        "name": "Portable Cloud",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/leveled-weapon-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled-weapon-treasures/",
-        "name": "Leveled Weapon Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/professor-veratismos-quaff-n-huff-snuff",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/professor-veratismos-quaff-n-huff-snuff/",
+        "name": "Professor Veratismo's Quaff 'n Huff Snuff",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/magic-and-psionic-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/magic-and-psionic-treasures/",
-        "name": "Magic and Psionic Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.consumable/snapdragon",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/consumable/snapdragon/",
+        "name": "Snapdragon",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/other-leveled-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/other-leveled-treasures/",
-        "name": "Other Leveled Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-blue",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/color-cloak-blue/",
+        "name": "Color Cloak (Blue)",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/stamina-bonuses-and-damage-bonuses",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/stamina-bonuses-and-damage-bonuses/",
-        "name": "Stamina Bonuses and Damage Bonuses",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-red",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/color-cloak-red/",
+        "name": "Color Cloak (Red)",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/wearing-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/wearing-treasures/",
-        "name": "Wearing Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-yellow",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/color-cloak-yellow/",
+        "name": "Color Cloak (Yellow)",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/what-does-this-treasure-do",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/what-does-this-treasure-do/",
-        "name": "What Does This Treasure Do?",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/deadweight",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/deadweight/",
+        "name": "Deadweight",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/treasure/wielding-treasures",
-        "url": "https://steelcompendium.io/v2/Browse/treasure/wielding-treasures/",
-        "name": "Wielding Treasures",
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/displacing-replacement-bracer/",
+        "name": "Displacing Replacement Bracer",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/divine-vine",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/divine-vine/",
+        "name": "Divine Vine",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/flameshade-gloves/",
+        "name": "Flameshade Gloves",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/gecko-gloves",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/gecko-gloves/",
+        "name": "Gecko Gloves",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/hellcharger-helm/",
+        "name": "Hellcharger Helm",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/mask-of-the-many/",
+        "name": "Mask of the Many",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/quantum-satchel",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/quantum-satchel/",
+        "name": "Quantum Satchel",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.1st-echelon.trinket/unbinder-boots",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/unbinder-boots/",
+        "name": "Unbinder Boots",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/breath-of-dawn",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/breath-of-dawn/",
+        "name": "Breath of Dawn",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/bull-shot",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/bull-shot/",
+        "name": "Bull Shot",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/chocolate-of-immovability",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/chocolate-of-immovability/",
+        "name": "Chocolate of Immovability",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/concealment-potion",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/concealment-potion/",
+        "name": "Concealment Potion",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/float-powder",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/float-powder/",
+        "name": "Float Powder",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/purified-jelly",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/purified-jelly/",
+        "name": "Purified Jelly",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/scroll-of-resurrection",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/scroll-of-resurrection/",
+        "name": "Scroll of Resurrection",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/telemagnet",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/telemagnet/",
+        "name": "Telemagnet",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.consumable/vial-of-ethereal-attack",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/vial-of-ethereal-attack/",
+        "name": "Vial of Ethereal Attack",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/bastion-belt",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/bastion-belt/",
+        "name": "Bastion Belt",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/evilest-eye/",
+        "name": "Evilest Eye",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/insightful-crown",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/insightful-crown/",
+        "name": "Insightful Crown",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/key-of-inquiry",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/key-of-inquiry/",
+        "name": "Key of Inquiry",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/mediators-charm",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/mediators-charm/",
+        "name": "Mediator's Charm",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/necklace-of-the-bayou",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/necklace-of-the-bayou/",
+        "name": "Necklace of the Bayou",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/scannerstone",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/scannerstone/",
+        "name": "Scannerstone",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.2nd-echelon.trinket/stop-n-go-coin",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/stop-n-go-coin/",
+        "name": "Stop-'n-Go Coin",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/anamorphic-larva",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/anamorphic-larva/",
+        "name": "Anamorphic Larva",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/bottled-paradox",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/bottled-paradox/",
+        "name": "Bottled Paradox",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/gallios-visiting-card",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/gallios-visiting-card/",
+        "name": "G'Allios Visiting Card",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/personal-effigy",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/personal-effigy/",
+        "name": "Personal Effigy",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/stygian-liquor",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/stygian-liquor/",
+        "name": "Stygian Liquor",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/timesplitter/",
+        "name": "Timesplitter",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/ward-token",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/ward-token/",
+        "name": "Ward Token",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.consumable/wellness-tonic",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/wellness-tonic/",
+        "name": "Wellness Tonic",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.trinket/bracers-of-strife",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/bracers-of-strife/",
+        "name": "Bracers of Strife",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/mask-of-oversight/",
+        "name": "Mask of Oversight",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.trinket/mirage-band",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/mirage-band/",
+        "name": "Mirage Band",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.trinket/nullfield-resonator-ring",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/nullfield-resonator-ring/",
+        "name": "Nullfield Resonator Ring",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.3rd-echelon.trinket/shifting-ring",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/shifting-ring/",
+        "name": "Shifting Ring",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.consumable/breath-of-creation",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/consumable/breath-of-creation/",
+        "name": "Breath of Creation",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.consumable/elixir-of-saint-elspeth",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/consumable/elixir-of-saint-elspeth/",
+        "name": "Elixir of Saint Elspeth",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.consumable/page-from-the-infinite-library-solaris",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/consumable/page-from-the-infinite-library-solaris/",
+        "name": "Page From the Infinite Library: Solaris",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.consumable/restorative-of-the-bright-court",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/consumable/restorative-of-the-bright-court/",
+        "name": "Restorative of the Bright Court",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.trinket/gravekeepers-lantern",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/trinket/gravekeepers-lantern/",
+        "name": "Gravekeeper's Lantern",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.4th-echelon.trinket/psi-blade",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/trinket/psi-blade/",
+        "name": "Psi Blade",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.artifact/blade-of-a-thousand-years",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/artifact/blade-of-a-thousand-years/",
+        "name": "Blade of a Thousand Years",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.artifact/encepter",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/artifact/encepter/",
+        "name": "Encepter",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.artifact/mortal-coil",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/artifact/mortal-coil/",
+        "name": "Mortal Coil",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/adaptive-second-skin-of-toxins/",
+        "name": "Adaptive Second Skin of Toxins",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/chain-of-the-sea-and-sky",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/chain-of-the-sea-and-sky/",
+        "name": "Chain of the Sea and Sky",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/grand-scarab",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/grand-scarab/",
+        "name": "Grand Scarab",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/kings-roar",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/kings-roar/",
+        "name": "King's Roar",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/kuranzoi-prismscale/",
+        "name": "Kuran'zoi Prismscale",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/paper-trappings",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/paper-trappings/",
+        "name": "Paper Trappings",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/shrouded-memory/",
+        "name": "Shrouded Memory",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/spiny-turtle",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/spiny-turtle/",
+        "name": "Spiny Turtle",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/star-hunter",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/star-hunter/",
+        "name": "Star-Hunter",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.armor/telekinetic-bulwark",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/armor/telekinetic-bulwark/",
+        "name": "Telekinetic Bulwark",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/abjurers-bastion/",
+        "name": "Abjurer's Bastion",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/brittlebreaker/",
+        "name": "Brittlebreaker",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/chaldorb",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/chaldorb/",
+        "name": "Chaldorb",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/ether-fueled-vessel",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/ether-fueled-vessel/",
+        "name": "Ether-Fueled Vessel",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/foesense-lenses",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/foesense-lenses/",
+        "name": "Foesense Lenses",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/words-become-wonders-at-next-breath/",
+        "name": "Words Become Wonders at Next Breath",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.other/bloodbound-band",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/other/bloodbound-band/",
+        "name": "Bloodbound Band",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/other/bloody-hand-wraps/",
+        "name": "Bloody Hand Wraps",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.other/lightning-treads",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/other/lightning-treads/",
+        "name": "Lightning Treads",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.other/revengers-wrap",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/other/revengers-wrap/",
+        "name": "Revenger's Wrap",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.other/thief-of-joy",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/other/thief-of-joy/",
+        "name": "Thief of Joy",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/authoritys-end/",
+        "name": "Authority's End",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/blade-of-quintessence",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/blade-of-quintessence/",
+        "name": "Blade of Quintessence",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/blade-of-the-luxurious-fop",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/blade-of-the-luxurious-fop/",
+        "name": "Blade of the Luxurious Fop",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/displacer",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/displacer/",
+        "name": "Displacer",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/executioners-blade/",
+        "name": "Executioner's Blade",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/icemaker-maul",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/icemaker-maul/",
+        "name": "Icemaker Maul",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/knife-of-nine",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/knife-of-nine/",
+        "name": "Knife of Nine",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/lance-of-the-sundered-star",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/lance-of-the-sundered-star/",
+        "name": "Lance of the Sundered Star",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/molten-constrictor/",
+        "name": "Molten Constrictor",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/onerous-bow",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/onerous-bow/",
+        "name": "Onerous Bow",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/steeltongue",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/steeltongue/",
+        "name": "Steeltongue",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/third-eye-seeker/",
+        "name": "Third Eye Seeker",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/thunderhead-bident",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/thunderhead-bident/",
+        "name": "Thunderhead Bident",
+        "type": "treasure",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/treasure.leveled.weapon/wetwork",
+        "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/wetwork/",
+        "name": "Wetwork",
         "type": "treasure",
         "source": "mcdm.heroes.v1"
       }
