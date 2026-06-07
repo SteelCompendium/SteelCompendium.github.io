@@ -2187,8 +2187,8 @@
         "source": "mcdm.heroes.v1"
       },
       {
-        "scc": "mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild",
-        "url": "https://steelcompendium.io/v2/Browse/feature/ability/fury/aspect-of-the-wild/",
+        "scc": "mcdm.heroes.v1/feature.ability.fury.stormwight-kits/aspect-of-the-wild",
+        "url": "https://steelcompendium.io/v2/Browse/feature/ability/fury/stormwight-kits/aspect-of-the-wild/",
         "name": "Aspect of the Wild",
         "type": "ability",
         "source": "mcdm.heroes.v1"
@@ -14829,6 +14829,55 @@
         "source": "mcdm.heroes.v1"
       },
       {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/aspect-benefits-and-animal-form",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/aspect-benefits-and-animal-form/",
+        "name": "Aspect Benefits and Animal Form",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/aspect-of-the-wild",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/aspect-of-the-wild/",
+        "name": "Aspect of the Wild",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/equipment",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/equipment/",
+        "name": "Equipment",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/growing-ferocity",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/growing-ferocity/",
+        "name": "Growing Ferocity",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-bonuses",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/kit-bonuses/",
+        "name": "Kit Bonuses",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-features",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/kit-features/",
+        "name": "Kit Features",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/primordial-storm/",
+        "name": "Primordial Storm",
+        "type": "trait",
+        "source": "mcdm.heroes.v1"
+      },
+      {
         "scc": "mcdm.heroes.v1/feature.trait.fury.vuken/animal-form-wolf",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/vuken/animal-form-wolf/",
         "name": "Animal Form: Wolf",
@@ -14867,62 +14916,6 @@
         "scc": "mcdm.heroes.v1/feature.trait.fury.vuken/primordial-storm-lightning-storm",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/vuken/primordial-storm-lightning-storm/",
         "name": "Primordial Storm: Lightning Storm",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/aspect-benefits-and-animal-form",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/aspect-benefits-and-animal-form/",
-        "name": "Aspect Benefits and Animal Form",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/aspect-of-the-wild/",
-        "name": "Aspect of the Wild",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/equipment",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/equipment/",
-        "name": "Equipment",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/growing-ferocity",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/growing-ferocity/",
-        "name": "Growing Ferocity",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/kit-bonuses",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/kit-bonuses/",
-        "name": "Kit Bonuses",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/kit-features",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/kit-features/",
-        "name": "Kit Features",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/primordial-storm",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/primordial-storm/",
-        "name": "Primordial Storm",
-        "type": "trait",
-        "source": "mcdm.heroes.v1"
-      },
-      {
-        "scc": "mcdm.heroes.v1/feature.trait.fury/stormwight-kits",
-        "url": "https://steelcompendium.io/v2/Browse/feature/trait/fury/stormwight-kits/",
-        "name": "Stormwight Kits",
         "type": "trait",
         "source": "mcdm.heroes.v1"
       },
