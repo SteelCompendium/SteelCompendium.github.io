@@ -1,0 +1,7 @@
+{
+  "scc": "mcdm.heroes.v1/rule.combat/end-of-turn",
+  "url": "https://steelcompendium.io/v2/Browse/rule/combat/end-of-turn/",
+  "name": "End of Next Turn (EoT)",
+  "type": "rule",
+  "source": "mcdm.heroes.v1"
+}

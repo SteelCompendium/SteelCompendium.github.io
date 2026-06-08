@@ -7611,6 +7611,764 @@
         "source": "mcdm.heroes.v1"
       }
     ],
+    "rule": [
+      {
+        "scc": "mcdm.heroes.v1/rule.character/agility",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/agility/",
+        "name": "Agility",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/characteristic",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/characteristic/",
+        "name": "Characteristics",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/intuition",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/intuition/",
+        "name": "Intuition",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/might",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/might/",
+        "name": "Might",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/potency",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/potency/",
+        "name": "Potencies",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/presence",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/presence/",
+        "name": "Presence",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/reason",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/reason/",
+        "name": "Reason",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/size",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/size/",
+        "name": "Size and Space",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/speed",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/speed/",
+        "name": "Starting Size and Speed",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.character/stability",
+        "url": "https://steelcompendium.io/v2/Browse/rule/character/stability/",
+        "name": "Stability",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/adjacent",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/adjacent/",
+        "name": "Adjacent",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/ally",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/ally/",
+        "name": "Ally",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/area-of-effect",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/area-of-effect/",
+        "name": "Area Abilities",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/aura",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/aura/",
+        "name": "Aura",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/burst",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/burst/",
+        "name": "Burst",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/combat-round",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/combat-round/",
+        "name": "Combat Round",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/concealment",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/concealment/",
+        "name": "Concealment",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/condition",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/condition/",
+        "name": "Conditions",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/cover",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/cover/",
+        "name": "Cover",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/critical-hit",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/critical-hit/",
+        "name": "Critical Hit",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/cube",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/cube/",
+        "name": "Cube",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/distance",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/distance/",
+        "name": "Distance",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/end-of-turn",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/end-of-turn/",
+        "name": "End of Next Turn (EoT)",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/enemy",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/enemy/",
+        "name": "Enemy",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/flanking",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/flanking/",
+        "name": "Flanking",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/free-maneuver",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/free-maneuver/",
+        "name": "Free Maneuvers",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/line",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/line/",
+        "name": "Line",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/line-of-effect",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/line-of-effect/",
+        "name": "Line of Effect",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/melee",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/melee/",
+        "name": "Melee",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/mounted-combat",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/mounted-combat/",
+        "name": "Mounted Combat",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/objective",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/objective/",
+        "name": "Objective Endings",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/opportunity-attack",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/opportunity-attack/",
+        "name": "Opportunity Attacks",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/ranged",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/ranged/",
+        "name": "Ranged",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/side",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/side/",
+        "name": "Sides",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/signature-ability",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/signature-ability/",
+        "name": "Signature Abilities",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/strike",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/strike/",
+        "name": "Strike",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/surprised",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/surprised/",
+        "name": "Determine Surprise",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/target",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/target/",
+        "name": "Target",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/triggered-action",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/triggered-action/",
+        "name": "Triggered Actions and Free Triggered Actions",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/turn",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/turn/",
+        "name": "Taking a Turn",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/underwater-combat",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/underwater-combat/",
+        "name": "Underwater Combat",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/wall",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/wall/",
+        "name": "Wall",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.damage/damage",
+        "url": "https://steelcompendium.io/v2/Browse/rule/damage/damage/",
+        "name": "Damage",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.damage/damage-immunity",
+        "url": "https://steelcompendium.io/v2/Browse/rule/damage/damage-immunity/",
+        "name": "Damage Immunity",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.damage/damage-type",
+        "url": "https://steelcompendium.io/v2/Browse/rule/damage/damage-type/",
+        "name": "Damage Types",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.damage/damage-weakness",
+        "url": "https://steelcompendium.io/v2/Browse/rule/damage/damage-weakness/",
+        "name": "Damage Weakness",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.damage/rolled-damage",
+        "url": "https://steelcompendium.io/v2/Browse/rule/damage/rolled-damage/",
+        "name": "Rolled Damage",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/ability-roll",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/ability-roll/",
+        "name": "Ability Roll",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/bane",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/bane/",
+        "name": "Bane",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/bonuses-and-penalties",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/bonuses-and-penalties/",
+        "name": "Bonuses and Penalties",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/edge",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/edge/",
+        "name": "Edge",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/natural-19-20",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/natural-19-20/",
+        "name": "Natural 19 or 20: Success With a Reward",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/natural-roll",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/natural-roll/",
+        "name": "Natural Roll",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/opposed-power-roll",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/opposed-power-roll/",
+        "name": "Opposed Power Rolls",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/power-roll",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/power-roll/",
+        "name": "Power Rolls",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/tier-outcome",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/tier-outcome/",
+        "name": "Power Roll Outcomes",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/crafting-project",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/crafting-project/",
+        "name": "Crafting Projects",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/guide",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/guide/",
+        "name": "Guides",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/item-prerequisite",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/item-prerequisite/",
+        "name": "Item Prerequisite",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/project-event",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/project-event/",
+        "name": "For the Director: Project Events",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/project-points",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/project-points/",
+        "name": "Project Points",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/project-roll",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/project-roll/",
+        "name": "Project Roll",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/project-source",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/project-source/",
+        "name": "Project Source",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.downtime/research-project",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/research-project/",
+        "name": "Research Projects",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/ability",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/ability/",
+        "name": "Ability Keywords",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/creature",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/creature/",
+        "name": "Creatures and Objects",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/echelon",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/echelon/",
+        "name": "Echelons of Play",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/follower",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/follower/",
+        "name": "Attract Followers",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/ground",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/ground/",
+        "name": "Ground and Ceiling",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/heroic-ability",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/heroic-ability/",
+        "name": "Heroic Abilities",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/npc",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/npc/",
+        "name": "PCs and NPCs",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/retainer",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/retainer/",
+        "name": "Retainer",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/saving-throw",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/saving-throw/",
+        "name": "Saving Throw (Save Ends)",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/subclass",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/subclass/",
+        "name": "Subclasses",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/supernatural",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/supernatural/",
+        "name": "Supernatural or Mundane",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.general/unattended-object",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/unattended-object/",
+        "name": "Object Stamina",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/dying",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/dying/",
+        "name": "Dying and Death",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/falling",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/falling/",
+        "name": "Falling",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/recoveries",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/recoveries/",
+        "name": "Recoveries and Recovery Value",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/stamina",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/stamina/",
+        "name": "Stamina",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/suffocating",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/suffocating/",
+        "name": "Suffocating",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/temporary-stamina",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/temporary-stamina/",
+        "name": "Temporary Stamina",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.health/winded",
+        "url": "https://steelcompendium.io/v2/Browse/rule/health/winded/",
+        "name": "Winded",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/interest",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/interest/",
+        "name": "Interest",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/motivation",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/motivation/",
+        "name": "Motivations",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/patience",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/patience/",
+        "name": "Patience",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/pitfall",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/pitfall/",
+        "name": "Pitfalls",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/experience",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/experience/",
+        "name": "Experience",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/hero-token",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/hero-token/",
+        "name": "Hero Tokens",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/heroic-resource",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/heroic-resource/",
+        "name": "Heroic Resources",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/renown",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/renown/",
+        "name": "Renown",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/respite",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/respite/",
+        "name": "Respite",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/surge",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/surge/",
+        "name": "Surges",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/victories",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/victories/",
+        "name": "Victories",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.resource/wealth",
+        "url": "https://steelcompendium.io/v2/Browse/rule/resource/wealth/",
+        "name": "Wealth",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.test/group-test",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/group-test/",
+        "name": "Group Tests",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.test/montage-test",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/montage-test/",
+        "name": "Montage Tests",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.test/reactive-test",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/reactive-test/",
+        "name": "Reactive Tests",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.test/test",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/test/",
+        "name": "How to Make a Test",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.treasure/consumable",
+        "url": "https://steelcompendium.io/v2/Browse/rule/treasure/consumable/",
+        "name": "Consumables",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.treasure/enhancement",
+        "url": "https://steelcompendium.io/v2/Browse/rule/treasure/enhancement/",
+        "name": "Imbue Armor",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.treasure/implement",
+        "url": "https://steelcompendium.io/v2/Browse/rule/treasure/implement/",
+        "name": "Imbue Implement",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.treasure/leveled-treasure",
+        "url": "https://steelcompendium.io/v2/Browse/rule/treasure/leveled-treasure/",
+        "name": "Leveled Treasures",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.treasure/trinket",
+        "url": "https://steelcompendium.io/v2/Browse/rule/treasure/trinket/",
+        "name": "Trinkets",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.world/capital",
+        "url": "https://steelcompendium.io/v2/Browse/rule/world/capital/",
+        "name": "Capital",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.world/orden",
+        "url": "https://steelcompendium.io/v2/Browse/rule/world/orden/",
+        "name": "Orden and the Timescape",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.world/saint",
+        "url": "https://steelcompendium.io/v2/Browse/rule/world/saint/",
+        "name": "Churches and Temples",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.world/vasloria",
+        "url": "https://steelcompendium.io/v2/Browse/rule/world/vasloria/",
+        "name": "Vasloria",
+        "type": "rule",
+        "source": "mcdm.heroes.v1"
+      }
+    ],
     "skill": [
       {
         "scc": "mcdm.heroes.v1/skill/alchemy",
