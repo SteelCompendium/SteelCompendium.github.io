@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-06-09T03:33:24Z",
+  "generated": "2026-06-09T03:52:18Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -13451,401 +13451,436 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/alchemy",
-      "url": "https://steelcompendium.io/v2/Browse/skill/alchemy/",
+      "scc": "mcdm.heroes.v1/skill.crafting/alchemy",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/alchemy/",
       "name": "Alchemy",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/alertness",
-      "url": "https://steelcompendium.io/v2/Browse/skill/alertness/",
-      "name": "Alertness",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/architecture",
-      "url": "https://steelcompendium.io/v2/Browse/skill/architecture/",
+      "scc": "mcdm.heroes.v1/skill.crafting/architecture",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/architecture/",
       "name": "Architecture",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/blacksmithing",
-      "url": "https://steelcompendium.io/v2/Browse/skill/blacksmithing/",
+      "scc": "mcdm.heroes.v1/skill.crafting/blacksmithing",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/blacksmithing/",
       "name": "Blacksmithing",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/brag",
-      "url": "https://steelcompendium.io/v2/Browse/skill/brag/",
-      "name": "Brag",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/carpentry",
-      "url": "https://steelcompendium.io/v2/Browse/skill/carpentry/",
+      "scc": "mcdm.heroes.v1/skill.crafting/carpentry",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/carpentry/",
       "name": "Carpentry",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/climb",
-      "url": "https://steelcompendium.io/v2/Browse/skill/climb/",
-      "name": "Climb",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/conceal-object",
-      "url": "https://steelcompendium.io/v2/Browse/skill/conceal-object/",
-      "name": "Conceal Object",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/cooking",
-      "url": "https://steelcompendium.io/v2/Browse/skill/cooking/",
+      "scc": "mcdm.heroes.v1/skill.crafting/cooking",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/cooking/",
       "name": "Cooking",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/criminal-underworld",
-      "url": "https://steelcompendium.io/v2/Browse/skill/criminal-underworld/",
-      "name": "Criminal Underworld",
-      "type": "skill",
+      "scc": "mcdm.heroes.v1/skill.crafting/crafting",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/crafting/",
+      "name": "Crafting Skills",
+      "type": "skill-group",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/culture",
-      "url": "https://steelcompendium.io/v2/Browse/skill/culture/",
-      "name": "Culture",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/disguise",
-      "url": "https://steelcompendium.io/v2/Browse/skill/disguise/",
-      "name": "Disguise",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/drive",
-      "url": "https://steelcompendium.io/v2/Browse/skill/drive/",
-      "name": "Drive",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/eavesdrop",
-      "url": "https://steelcompendium.io/v2/Browse/skill/eavesdrop/",
-      "name": "Eavesdrop",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/empathize",
-      "url": "https://steelcompendium.io/v2/Browse/skill/empathize/",
-      "name": "Empathize",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/endurance",
-      "url": "https://steelcompendium.io/v2/Browse/skill/endurance/",
-      "name": "Endurance",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/escape-artist",
-      "url": "https://steelcompendium.io/v2/Browse/skill/escape-artist/",
-      "name": "Escape Artist",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/fletching",
-      "url": "https://steelcompendium.io/v2/Browse/skill/fletching/",
+      "scc": "mcdm.heroes.v1/skill.crafting/fletching",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/fletching/",
       "name": "Fletching",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/flirt",
-      "url": "https://steelcompendium.io/v2/Browse/skill/flirt/",
-      "name": "Flirt",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/forgery",
-      "url": "https://steelcompendium.io/v2/Browse/skill/forgery/",
+      "scc": "mcdm.heroes.v1/skill.crafting/forgery",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/forgery/",
       "name": "Forgery",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/gamble",
-      "url": "https://steelcompendium.io/v2/Browse/skill/gamble/",
-      "name": "Gamble",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/gymnastics",
-      "url": "https://steelcompendium.io/v2/Browse/skill/gymnastics/",
-      "name": "Gymnastics",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/handle-animals",
-      "url": "https://steelcompendium.io/v2/Browse/skill/handle-animals/",
-      "name": "Handle Animals",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/heal",
-      "url": "https://steelcompendium.io/v2/Browse/skill/heal/",
-      "name": "Heal",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/hide",
-      "url": "https://steelcompendium.io/v2/Browse/skill/hide/",
-      "name": "Hide",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/history",
-      "url": "https://steelcompendium.io/v2/Browse/skill/history/",
-      "name": "History",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/interrogate",
-      "url": "https://steelcompendium.io/v2/Browse/skill/interrogate/",
-      "name": "Interrogate",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/intimidate",
-      "url": "https://steelcompendium.io/v2/Browse/skill/intimidate/",
-      "name": "Intimidate",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/jewelry",
-      "url": "https://steelcompendium.io/v2/Browse/skill/jewelry/",
+      "scc": "mcdm.heroes.v1/skill.crafting/jewelry",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/jewelry/",
       "name": "Jewelry",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/jump",
-      "url": "https://steelcompendium.io/v2/Browse/skill/jump/",
-      "name": "Jump",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/lead",
-      "url": "https://steelcompendium.io/v2/Browse/skill/lead/",
-      "name": "Lead",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/lie",
-      "url": "https://steelcompendium.io/v2/Browse/skill/lie/",
-      "name": "Lie",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/lift",
-      "url": "https://steelcompendium.io/v2/Browse/skill/lift/",
-      "name": "Lift",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/magic",
-      "url": "https://steelcompendium.io/v2/Browse/skill/magic/",
-      "name": "Magic",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/mechanics",
-      "url": "https://steelcompendium.io/v2/Browse/skill/mechanics/",
+      "scc": "mcdm.heroes.v1/skill.crafting/mechanics",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/mechanics/",
       "name": "Mechanics",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/monsters",
-      "url": "https://steelcompendium.io/v2/Browse/skill/monsters/",
-      "name": "Monsters",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/music",
-      "url": "https://steelcompendium.io/v2/Browse/skill/music/",
-      "name": "Music",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/nature",
-      "url": "https://steelcompendium.io/v2/Browse/skill/nature/",
-      "name": "Nature",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/navigate",
-      "url": "https://steelcompendium.io/v2/Browse/skill/navigate/",
-      "name": "Navigate",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/perform",
-      "url": "https://steelcompendium.io/v2/Browse/skill/perform/",
-      "name": "Perform",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/persuade",
-      "url": "https://steelcompendium.io/v2/Browse/skill/persuade/",
-      "name": "Persuade",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/pick-lock",
-      "url": "https://steelcompendium.io/v2/Browse/skill/pick-lock/",
-      "name": "Pick Lock",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/pick-pocket",
-      "url": "https://steelcompendium.io/v2/Browse/skill/pick-pocket/",
-      "name": "Pick Pocket",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/psionics",
-      "url": "https://steelcompendium.io/v2/Browse/skill/psionics/",
-      "name": "Psionics",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/read-person",
-      "url": "https://steelcompendium.io/v2/Browse/skill/read-person/",
-      "name": "Read Person",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/religion",
-      "url": "https://steelcompendium.io/v2/Browse/skill/religion/",
-      "name": "Religion",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/ride",
-      "url": "https://steelcompendium.io/v2/Browse/skill/ride/",
-      "name": "Ride",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/rumors",
-      "url": "https://steelcompendium.io/v2/Browse/skill/rumors/",
-      "name": "Rumors",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/sabotage",
-      "url": "https://steelcompendium.io/v2/Browse/skill/sabotage/",
-      "name": "Sabotage",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/search",
-      "url": "https://steelcompendium.io/v2/Browse/skill/search/",
-      "name": "Search",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/sneak",
-      "url": "https://steelcompendium.io/v2/Browse/skill/sneak/",
-      "name": "Sneak",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/society",
-      "url": "https://steelcompendium.io/v2/Browse/skill/society/",
-      "name": "Society",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/strategy",
-      "url": "https://steelcompendium.io/v2/Browse/skill/strategy/",
-      "name": "Strategy",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/swim",
-      "url": "https://steelcompendium.io/v2/Browse/skill/swim/",
-      "name": "Swim",
-      "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill/tailoring",
-      "url": "https://steelcompendium.io/v2/Browse/skill/tailoring/",
+      "scc": "mcdm.heroes.v1/skill.crafting/tailoring",
+      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/tailoring/",
       "name": "Tailoring",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/timescape",
-      "url": "https://steelcompendium.io/v2/Browse/skill/timescape/",
-      "name": "Timescape",
+      "scc": "mcdm.heroes.v1/skill.exploration/climb",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/climb/",
+      "name": "Climb",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill/track",
-      "url": "https://steelcompendium.io/v2/Browse/skill/track/",
+      "scc": "mcdm.heroes.v1/skill.exploration/drive",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/drive/",
+      "name": "Drive",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/endurance",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/endurance/",
+      "name": "Endurance",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/exploration",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/exploration/",
+      "name": "Exploration Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/gymnastics",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/gymnastics/",
+      "name": "Gymnastics",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/heal",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/heal/",
+      "name": "Heal",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/jump",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/jump/",
+      "name": "Jump",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/lift",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/lift/",
+      "name": "Lift",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/navigate",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/navigate/",
+      "name": "Navigate",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/ride",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/ride/",
+      "name": "Ride",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.exploration/swim",
+      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/swim/",
+      "name": "Swim",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/brag",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/brag/",
+      "name": "Brag",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/empathize",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/empathize/",
+      "name": "Empathize",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/flirt",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/flirt/",
+      "name": "Flirt",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/gamble",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/gamble/",
+      "name": "Gamble",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/handle-animals",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/handle-animals/",
+      "name": "Handle Animals",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/interpersonal",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/interpersonal/",
+      "name": "Interpersonal Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/interrogate",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/interrogate/",
+      "name": "Interrogate",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/intimidate",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/intimidate/",
+      "name": "Intimidate",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/lead",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/lead/",
+      "name": "Lead",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/lie",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/lie/",
+      "name": "Lie",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/music",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/music/",
+      "name": "Music",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/perform",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/perform/",
+      "name": "Perform",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/persuade",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/persuade/",
+      "name": "Persuade",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.interpersonal/read-person",
+      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/read-person/",
+      "name": "Read Person",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/alertness",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/alertness/",
+      "name": "Alertness",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/conceal-object",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/conceal-object/",
+      "name": "Conceal Object",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/disguise",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/disguise/",
+      "name": "Disguise",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/eavesdrop",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/eavesdrop/",
+      "name": "Eavesdrop",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/escape-artist",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/escape-artist/",
+      "name": "Escape Artist",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/hide",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/hide/",
+      "name": "Hide",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/intrigue",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/intrigue/",
+      "name": "Intrigue Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/pick-lock",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/pick-lock/",
+      "name": "Pick Lock",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/pick-pocket",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/pick-pocket/",
+      "name": "Pick Pocket",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/sabotage",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/sabotage/",
+      "name": "Sabotage",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/search",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/search/",
+      "name": "Search",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/sneak",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/sneak/",
+      "name": "Sneak",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.intrigue/track",
+      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/track/",
       "name": "Track",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/criminal-underworld",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/criminal-underworld/",
+      "name": "Criminal Underworld",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/culture",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/culture/",
+      "name": "Culture",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/history",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/history/",
+      "name": "History",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/lore",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/lore/",
+      "name": "Lore Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/magic",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/magic/",
+      "name": "Magic",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/monsters",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/monsters/",
+      "name": "Monsters",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/nature",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/nature/",
+      "name": "Nature",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/psionics",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/psionics/",
+      "name": "Psionics",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/religion",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/religion/",
+      "name": "Religion",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/rumors",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/rumors/",
+      "name": "Rumors",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/society",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/society/",
+      "name": "Society",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/strategy",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/strategy/",
+      "name": "Strategy",
+      "type": "skill",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.lore/timescape",
+      "url": "https://steelcompendium.io/v2/Browse/skill/lore/timescape/",
+      "name": "Timescape",
       "type": "skill",
       "source": "mcdm.heroes.v1"
     },
