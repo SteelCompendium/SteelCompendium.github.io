@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-06-09T02:30:17Z",
+  "generated": "2026-06-09T03:26:34Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -1824,13 +1824,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/chapter/careers",
-      "url": "https://steelcompendium.io/v2/Read/chapter/careers/",
-      "name": "Careers",
-      "type": "chapter",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/chapter/classes",
       "url": "https://steelcompendium.io/v2/Read/chapter/classes/",
       "name": "Classes",
@@ -1848,13 +1841,6 @@
       "scc": "mcdm.heroes.v1/chapter/complications",
       "url": "https://steelcompendium.io/v2/Read/chapter/complications/",
       "name": "Complications",
-      "type": "chapter",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/chapter/cultures",
-      "url": "https://steelcompendium.io/v2/Read/chapter/cultures/",
-      "name": "Culture",
       "type": "chapter",
       "source": "mcdm.heroes.v1"
     },
@@ -1922,13 +1908,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/chapter/skills",
-      "url": "https://steelcompendium.io/v2/Read/chapter/skills/",
-      "name": "Skills",
-      "type": "chapter",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/chapter/tests",
       "url": "https://steelcompendium.io/v2/Read/chapter/tests/",
       "name": "Tests",
@@ -1939,20 +1918,6 @@
       "scc": "mcdm.heroes.v1/chapter/the-basics",
       "url": "https://steelcompendium.io/v2/Read/chapter/the-basics/",
       "name": "The Basics",
-      "type": "chapter",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/chapter/titles",
-      "url": "https://steelcompendium.io/v2/Read/chapter/titles/",
-      "name": "Titles",
-      "type": "chapter",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/chapter/treasures",
-      "url": "https://steelcompendium.io/v2/Read/chapter/treasures/",
-      "name": "Treasures",
       "type": "chapter",
       "source": "mcdm.heroes.v1"
     },
