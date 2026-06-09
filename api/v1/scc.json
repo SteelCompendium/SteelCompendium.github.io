@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-06-09T17:53:19Z",
+  "generated": "2026-06-09T20:44:03Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -13486,13 +13486,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill.crafting/crafting",
-      "url": "https://steelcompendium.io/v2/Browse/skill/crafting/crafting/",
-      "name": "Crafting Skills",
-      "type": "skill-group",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/skill.crafting/fletching",
       "url": "https://steelcompendium.io/v2/Browse/skill/crafting/fletching/",
       "name": "Fletching",
@@ -13549,13 +13542,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill.exploration/exploration",
-      "url": "https://steelcompendium.io/v2/Browse/skill/exploration/exploration/",
-      "name": "Exploration Skills",
-      "type": "skill-group",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/skill.exploration/gymnastics",
       "url": "https://steelcompendium.io/v2/Browse/skill/exploration/gymnastics/",
       "name": "Gymnastics",
@@ -13605,6 +13591,41 @@
       "source": "mcdm.heroes.v1"
     },
     {
+      "scc": "mcdm.heroes.v1/skill.group/crafting",
+      "url": "https://steelcompendium.io/v2/Browse/skill/group/crafting/",
+      "name": "Crafting Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.group/exploration",
+      "url": "https://steelcompendium.io/v2/Browse/skill/group/exploration/",
+      "name": "Exploration Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.group/interpersonal",
+      "url": "https://steelcompendium.io/v2/Browse/skill/group/interpersonal/",
+      "name": "Interpersonal Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.group/intrigue",
+      "url": "https://steelcompendium.io/v2/Browse/skill/group/intrigue/",
+      "name": "Intrigue Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
+      "scc": "mcdm.heroes.v1/skill.group/lore",
+      "url": "https://steelcompendium.io/v2/Browse/skill/group/lore/",
+      "name": "Lore Skills",
+      "type": "skill-group",
+      "source": "mcdm.heroes.v1"
+    },
+    {
       "scc": "mcdm.heroes.v1/skill.interpersonal/brag",
       "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/brag/",
       "name": "Brag",
@@ -13637,13 +13658,6 @@
       "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/handle-animals/",
       "name": "Handle Animals",
       "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill.interpersonal/interpersonal",
-      "url": "https://steelcompendium.io/v2/Browse/skill/interpersonal/interpersonal/",
-      "name": "Interpersonal Skills",
-      "type": "skill-group",
       "source": "mcdm.heroes.v1"
     },
     {
@@ -13745,13 +13759,6 @@
       "source": "mcdm.heroes.v1"
     },
     {
-      "scc": "mcdm.heroes.v1/skill.intrigue/intrigue",
-      "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/intrigue/",
-      "name": "Intrigue Skills",
-      "type": "skill-group",
-      "source": "mcdm.heroes.v1"
-    },
-    {
       "scc": "mcdm.heroes.v1/skill.intrigue/pick-lock",
       "url": "https://steelcompendium.io/v2/Browse/skill/intrigue/pick-lock/",
       "name": "Pick Lock",
@@ -13812,13 +13819,6 @@
       "url": "https://steelcompendium.io/v2/Browse/skill/lore/history/",
       "name": "History",
       "type": "skill",
-      "source": "mcdm.heroes.v1"
-    },
-    {
-      "scc": "mcdm.heroes.v1/skill.lore/lore",
-      "url": "https://steelcompendium.io/v2/Browse/skill/lore/lore/",
-      "name": "Lore Skills",
-      "type": "skill-group",
       "source": "mcdm.heroes.v1"
     },
     {
@@ -15292,13 +15292,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.ajax-the-invincible/ajax-the-invincible",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/ajax-the-invincible/ajax-the-invincible/",
-      "name": "Ajax the Invincible",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.ajax-the-invincible/ajaxs-malice",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/ajax-the-invincible/ajaxs-malice/",
       "name": "Ajax's Malice",
@@ -15376,13 +15369,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.angulotls/angulotls",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/angulotls/angulotls/",
-      "name": "Angulotls",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.animals.statblock/animal",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/animals/statblock/animal/",
       "name": "Animal",
@@ -15425,24 +15411,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.animals/animals",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/animals/animals/",
-      "name": "Animals",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.arixx.statblock/arixx",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/arixx/statblock/arixx/",
       "name": "Arixx",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.arixx/arixx",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/arixx/arixx/",
-      "name": "Arixx",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -15457,13 +15429,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/ashen-hoarder/statblock/ashen-hoarder/",
       "name": "Ashen Hoarder",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.ashen-hoarder/ashen-hoarder",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/ashen-hoarder/ashen-hoarder/",
-      "name": "Ashen Hoarder",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -15495,24 +15460,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.basilisks/basilisks",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/basilisks/basilisks/",
-      "name": "Basilisks",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.bredbeddle.statblock/bredbeddle",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/bredbeddle/statblock/bredbeddle/",
       "name": "Bredbeddle",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.bredbeddle/bredbeddle",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/bredbeddle/bredbeddle/",
-      "name": "Bredbeddle",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -15579,24 +15530,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.bugbears/bugbears",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/bugbears/bugbears/",
-      "name": "Bugbears",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.chimera.statblock/chimera",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/chimera/statblock/chimera/",
       "name": "Chimera",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.chimera/chimera",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/chimera/chimera/",
-      "name": "Chimera",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -15611,13 +15548,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/count-rhodar-von-glauer/statblock/count-rhodar-von-glauer/",
       "name": "Count Rhodar von Glauer",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.count-rhodar-von-glauer/count-rhodar-von-glauer",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/count-rhodar-von-glauer/count-rhodar-von-glauer/",
-      "name": "Count Rhodar Von Glauer",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -15887,13 +15817,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.demons/demons",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/demons/demons/",
-      "name": "Demons",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.devils.statblock/devil-adjudicator",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/devils/statblock/devil-adjudicator/",
       "name": "Devil Adjudicator",
@@ -15957,13 +15880,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.devils/devils",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/devils/devils/",
-      "name": "Devils",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.draconians.statblock/aeolyxria-the-uncanny",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/draconians/statblock/aeolyxria-the-uncanny/",
       "name": "Aeolyxria the Uncanny",
@@ -16013,13 +15929,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.draconians/draconians",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/draconians/draconians/",
-      "name": "Draconians",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.dragons.statblock/crucible-dragon",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/dragons/statblock/crucible-dragon/",
       "name": "Crucible Dragon",
@@ -16059,13 +15968,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/dragons/crucible-dragon-malice/",
       "name": "Crucible Dragon Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.dragons/dragons",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/dragons/dragons/",
-      "name": "Dragons",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -16195,13 +16097,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.dwarves/dwarves",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/dwarves/dwarves/",
-      "name": "Dwarves",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.elementals.statblock/crux-of-fire",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/elementals/statblock/crux-of-fire/",
       "name": "Crux of Fire",
@@ -16241,13 +16136,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/elementals/elemental-malice/",
       "name": "Elemental Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.elementals/elementals",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/elementals/elementals/",
-      "name": "Elementals",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -16339,13 +16227,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-high/statblock/soot-crow/",
       "name": "Soot Crow",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.elves-high/elves-high",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-high/elves-high/",
-      "name": "Elves, High",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -16454,13 +16335,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.elves-shadow/elves-shadow",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-shadow/elves-shadow/",
-      "name": "Elves, Shadow",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.elves-shadow/shadow-elf-malice",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-shadow/shadow-elf-malice/",
       "name": "Shadow Elf Malice",
@@ -16559,13 +16433,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.elves-wode/elves-wode",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-wode/elves-wode/",
-      "name": "Elves, Wode",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.elves-wode/wode-elf-malice",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-wode/wode-elf-malice/",
       "name": "Wode Elf Malice",
@@ -16577,13 +16444,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/fossil-cryptic/statblock/fossil-cryptic/",
       "name": "Fossil Cryptic",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.fossil-cryptic/fossil-cryptic",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/fossil-cryptic/fossil-cryptic/",
-      "name": "Fossil Cryptic",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -16692,13 +16552,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.giants/giants",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/giants/giants/",
-      "name": "Giants",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.gnolls.statblock/abyssal-hyena",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/gnolls/statblock/abyssal-hyena/",
       "name": "Abyssal Hyena",
@@ -16780,13 +16633,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/gnolls/gnoll-malice/",
       "name": "Gnoll Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.gnolls/gnolls",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/gnolls/gnolls/",
-      "name": "Gnolls",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -16881,13 +16727,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.goblins/goblins",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/goblins/goblins/",
-      "name": "Goblins",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.griffons.statblock/griffon",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/griffons/statblock/griffon/",
       "name": "Griffon",
@@ -16909,9 +16748,359 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.griffons/griffons",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/griffons/griffons/",
+      "scc": "mcdm.monsters.v1/monster.group/ajax-the-invincible",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/ajax-the-invincible/",
+      "name": "Ajax the Invincible",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/angulotls",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/angulotls/",
+      "name": "Angulotls",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/animals",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/animals/",
+      "name": "Animals",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/arixx",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/arixx/",
+      "name": "Arixx",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/ashen-hoarder",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/ashen-hoarder/",
+      "name": "Ashen Hoarder",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/basilisks",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/basilisks/",
+      "name": "Basilisks",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/bredbeddle",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/bredbeddle/",
+      "name": "Bredbeddle",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/bugbears",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/bugbears/",
+      "name": "Bugbears",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/chimera",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/chimera/",
+      "name": "Chimera",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/count-rhodar-von-glauer",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/count-rhodar-von-glauer/",
+      "name": "Count Rhodar Von Glauer",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/demons",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/demons/",
+      "name": "Demons",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/devils",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/devils/",
+      "name": "Devils",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/draconians",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/draconians/",
+      "name": "Draconians",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/dragons",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/dragons/",
+      "name": "Dragons",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/dwarves",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/dwarves/",
+      "name": "Dwarves",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/elementals",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/elementals/",
+      "name": "Elementals",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/elves-high",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/elves-high/",
+      "name": "Elves, High",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/elves-shadow",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/elves-shadow/",
+      "name": "Elves, Shadow",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/elves-wode",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/elves-wode/",
+      "name": "Elves, Wode",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/fossil-cryptic",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/fossil-cryptic/",
+      "name": "Fossil Cryptic",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/giants",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/giants/",
+      "name": "Giants",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/gnolls",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/gnolls/",
+      "name": "Gnolls",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/goblins",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/goblins/",
+      "name": "Goblins",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/griffons",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/griffons/",
       "name": "Griffons",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/hag",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/hag/",
+      "name": "Hag",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/hobgoblins",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/hobgoblins/",
+      "name": "Hobgoblins",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/humans",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/humans/",
+      "name": "Humans",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/kingfissure-worm",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/kingfissure-worm/",
+      "name": "Kingfissure Worm",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/kobolds",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/kobolds/",
+      "name": "Kobolds",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/lich",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/lich/",
+      "name": "Lich",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/lightbenders",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/lightbenders/",
+      "name": "Lightbenders",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/lizardfolk",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/lizardfolk/",
+      "name": "Lizardfolk",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/lord-syuul",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/lord-syuul/",
+      "name": "Lord Syuul",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/manticore",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/manticore/",
+      "name": "Manticore",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/medusa",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/medusa/",
+      "name": "Medusa",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/minotaurs",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/minotaurs/",
+      "name": "Minotaurs",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/ogres",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/ogres/",
+      "name": "Ogres",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/olothec",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/olothec/",
+      "name": "Olothec",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/orcs",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/orcs/",
+      "name": "Orcs",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/radenwights",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/radenwights/",
+      "name": "Radenwights",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/rivals",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/rivals/",
+      "name": "Rivals",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/shambling-mound",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/shambling-mound/",
+      "name": "Shambling Mound",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/time-raiders",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/time-raiders/",
+      "name": "Time Raiders",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/trolls",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/trolls/",
+      "name": "Trolls",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/undead",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/undead/",
+      "name": "Undead",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/valok",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/valok/",
+      "name": "Valok",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/voiceless-talkers",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/voiceless-talkers/",
+      "name": "Voiceless Talkers",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/war-dogs",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/war-dogs/",
+      "name": "War Dogs",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/werewolf",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/werewolf/",
+      "name": "Werewolf",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/wyverns",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/wyverns/",
+      "name": "Wyverns",
+      "type": "monster",
+      "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.monsters.v1/monster.group/xorannox-the-tyract",
+      "url": "https://steelcompendium.io/v2/Bestiary/monster/group/xorannox-the-tyract/",
+      "name": "Xorannox the Tyract",
       "type": "monster",
       "source": "mcdm.monsters.v1"
     },
@@ -16920,13 +17109,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/hag/statblock/wode-hag/",
       "name": "Wode Hag",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.hag/hag",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/hag/hag/",
-      "name": "Hag",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17049,13 +17231,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.hobgoblins/hobgoblins",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/hobgoblins/hobgoblins/",
-      "name": "Hobgoblins",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.humans.statblock/giant-hawk",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/humans/statblock/giant-hawk/",
       "name": "Giant Hawk",
@@ -17168,24 +17343,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.humans/humans",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/humans/humans/",
-      "name": "Humans",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.kingfissure-worm.statblock/kingfissure-worm",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/kingfissure-worm/statblock/kingfissure-worm/",
       "name": "Kingfissure Worm",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.kingfissure-worm/kingfissure-worm",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/kingfissure-worm/kingfissure-worm/",
-      "name": "Kingfissure Worm",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17287,24 +17448,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.kobolds/kobolds",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/kobolds/kobolds/",
-      "name": "Kobolds",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.lich.statblock/lich",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/lich/statblock/lich/",
       "name": "Lich",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.lich/lich",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/lich/lich/",
-      "name": "Lich",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17333,13 +17480,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/lightbenders/lightbender-malice/",
       "name": "Lightbender Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.lightbenders/lightbenders",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/lightbenders/lightbenders/",
-      "name": "Lightbenders",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17392,13 +17532,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.lizardfolk/lizardfolk",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/lizardfolk/lizardfolk/",
-      "name": "Lizardfolk",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.lizardfolk/lizardfolk-malice",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/lizardfolk/lizardfolk-malice/",
       "name": "Lizardfolk Malice",
@@ -17410,13 +17543,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/lord-syuul/statblock/lord-syuul/",
       "name": "Lord Syuul",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.lord-syuul/lord-syuul",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/lord-syuul/lord-syuul/",
-      "name": "Lord Syuul",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17434,13 +17560,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.manticore/manticore",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/manticore/manticore/",
-      "name": "Manticore",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.manticore/manticore-malice",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/manticore/manticore-malice/",
       "name": "Manticore Malice",
@@ -17452,13 +17571,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/medusa/statblock/medusa/",
       "name": "Medusa",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.medusa/medusa",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/medusa/medusa/",
-      "name": "Medusa",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17511,13 +17623,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.minotaurs/minotaurs",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/minotaurs/minotaurs/",
-      "name": "Minotaurs",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.noncombatant.statblock/noncombatant",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/noncombatant/statblock/noncombatant/",
       "name": "Noncombatant",
@@ -17567,24 +17672,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.ogres/ogres",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/ogres/ogres/",
-      "name": "Ogres",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.olothec.statblock/olothec",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/olothec/statblock/olothec/",
       "name": "Olothec",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.olothec/olothec",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/olothec/olothec/",
-      "name": "Olothec",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17707,13 +17798,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.orcs/orcs",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/orcs/orcs/",
-      "name": "Orcs",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.radenwights.statblock/radenwight-bruxer",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/radenwights/statblock/radenwight-bruxer/",
       "name": "Radenwight Bruxer",
@@ -17774,13 +17858,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/radenwights/radenwight-malice/",
       "name": "Radenwight Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.radenwights/radenwights",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/radenwights/radenwights/",
-      "name": "Radenwights",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -17987,24 +18064,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.rivals/rivals",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/rivals/rivals/",
-      "name": "Rivals",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.shambling-mound.statblock/shambling-mound",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/shambling-mound/statblock/shambling-mound/",
       "name": "Shambling Mound",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.shambling-mound/shambling-mound",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/shambling-mound/shambling-mound/",
-      "name": "Shambling Mound",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18092,13 +18155,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.time-raiders/time-raiders",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/time-raiders/time-raiders/",
-      "name": "Time Raiders",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.trolls.statblock/troll-butcher",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/trolls/statblock/troll-butcher/",
       "name": "Troll Butcher",
@@ -18145,13 +18201,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/trolls/troll-malice/",
       "name": "Troll Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.trolls/trolls",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/trolls/trolls/",
-      "name": "Trolls",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18421,13 +18470,6 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.undead/undead",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/undead/",
-      "name": "Undead",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.valok.statblock/multivok-bodyguard",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/valok/statblock/multivok-bodyguard/",
       "name": "Multivok Bodyguard",
@@ -18460,13 +18502,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/valok/statblock/servok-war-engine/",
       "name": "Servok War Engine",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.valok/valok",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/valok/valok/",
-      "name": "Valok",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18530,13 +18565,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/voiceless-talkers/voiceless-talker-malice/",
       "name": "Voiceless Talker Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.voiceless-talkers/voiceless-talkers",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/voiceless-talkers/voiceless-talkers/",
-      "name": "Voiceless Talkers",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18883,24 +18911,10 @@
       "source": "mcdm.monsters.v1"
     },
     {
-      "scc": "mcdm.monsters.v1/monster.war-dogs/war-dogs",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/war-dogs/war-dogs/",
-      "name": "War Dogs",
-      "type": "monster",
-      "source": "mcdm.monsters.v1"
-    },
-    {
       "scc": "mcdm.monsters.v1/monster.werewolf.statblock/werewolf",
       "url": "https://steelcompendium.io/v2/Bestiary/monster/werewolf/statblock/werewolf/",
       "name": "Werewolf",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.werewolf/werewolf",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/werewolf/werewolf/",
-      "name": "Werewolf",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18929,13 +18943,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/wyverns/wyvern-malice/",
       "name": "Wyvern Malice",
       "type": "featureblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.wyverns/wyverns",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/wyverns/wyverns/",
-      "name": "Wyverns",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
@@ -18985,13 +18992,6 @@
       "url": "https://steelcompendium.io/v2/Bestiary/monster/xorannox-the-tyract/statblock/zapper-eye/",
       "name": "Zapper Eye",
       "type": "statblock",
-      "source": "mcdm.monsters.v1"
-    },
-    {
-      "scc": "mcdm.monsters.v1/monster.xorannox-the-tyract/xorannox-the-tyract",
-      "url": "https://steelcompendium.io/v2/Bestiary/monster/xorannox-the-tyract/xorannox-the-tyract/",
-      "name": "Xorannox the Tyract",
-      "type": "monster",
       "source": "mcdm.monsters.v1"
     },
     {
