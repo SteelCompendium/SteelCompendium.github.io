@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/war-dogs/4th-echelon/war-dog-malice-level-10-malice-features/",
   "name": "War Dog Malice (Level 10+ Malice Features)",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

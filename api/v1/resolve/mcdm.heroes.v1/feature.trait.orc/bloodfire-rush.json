@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/trait/orc/bloodfire-rush/",
   "name": "Bloodfire Rush",
   "type": "trait",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

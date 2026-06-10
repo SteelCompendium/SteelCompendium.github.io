@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/time-raider-mind-healer/",
   "name": "Time Raider Mind Healer",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

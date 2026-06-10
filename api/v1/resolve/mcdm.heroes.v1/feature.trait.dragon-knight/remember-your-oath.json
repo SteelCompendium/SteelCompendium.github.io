@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/trait/dragon-knight/remember-your-oath/",
   "name": "Remember Your Oath",
   "type": "trait",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

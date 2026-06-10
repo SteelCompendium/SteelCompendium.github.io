@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/project/learn-new-skill/",
   "name": "Learn New Skill",
   "type": "project",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

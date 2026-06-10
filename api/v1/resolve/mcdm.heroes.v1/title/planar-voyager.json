@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/title/planar-voyager/",
   "name": "Planar Voyager",
   "type": "title",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

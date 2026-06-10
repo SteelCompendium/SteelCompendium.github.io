@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/conduit/level-2/2nd-level-domain-ability/",
   "name": "2nd-Level Domain Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

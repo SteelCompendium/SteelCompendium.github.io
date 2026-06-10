@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/high-elf-weatherwise/",
   "name": "High Elf Weatherwise",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

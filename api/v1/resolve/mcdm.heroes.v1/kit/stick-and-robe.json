@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/kit/stick-and-robe/",
   "name": "Stick and Robe",
   "type": "kit",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

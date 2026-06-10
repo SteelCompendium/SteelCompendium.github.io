@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/conduit/level-2/the-lists-of-heaven/",
   "name": "The Lists of Heaven",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

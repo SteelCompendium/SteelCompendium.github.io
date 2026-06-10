@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-3/3rd-level-class-act-feature/",
   "name": "3rd-Level Class Act Feature",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-1/1st-level-class-act-features/",
   "name": "1st-Level Class Act Features",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/null/level-1/force-augmentation/",
   "name": "Force Augmentation",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

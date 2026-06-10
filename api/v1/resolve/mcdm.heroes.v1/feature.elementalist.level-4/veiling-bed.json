@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/elementalist/level-4/veiling-bed/",
   "name": "Veiling Bed",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

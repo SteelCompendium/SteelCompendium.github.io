@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/tactician/level-7/shock-and-awe/",
   "name": "Shock and Awe",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/beastheart/level-8/turn-the-world-to-ash/",
   "name": "Turn the World To Ash",
   "type": "ability",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

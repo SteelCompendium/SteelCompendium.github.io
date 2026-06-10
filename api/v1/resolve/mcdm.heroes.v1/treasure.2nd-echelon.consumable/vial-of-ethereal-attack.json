@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/vial-of-ethereal-attack/",
   "name": "Vial of Ethereal Attack",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

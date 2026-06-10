@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/tactician/level-9/their-lack-of-focus-is-their-undoing/",
   "name": "Their Lack of Focus Is Their Undoing",
   "type": "ability",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

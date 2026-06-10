@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-5/i-can-take-it/",
   "name": "I Can Take It",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

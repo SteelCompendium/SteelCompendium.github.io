@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/hellcharger-helm/",
   "name": "Hellcharger Helm",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/common/maneuvers/escape-grab/",
   "name": "Escape Grab",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

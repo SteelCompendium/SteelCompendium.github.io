@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/project/build-airship/",
   "name": "Build Airship",
   "type": "project",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/fury/stormwight-kits/kit-bonuses/",
   "name": "Kit Bonuses",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

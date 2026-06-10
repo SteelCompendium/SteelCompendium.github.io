@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/talent/level-6/6th-level-tradition-ability/",
   "name": "6th-Level Tradition Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

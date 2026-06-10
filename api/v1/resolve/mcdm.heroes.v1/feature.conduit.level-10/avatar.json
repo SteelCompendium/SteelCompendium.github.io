@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/conduit/level-10/avatar/",
   "name": "Avatar",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/previous-life-1-point/",
   "name": "Previous Life: 1 Point",
   "type": "trait",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }
