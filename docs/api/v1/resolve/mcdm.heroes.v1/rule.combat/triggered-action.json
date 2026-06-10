@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/rule/combat/triggered-action/",
   "name": "Triggered Actions and Free Triggered Actions",
   "type": "rule",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

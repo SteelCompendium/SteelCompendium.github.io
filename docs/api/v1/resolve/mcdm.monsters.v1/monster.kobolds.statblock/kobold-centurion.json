@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.kobolds.statblock/kobold-centurion",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/kobolds/statblock/kobold-centurion/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/kobolds/statblock/kobold-centurion/",
   "name": "Kobold Centurion",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

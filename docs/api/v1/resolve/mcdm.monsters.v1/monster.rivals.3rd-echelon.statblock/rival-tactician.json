@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.rivals.3rd-echelon.statblock/rival-tactician",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/rivals/3rd-echelon/statblock/rival-tactician/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/rivals/3rd-echelon/statblock/rival-tactician/",
   "name": "Rival Tactician",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

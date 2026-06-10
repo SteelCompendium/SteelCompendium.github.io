@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.ogres.statblock/ogre-juggernaut",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/ogres/statblock/ogre-juggernaut/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/ogres/statblock/ogre-juggernaut/",
   "name": "Ogre Juggernaut",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

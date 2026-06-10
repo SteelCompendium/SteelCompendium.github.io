@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.basilisks.statblock/basilisk",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/basilisks/statblock/basilisk/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/basilisks/statblock/basilisk/",
   "name": "Basilisk",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

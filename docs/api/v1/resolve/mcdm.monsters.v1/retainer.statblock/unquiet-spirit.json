@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/retainer.statblock/unquiet-spirit",
-  "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/unquiet-spirit/",
+  "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/unquiet-spirit/",
   "name": "Unquiet Spirit",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

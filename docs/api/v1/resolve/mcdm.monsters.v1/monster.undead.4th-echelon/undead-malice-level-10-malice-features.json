@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.undead.4th-echelon/undead-malice-level-10-malice-features",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/4th-echelon/undead-malice-level-10-malice-features/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/undead/4th-echelon/undead-malice-level-10-malice-features/",
   "name": "Undead Malice (Level 10 Malice Features)",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

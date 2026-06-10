@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.minotaurs.statblock/minotaur-bully",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/minotaurs/statblock/minotaur-bully/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/minotaurs/statblock/minotaur-bully/",
   "name": "Minotaur Bully",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

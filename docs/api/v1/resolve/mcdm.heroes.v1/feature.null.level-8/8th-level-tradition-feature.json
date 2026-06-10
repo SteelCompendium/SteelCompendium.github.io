@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/null/level-8/8th-level-tradition-feature/",
   "name": "8th-Level Tradition Feature",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

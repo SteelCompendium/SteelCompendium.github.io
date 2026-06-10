@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.goblins.statblock/skitterling",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/goblins/statblock/skitterling/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/goblins/statblock/skitterling/",
   "name": "Skitterling",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

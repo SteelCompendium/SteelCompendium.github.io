@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/retainer.statblock/minotaur-gorer",
-  "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/minotaur-gorer/",
+  "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/minotaur-gorer/",
   "name": "Minotaur Gorer",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

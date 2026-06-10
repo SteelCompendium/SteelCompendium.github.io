@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.siege-engines/boiling-oil-cauldron",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/siege-engines/boiling-oil-cauldron/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/siege-engines/boiling-oil-cauldron/",
   "name": "Boiling Oil Cauldron",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

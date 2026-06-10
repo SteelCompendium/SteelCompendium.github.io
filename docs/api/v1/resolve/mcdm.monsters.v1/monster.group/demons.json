@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.group/demons",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/group/demons/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/group/demons/",
   "name": "Demons",
   "type": "monster",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

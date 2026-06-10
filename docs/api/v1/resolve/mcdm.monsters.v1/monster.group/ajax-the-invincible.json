@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.group/ajax-the-invincible",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/group/ajax-the-invincible/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/group/ajax-the-invincible/",
   "name": "Ajax the Invincible",
   "type": "monster",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.fossil-cryptic.statblock/fossil-cryptic",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/fossil-cryptic/statblock/fossil-cryptic/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/fossil-cryptic/statblock/fossil-cryptic/",
   "name": "Fossil Cryptic",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

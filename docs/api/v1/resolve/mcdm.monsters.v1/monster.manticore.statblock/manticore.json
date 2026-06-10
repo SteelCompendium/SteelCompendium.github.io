@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.manticore.statblock/manticore",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/manticore/statblock/manticore/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/manticore/statblock/manticore/",
   "name": "Manticore",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

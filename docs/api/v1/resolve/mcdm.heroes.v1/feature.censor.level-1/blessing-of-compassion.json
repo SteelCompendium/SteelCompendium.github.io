@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/censor/level-1/blessing-of-compassion/",
   "name": "Blessing of Compassion",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

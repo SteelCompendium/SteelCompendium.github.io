@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.undead.3rd-echelon.statblock/dirt-mournling",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/3rd-echelon/statblock/dirt-mournling/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/undead/3rd-echelon/statblock/dirt-mournling/",
   "name": "Dirt Mournling",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

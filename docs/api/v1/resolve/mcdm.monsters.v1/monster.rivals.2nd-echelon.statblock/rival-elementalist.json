@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.rivals.2nd-echelon.statblock/rival-elementalist",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/rivals/2nd-echelon/statblock/rival-elementalist/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/rivals/2nd-echelon/statblock/rival-elementalist/",
   "name": "Rival Elementalist",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

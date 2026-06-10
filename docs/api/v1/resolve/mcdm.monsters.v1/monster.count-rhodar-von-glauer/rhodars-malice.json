@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.count-rhodar-von-glauer/rhodars-malice",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/count-rhodar-von-glauer/rhodars-malice/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/count-rhodar-von-glauer/rhodars-malice/",
   "name": "Rhodar's Malice",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

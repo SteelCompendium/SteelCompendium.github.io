@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.kingfissure-worm.statblock/kingfissure-worm",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/kingfissure-worm/statblock/kingfissure-worm/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/kingfissure-worm/statblock/kingfissure-worm/",
   "name": "Kingfissure Worm",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

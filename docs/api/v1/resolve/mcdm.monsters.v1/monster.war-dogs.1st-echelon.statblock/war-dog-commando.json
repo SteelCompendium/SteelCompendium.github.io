@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.war-dogs.1st-echelon.statblock/war-dog-commando",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/war-dogs/1st-echelon/statblock/war-dog-commando/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/war-dogs/1st-echelon/statblock/war-dog-commando/",
   "name": "War Dog Commando",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

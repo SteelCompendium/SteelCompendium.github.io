@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.hobgoblins.statblock/hobgoblin-bloodlord",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/hobgoblins/statblock/hobgoblin-bloodlord/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/hobgoblins/statblock/hobgoblin-bloodlord/",
   "name": "Hobgoblin Bloodlord",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

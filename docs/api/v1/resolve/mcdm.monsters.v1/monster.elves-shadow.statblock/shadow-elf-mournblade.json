@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.elves-shadow.statblock/shadow-elf-mournblade",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-shadow/statblock/shadow-elf-mournblade/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/elves-shadow/statblock/shadow-elf-mournblade/",
   "name": "Shadow Elf Mournblade",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

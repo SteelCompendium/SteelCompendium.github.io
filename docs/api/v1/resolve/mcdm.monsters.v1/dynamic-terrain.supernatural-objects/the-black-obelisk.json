@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-black-obelisk",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/supernatural-objects/the-black-obelisk/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/supernatural-objects/the-black-obelisk/",
   "name": "The Black Obelisk",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.mechanisms/column-of-blades",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/mechanisms/column-of-blades/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/mechanisms/column-of-blades/",
   "name": "Column of Blades",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

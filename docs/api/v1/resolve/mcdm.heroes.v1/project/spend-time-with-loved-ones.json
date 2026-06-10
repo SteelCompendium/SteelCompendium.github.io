@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/project/spend-time-with-loved-ones/",
   "name": "Spend Time With Loved Ones",
   "type": "project",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

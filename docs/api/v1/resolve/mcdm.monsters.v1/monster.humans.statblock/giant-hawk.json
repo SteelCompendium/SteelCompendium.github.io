@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.humans.statblock/giant-hawk",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/humans/statblock/giant-hawk/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/humans/statblock/giant-hawk/",
   "name": "Giant Hawk",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.kobolds.statblock/trained-gummy-brick",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/kobolds/statblock/trained-gummy-brick/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/kobolds/statblock/trained-gummy-brick/",
   "name": "Trained Gummy Brick",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

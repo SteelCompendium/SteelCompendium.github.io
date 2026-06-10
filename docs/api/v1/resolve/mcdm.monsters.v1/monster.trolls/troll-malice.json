@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.trolls/troll-malice",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/trolls/troll-malice/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/trolls/troll-malice/",
   "name": "Troll Malice",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

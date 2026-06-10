@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.arixx.statblock/arixx",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/arixx/statblock/arixx/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/arixx/statblock/arixx/",
   "name": "Arixx",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

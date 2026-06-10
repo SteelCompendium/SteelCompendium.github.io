@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.olothec/olothec-malice",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/olothec/olothec-malice/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/olothec/olothec-malice/",
   "name": "Olothec Malice",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

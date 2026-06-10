@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/tactician/level-8/ill-open-and-youll-close/",
   "name": "I'll Open and You'll Close",
   "type": "ability",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

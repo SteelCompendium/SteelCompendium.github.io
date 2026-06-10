@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/feature-group/companion/panther/",
   "name": "Panther",
   "type": "feature-group",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }

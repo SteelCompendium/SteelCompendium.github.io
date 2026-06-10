@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.hobgoblins/hobgoblin-malice",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/hobgoblins/hobgoblin-malice/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/hobgoblins/hobgoblin-malice/",
   "name": "Hobgoblin Malice",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

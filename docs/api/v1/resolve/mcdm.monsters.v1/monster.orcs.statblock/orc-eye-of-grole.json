@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.orcs.statblock/orc-eye-of-grole",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/orcs/statblock/orc-eye-of-grole/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/orcs/statblock/orc-eye-of-grole/",
   "name": "Orc Eye of Grole",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

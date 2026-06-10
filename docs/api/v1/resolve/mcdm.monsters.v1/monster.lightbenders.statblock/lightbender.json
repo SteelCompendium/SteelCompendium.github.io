@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.lightbenders.statblock/lightbender",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/lightbenders/statblock/lightbender/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/lightbenders/statblock/lightbender/",
   "name": "Lightbender",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

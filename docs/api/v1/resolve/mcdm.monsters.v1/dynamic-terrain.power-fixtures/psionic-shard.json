@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.power-fixtures/psionic-shard",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/power-fixtures/psionic-shard/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/power-fixtures/psionic-shard/",
   "name": "Psionic Shard",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.xorannox-the-tyract.statblock/necrotic-eye",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/xorannox-the-tyract/statblock/necrotic-eye/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/xorannox-the-tyract/statblock/necrotic-eye/",
   "name": "Necrotic Eye",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

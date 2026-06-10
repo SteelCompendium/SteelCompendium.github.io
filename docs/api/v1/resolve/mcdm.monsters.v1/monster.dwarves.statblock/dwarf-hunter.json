@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.dwarves.statblock/dwarf-hunter",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/dwarves/statblock/dwarf-hunter/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/dwarves/statblock/dwarf-hunter/",
   "name": "Dwarf Hunter",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

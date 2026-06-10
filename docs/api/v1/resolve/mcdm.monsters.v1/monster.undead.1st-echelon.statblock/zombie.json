@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.undead.1st-echelon.statblock/zombie",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/1st-echelon/statblock/zombie/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/undead/1st-echelon/statblock/zombie/",
   "name": "Zombie",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }
