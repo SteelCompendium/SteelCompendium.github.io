@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/power-fixtures/tree-of-might/",
   "name": "Tree of Might",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

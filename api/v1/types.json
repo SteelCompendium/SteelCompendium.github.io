@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "scheme_version": 1,
   "types": {
     "ability": [
       {

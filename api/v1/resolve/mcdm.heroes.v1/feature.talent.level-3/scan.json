@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/talent/level-3/scan/",
   "name": "Scan",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

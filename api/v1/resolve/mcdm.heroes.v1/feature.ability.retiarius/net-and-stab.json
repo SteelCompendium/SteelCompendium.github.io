@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/retiarius/net-and-stab/",
   "name": "Net and Stab",
   "type": "ability",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

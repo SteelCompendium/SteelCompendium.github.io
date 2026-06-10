@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/dwarf-mortar/",
   "name": "Dwarf Mortar",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

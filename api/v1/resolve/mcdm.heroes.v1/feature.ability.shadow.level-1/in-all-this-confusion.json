@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-1/in-all-this-confusion/",
   "name": "In All This Confusion",
   "type": "ability",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

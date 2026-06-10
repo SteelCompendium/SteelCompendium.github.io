@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-6/ursine-form/",
   "name": "Ursine Form",
   "type": "feature",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }

@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/deinonychus/level-3/tear-you-to-ribbons/",
   "name": "Tear You to Ribbons",
   "type": "feature",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }

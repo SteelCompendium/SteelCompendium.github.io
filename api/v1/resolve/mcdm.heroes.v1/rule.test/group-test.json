@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/rule/test/group-test/",
   "name": "Group Tests",
   "type": "rule",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

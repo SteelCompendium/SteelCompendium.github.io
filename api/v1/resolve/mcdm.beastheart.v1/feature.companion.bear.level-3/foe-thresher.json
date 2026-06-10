@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-3/foe-thresher/",
   "name": "Foe Thresher",
   "type": "feature",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }

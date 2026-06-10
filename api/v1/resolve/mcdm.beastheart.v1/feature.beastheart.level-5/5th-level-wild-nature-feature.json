@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-5/5th-level-wild-nature-feature/",
   "name": "5th-Level Wild Nature Feature",
   "type": "feature",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }
