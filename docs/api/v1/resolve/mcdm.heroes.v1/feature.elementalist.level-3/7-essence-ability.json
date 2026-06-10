@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/elementalist/level-3/7-essence-ability/",
   "name": "7-Essence Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

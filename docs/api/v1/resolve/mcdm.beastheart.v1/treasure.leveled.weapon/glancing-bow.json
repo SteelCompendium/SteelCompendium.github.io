@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/glancing-bow/",
   "name": "Glancing Bow",
   "type": "treasure",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

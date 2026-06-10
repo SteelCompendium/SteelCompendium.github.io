@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-shadow/statblock/shadow-elf-dusk-mage/",
   "name": "Shadow Elf Dusk Mage",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

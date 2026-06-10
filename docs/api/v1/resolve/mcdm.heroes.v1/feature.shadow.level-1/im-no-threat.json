@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/shadow/level-1/im-no-threat/",
   "name": "I'm No Threat",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

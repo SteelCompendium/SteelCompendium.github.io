@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/tactician/level-2/targets-of-opportunity/",
   "name": "Targets of Opportunity",
   "type": "ability",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

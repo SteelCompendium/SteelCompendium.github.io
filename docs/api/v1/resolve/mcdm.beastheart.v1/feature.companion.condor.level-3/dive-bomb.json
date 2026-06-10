@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-3/dive-bomb/",
   "name": "Dive Bomb",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

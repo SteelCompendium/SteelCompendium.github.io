@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/trait/memonek/fall-lightly/",
   "name": "Signature Trait: Fall Lightly",
   "type": "trait",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

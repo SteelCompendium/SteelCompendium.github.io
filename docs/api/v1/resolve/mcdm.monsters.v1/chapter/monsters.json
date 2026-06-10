@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Read/chapter/monsters/",
   "name": "Monsters",
   "type": "chapter",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

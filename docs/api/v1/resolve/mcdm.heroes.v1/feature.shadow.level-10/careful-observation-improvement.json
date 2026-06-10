@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/shadow/level-10/careful-observation-improvement/",
   "name": "Careful Observation Improvement",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

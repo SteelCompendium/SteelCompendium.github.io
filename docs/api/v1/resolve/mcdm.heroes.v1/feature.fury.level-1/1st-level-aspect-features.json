@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/fury/level-1/1st-level-aspect-features/",
   "name": "1st-Level Aspect Features",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

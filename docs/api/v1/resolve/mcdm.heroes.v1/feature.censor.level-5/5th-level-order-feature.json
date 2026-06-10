@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/censor/level-5/5th-level-order-feature/",
   "name": "5th-Level Order Feature",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

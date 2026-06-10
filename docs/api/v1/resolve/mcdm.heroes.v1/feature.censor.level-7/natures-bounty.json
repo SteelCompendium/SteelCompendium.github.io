@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/censor/level-7/natures-bounty/",
   "name": "Nature's Bounty",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

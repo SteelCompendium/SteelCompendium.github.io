@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-1/ferocity/",
   "name": "Ferocity",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

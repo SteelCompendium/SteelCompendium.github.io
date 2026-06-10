@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/trait/revenant/tough-but-withered/",
   "name": "Signature Trait: Tough But Withered",
   "type": "trait",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

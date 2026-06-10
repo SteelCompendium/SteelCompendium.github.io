@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/purified-jelly/",
   "name": "Purified Jelly",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

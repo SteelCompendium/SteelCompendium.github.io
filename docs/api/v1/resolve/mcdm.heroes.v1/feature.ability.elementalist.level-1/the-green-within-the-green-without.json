@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/elementalist/level-1/the-green-within-the-green-without/",
   "name": "The Green Within, the Green Without",
   "type": "ability",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

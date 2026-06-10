@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/horned-champion/",
   "name": "Horned Champion",
   "type": "treasure",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

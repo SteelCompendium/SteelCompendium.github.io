@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/kit/dual-wielder/",
   "name": "Dual Wielder",
   "type": "kit",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

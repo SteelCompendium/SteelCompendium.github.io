@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/elementalist/level-3/earth-accepts-me/",
   "name": "Earth Accepts Me",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

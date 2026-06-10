@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/perk/ride-along/",
   "name": "Ride Along",
   "type": "perk",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

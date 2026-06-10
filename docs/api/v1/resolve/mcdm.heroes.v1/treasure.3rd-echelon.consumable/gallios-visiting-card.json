@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/consumable/gallios-visiting-card/",
   "name": "G'Allios Visiting Card",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

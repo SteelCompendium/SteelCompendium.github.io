@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/talent/level-10/clear-mind/",
   "name": "Clear Mind",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

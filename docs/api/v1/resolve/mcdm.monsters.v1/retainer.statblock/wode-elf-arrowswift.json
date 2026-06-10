@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/wode-elf-arrowswift/",
   "name": "Wode Elf Arrowswift",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

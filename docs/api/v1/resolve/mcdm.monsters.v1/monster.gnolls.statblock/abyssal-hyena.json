@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/gnolls/statblock/abyssal-hyena/",
   "name": "Abyssal Hyena",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

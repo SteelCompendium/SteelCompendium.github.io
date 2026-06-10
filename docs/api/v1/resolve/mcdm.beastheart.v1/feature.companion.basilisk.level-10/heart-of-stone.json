@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/basilisk/level-10/heart-of-stone/",
   "name": "Heart of Stone",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

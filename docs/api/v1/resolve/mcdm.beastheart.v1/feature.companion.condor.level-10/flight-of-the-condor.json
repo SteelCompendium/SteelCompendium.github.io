@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-10/flight-of-the-condor/",
   "name": "Flight of the Condor",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

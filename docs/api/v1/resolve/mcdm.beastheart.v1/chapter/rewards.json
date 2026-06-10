@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Read/chapter/rewards/",
   "name": "Rewards",
   "type": "chapter",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

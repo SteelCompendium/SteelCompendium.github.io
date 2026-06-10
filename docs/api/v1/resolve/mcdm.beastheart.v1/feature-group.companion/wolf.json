@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/feature-group/companion/wolf/",
   "name": "Wolf",
   "type": "feature-group",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

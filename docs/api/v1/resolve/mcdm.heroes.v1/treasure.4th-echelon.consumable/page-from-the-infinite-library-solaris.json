@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/consumable/page-from-the-infinite-library-solaris/",
   "name": "Page From the Infinite Library: Solaris",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

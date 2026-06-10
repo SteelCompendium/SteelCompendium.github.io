@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/tactician/level-5/5th-level-doctrine-features/",
   "name": "5th-Level Doctrine Features",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

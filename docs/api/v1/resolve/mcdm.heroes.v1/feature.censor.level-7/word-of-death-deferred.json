@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/censor/level-7/word-of-death-deferred/",
   "name": "Word of Death Deferred",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

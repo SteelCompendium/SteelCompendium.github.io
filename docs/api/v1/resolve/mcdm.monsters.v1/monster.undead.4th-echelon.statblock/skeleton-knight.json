@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/4th-echelon/statblock/skeleton-knight/",
   "name": "Skeleton Knight",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

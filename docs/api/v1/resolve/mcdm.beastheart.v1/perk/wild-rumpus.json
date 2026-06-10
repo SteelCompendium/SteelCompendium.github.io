@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/perk/wild-rumpus/",
   "name": "Wild Rumpus",
   "type": "perk",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

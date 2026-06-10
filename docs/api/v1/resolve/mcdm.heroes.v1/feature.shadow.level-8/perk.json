@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/shadow/level-8/perk/",
   "name": "Perk",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/angulotl-hopper/",
   "name": "Angulotl Hopper",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

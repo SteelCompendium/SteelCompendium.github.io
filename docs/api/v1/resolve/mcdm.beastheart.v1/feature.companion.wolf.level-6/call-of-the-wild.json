@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-6/call-of-the-wild/",
   "name": "Call of the Wild",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

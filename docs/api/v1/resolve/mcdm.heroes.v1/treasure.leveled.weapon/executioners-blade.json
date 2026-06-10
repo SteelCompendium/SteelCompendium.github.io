@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/weapon/executioners-blade/",
   "name": "Executioner's Blade",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

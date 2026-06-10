@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-2/formal-introductions/",
   "name": "Formal Introductions",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

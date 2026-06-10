@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/elementalist/level-1/subtle-relocation/",
   "name": "Subtle Relocation",
   "type": "ability",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

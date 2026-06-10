@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/consumable/chocolate-of-immovability/",
   "name": "Chocolate of Immovability",
   "type": "treasure",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

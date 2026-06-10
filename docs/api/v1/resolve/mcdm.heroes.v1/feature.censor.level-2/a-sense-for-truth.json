@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/censor/level-2/a-sense-for-truth/",
   "name": "A Sense for Truth",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

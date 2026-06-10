@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-9/roar-of-the-crowd/",
   "name": "Roar of the Crowd",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

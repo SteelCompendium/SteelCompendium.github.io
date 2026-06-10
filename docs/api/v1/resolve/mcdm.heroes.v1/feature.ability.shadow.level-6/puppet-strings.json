@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/shadow/level-6/puppet-strings/",
   "name": "Puppet Strings",
   "type": "ability",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

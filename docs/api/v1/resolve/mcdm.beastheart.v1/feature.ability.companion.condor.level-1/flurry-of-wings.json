@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/condor/level-1/flurry-of-wings/",
   "name": "Flurry of Wings",
   "type": "ability",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

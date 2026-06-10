@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/giants/statblock/fire-giant-red-fist/",
   "name": "Fire Giant Red Fist",
   "type": "statblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }

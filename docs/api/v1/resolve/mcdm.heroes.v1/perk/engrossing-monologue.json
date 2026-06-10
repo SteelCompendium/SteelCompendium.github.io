@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/perk/engrossing-monologue/",
   "name": "Engrossing Monologue",
   "type": "perk",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

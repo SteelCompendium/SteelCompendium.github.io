@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/fury/boren/primordial-storm-blizzard/",
   "name": "Primordial Storm: Blizzard",
   "type": "feature",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

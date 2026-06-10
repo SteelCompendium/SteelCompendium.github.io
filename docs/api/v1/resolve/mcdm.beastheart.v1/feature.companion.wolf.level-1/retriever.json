@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-1/retriever/",
   "name": "Retriever",
   "type": "feature",
-  "source": "mcdm.beastheart.v1",
-  "scheme_version": 1
+  "source": "mcdm.beastheart.v1"
 }

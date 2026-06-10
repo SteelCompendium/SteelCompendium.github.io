@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Browse/title/unstoppable/",
   "name": "Unstoppable",
   "type": "title",
-  "source": "mcdm.heroes.v1",
-  "scheme_version": 1
+  "source": "mcdm.heroes.v1"
 }

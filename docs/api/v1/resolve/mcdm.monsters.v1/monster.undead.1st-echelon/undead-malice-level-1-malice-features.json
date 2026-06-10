@@ -3,6 +3,5 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/1st-echelon/undead-malice-level-1-malice-features/",
   "name": "Undead Malice (Level 1+ Malice Features)",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1",
-  "scheme_version": 1
+  "source": "mcdm.monsters.v1"
 }
