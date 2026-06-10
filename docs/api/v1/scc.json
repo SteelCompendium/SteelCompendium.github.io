@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-10T20:52:58Z",
+  "generated": "2026-06-10T21:06:53Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -19148,6 +19148,1553 @@
       "name": "Wode Elf Arrowswift",
       "type": "statblock",
       "source": "mcdm.monsters.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/champion.demon.statblock/demon-lords-aspect",
+      "url": "https://steelcompendium.io/v2/Browse/champion/demon/statblock/demon-lords-aspect/",
+      "name": "Demon Lord's Aspect",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/champion.elemental.statblock/dragons-portent",
+      "url": "https://steelcompendium.io/v2/Browse/champion/elemental/statblock/dragons-portent/",
+      "name": "Dragon's Portent",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/champion.fey.statblock/celestial-attendant",
+      "url": "https://steelcompendium.io/v2/Browse/champion/fey/statblock/celestial-attendant/",
+      "name": "Celestial Attendant",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/champion.undead.statblock/avatar-of-death",
+      "url": "https://steelcompendium.io/v2/Browse/champion/undead/statblock/avatar-of-death/",
+      "name": "Avatar of Death",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/chapter/other-summoners",
+      "url": "https://steelcompendium.io/v2/Read/chapter/other-summoners/",
+      "name": "Other Summoners",
+      "type": "chapter",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/chapter/rewards",
+      "url": "https://steelcompendium.io/v2/Read/chapter/rewards/",
+      "name": "Rewards",
+      "type": "chapter",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/chapter/summoner-advice",
+      "url": "https://steelcompendium.io/v2/Read/chapter/summoner-advice/",
+      "name": "Summoner Advice",
+      "type": "chapter",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/chapter/the-summoner",
+      "url": "https://steelcompendium.io/v2/Read/chapter/the-summoner/",
+      "name": "The Summoner",
+      "type": "chapter",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/chapter/the-summoner-class",
+      "url": "https://steelcompendium.io/v2/Read/chapter/the-summoner-class/",
+      "name": "The Summoner Class",
+      "type": "chapter",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/class/summoner",
+      "url": "https://steelcompendium.io/v2/Browse/class/summoner/",
+      "name": "Summoner",
+      "type": "class",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/call-forth",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/call-forth/",
+      "name": "Call Forth (1+ Essence)",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/distraction-tactics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/distraction-tactics/",
+      "name": "Distraction Tactics",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/essence-transfer",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/essence-transfer/",
+      "name": "Essence Transfer",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/explosive-parade",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/explosive-parade/",
+      "name": "Explosive Parade",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/focus-fire",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/focus-fire/",
+      "name": "Focus Fire!",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/halt",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/halt/",
+      "name": "Halt!",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/minion-bridge",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/minion-bridge/",
+      "name": "Minion Bridge",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/not-yet",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/not-yet/",
+      "name": "Not Yet!",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/rallying-cry",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/rallying-cry/",
+      "name": "Rallying Cry",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/shield",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/shield/",
+      "name": "Shield!",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/shields-of-essence",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/shields-of-essence/",
+      "name": "Shields of Essence",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/strike-for-me",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/strike-for-me/",
+      "name": "Strike for Me",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/summoner-strike",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/summoner-strike/",
+      "name": "Summoner Strike",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-1/summoners-sword",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-1/summoners-sword/",
+      "name": "Summoner's Sword",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-3/blitz-tactics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-3/blitz-tactics/",
+      "name": "Blitz Tactics",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-3/cavalry-call",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-3/cavalry-call/",
+      "name": "Cavalry Call",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-3/essence-funnel",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-3/essence-funnel/",
+      "name": "Essence Funnel",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-3/lead-by-example",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-3/lead-by-example/",
+      "name": "Lead By Example",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-6/a-champions-cry",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-6/a-champions-cry/",
+      "name": "A Champion's Cry",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-6/armys-idol",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-6/armys-idol/",
+      "name": "Army's Idol",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-6/the-champion-slams-the-earth",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-6/the-champion-slams-the-earth/",
+      "name": "The Champion Slams the Earth",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-6/their-pall-shrouds-all",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-6/their-pall-shrouds-all/",
+      "name": "Their Pall Shrouds All",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-9/10000-minions",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-9/10000-minions/",
+      "name": "10,000 Minions",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-9/bodyguard-tactics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-9/bodyguard-tactics/",
+      "name": "Bodyguard Tactics",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-9/i-abjure-thee",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-9/i-abjure-thee/",
+      "name": "I Abjure Thee",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.ability.summoner.level-9/the-champions-wrath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/summoner/level-9/the-champions-wrath/",
+      "name": "The Champion's Wrath",
+      "type": "ability",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/1st-level-circle-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/1st-level-circle-features/",
+      "name": "1st-Level Circle Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/basics",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/basics/",
+      "name": "Basics",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/call-forth",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/call-forth/",
+      "name": "Call Forth",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/dead-men-tell-all-tales",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/dead-men-tell-all-tales/",
+      "name": "Dead Men Tell All Tales",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/death-snap",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/death-snap/",
+      "name": "Death Snap",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/elemental-affinity",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/elemental-affinity/",
+      "name": "Elemental Affinity",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/elite-formation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/elite-formation/",
+      "name": "Elite Formation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/essence",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/essence/",
+      "name": "Essence",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/fairy-whispers",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/fairy-whispers/",
+      "name": "Fairy Whispers",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/focus-fire",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/focus-fire/",
+      "name": "Focus Fire!",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/formation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/formation/",
+      "name": "Formation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/halt",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/halt/",
+      "name": "Halt!",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/heart-of-nature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/heart-of-nature/",
+      "name": "Heart of Nature",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/horde-formation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/horde-formation/",
+      "name": "Horde Formation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/leader-formation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/leader-formation/",
+      "name": "Leader Formation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/minion-bridge",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/minion-bridge/",
+      "name": "Minion Bridge",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/minions",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/minions/",
+      "name": "Minions",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/not-yet",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/not-yet/",
+      "name": "Not Yet!",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/pixie-dust",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/pixie-dust/",
+      "name": "Pixie Dust",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/platoon-formation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/platoon-formation/",
+      "name": "Platoon Formation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/portfolio",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/portfolio/",
+      "name": "Portfolio",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/quick-command",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/quick-command/",
+      "name": "Quick Command",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/rise",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/rise/",
+      "name": "Rise!",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/shield",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/shield/",
+      "name": "Shield!",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/soulsense",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/soulsense/",
+      "name": "Soulsense",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/strike-for-me",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/strike-for-me/",
+      "name": "Strike For Me",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/summoner-abilities",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/summoner-abilities/",
+      "name": "Summoner Abilities",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/summoner-circle",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/summoner-circle/",
+      "name": "Summoner Circle",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-1/summoner-strike",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/summoner-strike/",
+      "name": "Summoner Strike",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/10th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/10th-level-features/",
+      "name": "10th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/among-our-ranks",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/among-our-ranks/",
+      "name": "Among Our Ranks",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/eidos",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/eidos/",
+      "name": "Eidos",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/minion-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/minion-improvement/",
+      "name": "Minion Improvement",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/no-matter-the-cost",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/no-matter-the-cost/",
+      "name": "No Matter the Cost",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/perk/",
+      "name": "Perk",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-10/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-10/skill/",
+      "name": "Skill",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-2/2nd-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-2/2nd-level-features/",
+      "name": "2nd-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-2/new-portfolio-minion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-2/new-portfolio-minion/",
+      "name": "New Portfolio Minion",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-2/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-2/perk/",
+      "name": "Perk",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-2/summoners-dominion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-2/summoners-dominion/",
+      "name": "Summoner's Dominion",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/3rd-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/3rd-level-features/",
+      "name": "3rd-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/7-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/7-essence-ability/",
+      "name": "7-Essence Ability",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/conjured-ward",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/conjured-ward/",
+      "name": "Conjured Ward",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/emergency-ward",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/emergency-ward/",
+      "name": "Emergency Ward",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/howling-ward",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/howling-ward/",
+      "name": "Howling Ward",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/snare-ward",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/snare-ward/",
+      "name": "Snare Ward",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-3/summoners-kit",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-3/summoners-kit/",
+      "name": "Summoner's Kit",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/4th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/4th-level-features/",
+      "name": "4th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/essence-salvage",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/essence-salvage/",
+      "name": "Essence Salvage",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/minion-chain",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/minion-chain/",
+      "name": "Minion Chain",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/minion-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/minion-improvement/",
+      "name": "Minion Improvement",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/perk/",
+      "name": "Perk",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-4/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-4/skill/",
+      "name": "Skill",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/5th-level-circle-feature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/5th-level-circle-feature/",
+      "name": "5th-Level Circle Feature",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/5th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/5th-level-features/",
+      "name": "5th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/channel",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/channel/",
+      "name": "Channel",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/dread-march",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/dread-march/",
+      "name": "Dread March",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/flash-powder",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/flash-powder/",
+      "name": "Flash Powder",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/nature-watch",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/nature-watch/",
+      "name": "Nature Watch",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/new-portfolio-minion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/new-portfolio-minion/",
+      "name": "New Portfolio Minion",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/pixie-lift",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/pixie-lift/",
+      "name": "Pixie Lift",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/shaping",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/shaping/",
+      "name": "Shaping",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/soul-flense",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/soul-flense/",
+      "name": "Soul Flense",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-5/split",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-5/split/",
+      "name": "Split",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/6th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/6th-level-features/",
+      "name": "6th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/9-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/9-essence-ability/",
+      "name": "9-Essence Ability",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/kit-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/kit-improvement/",
+      "name": "Kit Improvement",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/minion-machinations",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/minion-machinations/",
+      "name": "Minion Machinations",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/perk/",
+      "name": "Perk",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-6/return-to-the-source/",
+      "name": "Return to the Source",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/7th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/7th-level-features/",
+      "name": "7th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/characteristic-increase",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/characteristic-increase/",
+      "name": "Characteristic Increase",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/font-of-creation",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/font-of-creation/",
+      "name": "Font of Creation",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/minion-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/minion-improvement/",
+      "name": "Minion Improvement",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/skill",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/skill/",
+      "name": "Skill",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-7/their-life-for-mine",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-7/their-life-for-mine/",
+      "name": "Their Life for Mine",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/8th-level-circle-feature",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/8th-level-circle-feature/",
+      "name": "8th-Level Circle Feature",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/8th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/8th-level-features/",
+      "name": "8th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/abyssal-evolution",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/abyssal-evolution/",
+      "name": "Abyssal Evolution",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/celestial-grace",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/celestial-grace/",
+      "name": "Celestial Grace",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/control-the-elements",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/control-the-elements/",
+      "name": "Control the Elements",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/kill-the-pain",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/kill-the-pain/",
+      "name": "Kill the Pain",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/perk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/perk/",
+      "name": "Perk",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-8/portfolio-champion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-8/portfolio-champion/",
+      "name": "Portfolio Champion",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-9/11-essence-ability",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-9/11-essence-ability/",
+      "name": "11-Essence Ability",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-9/9th-level-features",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-9/9th-level-features/",
+      "name": "9th-Level Features",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-9/kit-improvement",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-9/kit-improvement/",
+      "name": "Kit Improvement",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/feature.summoner.level-9/steward-of-two-worlds",
+      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-9/steward-of-two-worlds/",
+      "name": "Steward of Two Worlds",
+      "type": "feature",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/fixture.demon.statblock/the-boil",
+      "url": "https://steelcompendium.io/v2/Browse/fixture/demon/statblock/the-boil/",
+      "name": "The Boil",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/fixture.elemental.statblock/primordial-crystal",
+      "url": "https://steelcompendium.io/v2/Browse/fixture/elemental/statblock/primordial-crystal/",
+      "name": "Primordial Crystal",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/fixture.fey.statblock/glade-pond",
+      "url": "https://steelcompendium.io/v2/Browse/fixture/fey/statblock/glade-pond/",
+      "name": "Glade Pond",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/fixture.undead.statblock/barrow-gates",
+      "url": "https://steelcompendium.io/v2/Browse/fixture/undead/statblock/barrow-gates/",
+      "name": "Barrow Gates",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/archer-spittlich",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/archer-spittlich/",
+      "name": "Archer Spittlich",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/ensnarer",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/ensnarer/",
+      "name": "Ensnarer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/faded-blightling",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/faded-blightling/",
+      "name": "Faded Blightling",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/fanged-musilex",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/fanged-musilex/",
+      "name": "Fanged Musilex",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/gorrre",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/gorrre/",
+      "name": "Gorrre",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/gushing-spewler",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/gushing-spewler/",
+      "name": "Gushing Spewler",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/hulking-chimor",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/hulking-chimor/",
+      "name": "Hulking Chimor",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/rasquine",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/rasquine/",
+      "name": "Rasquine",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/razor",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/razor/",
+      "name": "Razor",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/twisted-bengrul",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/twisted-bengrul/",
+      "name": "Twisted Bengrul",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/vicisittante",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/vicisittante/",
+      "name": "Vicisittante",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.demon.statblock/violent",
+      "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/violent/",
+      "name": "Violent",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/brisk-gale",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/brisk-gale/",
+      "name": "Brisk Gale",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/crux-of-ash",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/crux-of-ash/",
+      "name": "Crux of Ash",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/dancing-silk",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/dancing-silk/",
+      "name": "Dancing Silk",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/desolation-of-sand",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/desolation-of-sand/",
+      "name": "Desolation of Sand",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/elemental-mote",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/elemental-mote/",
+      "name": "Elemental Mote",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/fire-plume",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/fire-plume/",
+      "name": "Fire Plume",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/flow-of-magma",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/flow-of-magma/",
+      "name": "Flow of Magma",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/iron-reaver",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/iron-reaver/",
+      "name": "Iron Reaver",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/knight-of-blood",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/knight-of-blood/",
+      "name": "Knight of Blood",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/light-of-the-sun",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/light-of-the-sun/",
+      "name": "Light of the Sun",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/principle-of-the-swamp",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/principle-of-the-swamp/",
+      "name": "Principle of the Swamp",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/quiet-of-snow",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/quiet-of-snow/",
+      "name": "Quiet of Snow",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.elemental.statblock/walking-boulder",
+      "url": "https://steelcompendium.io/v2/Browse/minion/elemental/statblock/walking-boulder/",
+      "name": "Walking Boulder",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/nixie-corallia",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/nixie-corallia/",
+      "name": "Nixie Corallia",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/nixie-hemloche",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/nixie-hemloche/",
+      "name": "Nixie Hemloche",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/nixie-soakreed",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/nixie-soakreed/",
+      "name": "Nixie Soakreed",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/pixie-belladonix",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/pixie-belladonix/",
+      "name": "Pixie Belladonix",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/pixie-bellringer",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/pixie-bellringer/",
+      "name": "Pixie Bellringer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/pixie-hydrain",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/pixie-hydrain/",
+      "name": "Pixie Hydrain",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/pixie-loftlilly",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/pixie-loftlilly/",
+      "name": "Pixie Loftlilly",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/pixie-rosenthall",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/pixie-rosenthall/",
+      "name": "Pixie Rosenthall",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/sprite-dandeknight",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/sprite-dandeknight/",
+      "name": "Sprite Dandeknight",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/sprite-foxglow",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/sprite-foxglow/",
+      "name": "Sprite Foxglow",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/sprite-olyender",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/sprite-olyender/",
+      "name": "Sprite Olyender",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.fey.statblock/sprite-orchiguard",
+      "url": "https://steelcompendium.io/v2/Browse/minion/fey/statblock/sprite-orchiguard/",
+      "name": "Sprite Orchiguard",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/accursed-mummy",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/accursed-mummy/",
+      "name": "Accursed Mummy",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/ceaseless-mournling",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/ceaseless-mournling/",
+      "name": "Ceaseless Mournling",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/false-vampire",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/false-vampire/",
+      "name": "False Vampire",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/grave-knight",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/grave-knight/",
+      "name": "Grave Knight",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/husk",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/husk/",
+      "name": "Husk",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/phantom-of-the-ripper",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/phantom-of-the-ripper/",
+      "name": "Phantom of the Ripper",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/phase-ghoul",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/phase-ghoul/",
+      "name": "Phase Ghoul",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/shrieker",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/shrieker/",
+      "name": "Shrieker",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/skeleton",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/skeleton/",
+      "name": "Skeleton",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/stalker-shade",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/stalker-shade/",
+      "name": "Stalker Shade",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/zombie-lumberer",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/zombie-lumberer/",
+      "name": "Zombie Lumberer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/minion.undead.statblock/zombie-titan",
+      "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/zombie-titan/",
+      "name": "Zombie Titan",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer",
+      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer/",
+      "name": "Pixie Bellringer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/retainer.summoner.statblock/devil-detective",
+      "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/devil-detective/",
+      "name": "Devil Detective",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/retainer.summoner.statblock/gorrre",
+      "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/gorrre/",
+      "name": "Gorrre",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/retainer.summoner.statblock/razor",
+      "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/razor/",
+      "name": "Razor",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/retainer.summoner.statblock/violent",
+      "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/violent/",
+      "name": "Violent",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.1st-echelon.statblock/accursed-mummy",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/1st-echelon/statblock/accursed-mummy/",
+      "name": "Accursed Mummy",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.1st-echelon.statblock/rival-summoner",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/1st-echelon/statblock/rival-summoner/",
+      "name": "Rival Summoner",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.1st-echelon.statblock/skeleton",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/1st-echelon/statblock/skeleton/",
+      "name": "Skeleton",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.1st-echelon.statblock/zombie-lumberer",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/1st-echelon/statblock/zombie-lumberer/",
+      "name": "Zombie Lumberer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.2nd-echelon.statblock/ceaseless-mournling",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/2nd-echelon/statblock/ceaseless-mournling/",
+      "name": "Ceaseless Mournling",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.2nd-echelon.statblock/grave-knight",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/2nd-echelon/statblock/grave-knight/",
+      "name": "Grave Knight",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.2nd-echelon.statblock/rival-summoner",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/2nd-echelon/statblock/rival-summoner/",
+      "name": "Rival Summoner",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.2nd-echelon.statblock/skeleton",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/2nd-echelon/statblock/skeleton/",
+      "name": "Skeleton",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.3rd-echelon.statblock/ceaseless-mournling",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/3rd-echelon/statblock/ceaseless-mournling/",
+      "name": "Ceaseless Mournling",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.3rd-echelon.statblock/false-vampire",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/3rd-echelon/statblock/false-vampire/",
+      "name": "False Vampire",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.3rd-echelon.statblock/rival-summoner",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/3rd-echelon/statblock/rival-summoner/",
+      "name": "Rival Summoner",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.3rd-echelon.statblock/skeleton",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/3rd-echelon/statblock/skeleton/",
+      "name": "Skeleton",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.3rd-echelon.statblock/zombie-lumberer",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/3rd-echelon/statblock/zombie-lumberer/",
+      "name": "Zombie Lumberer",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.4th-echelon.statblock/ceaseless-mournling",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/4th-echelon/statblock/ceaseless-mournling/",
+      "name": "Ceaseless Mournling",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.4th-echelon.statblock/grave-knight",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/4th-echelon/statblock/grave-knight/",
+      "name": "Grave Knight",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.4th-echelon.statblock/rival-summoner",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/4th-echelon/statblock/rival-summoner/",
+      "name": "Rival Summoner",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.4th-echelon.statblock/skeleton",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/4th-echelon/statblock/skeleton/",
+      "name": "Skeleton",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/rival.summoner.4th-echelon.statblock/zombie-titan",
+      "url": "https://steelcompendium.io/v2/Browse/rival/summoner/4th-echelon/statblock/zombie-titan/",
+      "name": "Zombie Titan",
+      "type": "statblock",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/delegator",
+      "url": "https://steelcompendium.io/v2/Browse/title/delegator/",
+      "name": "Delegator",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/high-summoner-of-the-circle",
+      "url": "https://steelcompendium.io/v2/Browse/title/high-summoner-of-the-circle/",
+      "name": "High Summoner of the Circle",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/ringleader",
+      "url": "https://steelcompendium.io/v2/Browse/title/ringleader/",
+      "name": "Ringleader",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/safeguarded",
+      "url": "https://steelcompendium.io/v2/Browse/title/safeguarded/",
+      "name": "Safeguarded",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/sigilwright",
+      "url": "https://steelcompendium.io/v2/Browse/title/sigilwright/",
+      "name": "Sigilwright",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/title/summoner-successor",
+      "url": "https://steelcompendium.io/v2/Browse/title/summoner-successor/",
+      "name": "Summoner Successor",
+      "type": "title",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.1st-echelon.trinket/snakerattle-bangle",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/1st-echelon/trinket/snakerattle-bangle/",
+      "name": "Snakerattle Bangle",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.2nd-echelon.trinket/abyssal-map-ink",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/abyssal-map-ink/",
+      "name": "Abyssal Map Ink",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.2nd-echelon.trinket/grasp-of-the-chained-hand",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/grasp-of-the-chained-hand/",
+      "name": "Grasp of the Chained Hand",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.2nd-echelon.trinket/thunder-chariot",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/2nd-echelon/trinket/thunder-chariot/",
+      "name": "Thunder Chariot",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.3rd-echelon.trinket/cross-of-the-scorned-puppeteer",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/cross-of-the-scorned-puppeteer/",
+      "name": "Cross of the Scorned Puppeteer",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.3rd-echelon.trinket/crystallized-essence",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/crystallized-essence/",
+      "name": "Crystallized Essence",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.3rd-echelon.trinket/warbanner-of-pride",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/3rd-echelon/trinket/warbanner-of-pride/",
+      "name": "Warbanner of Pride",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.4th-echelon.trinket/hagbasket",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/trinket/hagbasket/",
+      "name": "Hagbasket",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.4th-echelon.trinket/warbanner-of-wrath",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/4th-echelon/trinket/warbanner-of-wrath/",
+      "name": "Warbanner of Wrath",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.leveled.implement/33-field-commanders-baton",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/33-field-commanders-baton/",
+      "name": "33 Field Commanders Baton",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.leveled.implement/rex-scepter",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/rex-scepter/",
+      "name": "Rex Scepter",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.leveled.implement/sanctuary-horn",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/sanctuary-horn/",
+      "name": "Sanctuary Horn",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
+    },
+    {
+      "scc": "mcdm.summoner.v1/treasure.leveled.implement/wand-of-the-unheard-orchestra",
+      "url": "https://steelcompendium.io/v2/Browse/treasure/leveled/implement/wand-of-the-unheard-orchestra/",
+      "name": "Wand of the Unheard Orchestra",
+      "type": "treasure",
+      "source": "mcdm.summoner.v1"
     }
   ]
 }
