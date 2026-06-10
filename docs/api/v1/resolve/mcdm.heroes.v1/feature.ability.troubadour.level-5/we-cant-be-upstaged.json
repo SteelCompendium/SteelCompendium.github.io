@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/troubadour/level-5/we-cant-be-upstaged/",
   "name": "We Can't Be Upstaged!",
   "type": "ability",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

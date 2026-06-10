@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/shadow-elf-shade/",
   "name": "Shadow Elf Shade",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

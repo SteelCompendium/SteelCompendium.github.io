@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/fieldworks/flammable-oil/",
   "name": "Flammable Oil",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

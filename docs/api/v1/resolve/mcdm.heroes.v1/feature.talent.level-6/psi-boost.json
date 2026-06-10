@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/talent/level-6/psi-boost/",
   "name": "Psi Boost",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

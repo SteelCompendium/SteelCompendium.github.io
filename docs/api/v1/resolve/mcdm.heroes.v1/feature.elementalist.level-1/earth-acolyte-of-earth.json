@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/elementalist/level-1/earth-acolyte-of-earth/",
   "name": "Earth: Acolyte of Earth",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

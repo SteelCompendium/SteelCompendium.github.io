@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/common/maneuvers/make-or-assist-a-test/",
   "name": "Make or Assist a Test",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

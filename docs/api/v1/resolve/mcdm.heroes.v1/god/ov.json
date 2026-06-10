@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/god/ov/",
   "name": "OV the Wave Pilot",
   "type": "god",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

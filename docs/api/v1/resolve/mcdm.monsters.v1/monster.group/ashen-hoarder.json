@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/group/ashen-hoarder/",
   "name": "Ashen Hoarder",
   "type": "monster",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

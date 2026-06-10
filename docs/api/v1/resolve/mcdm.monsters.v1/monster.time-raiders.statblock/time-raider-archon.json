@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/time-raiders/statblock/time-raider-archon/",
   "name": "Time Raider Archon",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

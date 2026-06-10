@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/time-raiders/statblock/time-raider-mind-punk/",
   "name": "Time Raider Mind Punk",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

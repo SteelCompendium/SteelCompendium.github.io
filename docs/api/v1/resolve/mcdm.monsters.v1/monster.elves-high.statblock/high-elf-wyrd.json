@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-high/statblock/high-elf-wyrd/",
   "name": "High Elf Wyrd",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

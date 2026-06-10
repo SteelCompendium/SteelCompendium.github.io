@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Bestiary/monster/war-dogs/1st-echelon/statblock/war-dog-ground-commander/",
   "name": "War Dog Ground Commander",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

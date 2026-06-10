@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/troubadour/level-1/ballad-of-the-beast/",
   "name": "\"Ballad of the Beast\"",
   "type": "ability",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

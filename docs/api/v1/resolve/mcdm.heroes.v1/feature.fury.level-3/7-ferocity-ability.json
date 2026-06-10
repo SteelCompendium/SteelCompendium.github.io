@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/fury/level-3/7-ferocity-ability/",
   "name": "7-Ferocity Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-2/this-ones-yours/",
   "name": "This One's Yours",
   "type": "feature",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }

@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/elementalist/level-2/new-5-essence-ability/",
   "name": "New 5-Essence Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

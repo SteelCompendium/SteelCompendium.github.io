@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Read/chapter/downtime-projects/",
   "name": "Downtime Projects",
   "type": "chapter",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/panther/level-1/pounce/",
   "name": "Pounce",
   "type": "ability",
-  "source": "mcdm.beastheart.v1"
+  "source": "mcdm.beastheart.v1",
+  "scheme_version": 1
 }
