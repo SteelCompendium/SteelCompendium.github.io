@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.rivals.1st-echelon.statblock/rival-fury",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/rivals/1st-echelon/statblock/rival-fury/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/rivals/1st-echelon/statblock/rival-fury/",
   "name": "Rival Fury",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

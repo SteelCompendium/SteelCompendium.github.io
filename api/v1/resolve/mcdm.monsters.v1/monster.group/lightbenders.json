@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.group/lightbenders",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/group/lightbenders/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/group/lightbenders/",
   "name": "Lightbenders",
   "type": "monster",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.environmental-hazards/quicksand",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/environmental-hazards/quicksand/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/environmental-hazards/quicksand/",
   "name": "Quicksand",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

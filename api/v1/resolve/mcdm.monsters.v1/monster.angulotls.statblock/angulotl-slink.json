@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.angulotls.statblock/angulotl-slink",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/angulotls/statblock/angulotl-slink/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/angulotls/statblock/angulotl-slink/",
   "name": "Angulotl Slink",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.angulotls/angulotl-malice",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/angulotls/angulotl-malice/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/angulotls/angulotl-malice/",
   "name": "Angulotl Malice",
   "type": "featureblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

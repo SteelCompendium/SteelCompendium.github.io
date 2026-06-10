@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.giants.statblock/basalt-stone-giant",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/giants/statblock/basalt-stone-giant/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/giants/statblock/basalt-stone-giant/",
   "name": "Basalt Stone Giant",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

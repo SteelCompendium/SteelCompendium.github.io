@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.humans.statblock/human-death-acolyte",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/humans/statblock/human-death-acolyte/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/humans/statblock/human-death-acolyte/",
   "name": "Human Death Acolyte",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

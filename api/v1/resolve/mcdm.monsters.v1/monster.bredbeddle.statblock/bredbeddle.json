@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.bredbeddle.statblock/bredbeddle",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/bredbeddle/statblock/bredbeddle/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/bredbeddle/statblock/bredbeddle/",
   "name": "Bredbeddle",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

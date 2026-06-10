@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/project/learn-new-language/",
   "name": "Learn New Language",
   "type": "project",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

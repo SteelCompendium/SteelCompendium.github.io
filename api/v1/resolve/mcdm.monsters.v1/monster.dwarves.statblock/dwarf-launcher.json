@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.dwarves.statblock/dwarf-launcher",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/dwarves/statblock/dwarf-launcher/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/dwarves/statblock/dwarf-launcher/",
   "name": "Dwarf Launcher",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

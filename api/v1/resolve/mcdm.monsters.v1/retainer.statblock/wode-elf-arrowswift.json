@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/retainer.statblock/wode-elf-arrowswift",
-  "url": "https://steelcompendium.io/v2/Bestiary/retainer/statblock/wode-elf-arrowswift/",
+  "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/wode-elf-arrowswift/",
   "name": "Wode Elf Arrowswift",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

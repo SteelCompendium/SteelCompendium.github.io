@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.angulotls.statblock/angulotl-cleaver",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/angulotls/statblock/angulotl-cleaver/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/angulotls/statblock/angulotl-cleaver/",
   "name": "Angulotl Cleaver",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

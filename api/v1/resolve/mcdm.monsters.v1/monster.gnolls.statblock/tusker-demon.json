@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.gnolls.statblock/tusker-demon",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/gnolls/statblock/tusker-demon/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/gnolls/statblock/tusker-demon/",
   "name": "Tusker Demon",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

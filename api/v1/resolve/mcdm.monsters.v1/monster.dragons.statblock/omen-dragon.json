@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.dragons.statblock/omen-dragon",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/dragons/statblock/omen-dragon/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/dragons/statblock/omen-dragon/",
   "name": "Omen Dragon",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

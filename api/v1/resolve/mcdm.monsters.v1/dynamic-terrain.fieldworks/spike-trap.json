@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/dynamic-terrain.fieldworks/spike-trap",
-  "url": "https://steelcompendium.io/v2/Bestiary/dynamic-terrain/fieldworks/spike-trap/",
+  "url": "https://steelcompendium.io/v2/Browse/dynamic-terrain/fieldworks/spike-trap/",
   "name": "Spike Trap",
   "type": "dynamic-terrain",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

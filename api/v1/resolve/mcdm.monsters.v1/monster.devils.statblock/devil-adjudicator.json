@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.devils.statblock/devil-adjudicator",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/devils/statblock/devil-adjudicator/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/devils/statblock/devil-adjudicator/",
   "name": "Devil Adjudicator",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

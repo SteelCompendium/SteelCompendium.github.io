@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/null/level-1/metakinetic-mastery/",
   "name": "Metakinetic Mastery",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

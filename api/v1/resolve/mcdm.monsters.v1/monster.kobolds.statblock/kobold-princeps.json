@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.kobolds.statblock/kobold-princeps",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/kobolds/statblock/kobold-princeps/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/kobolds/statblock/kobold-princeps/",
   "name": "Kobold Princeps",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

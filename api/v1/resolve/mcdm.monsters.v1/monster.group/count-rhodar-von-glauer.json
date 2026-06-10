@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.group/count-rhodar-von-glauer",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/group/count-rhodar-von-glauer/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/group/count-rhodar-von-glauer/",
   "name": "Count Rhodar Von Glauer",
   "type": "monster",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

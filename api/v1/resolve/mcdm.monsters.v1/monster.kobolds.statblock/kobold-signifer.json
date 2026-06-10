@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.kobolds.statblock/kobold-signifer",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/kobolds/statblock/kobold-signifer/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/kobolds/statblock/kobold-signifer/",
   "name": "Kobold Signifer",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

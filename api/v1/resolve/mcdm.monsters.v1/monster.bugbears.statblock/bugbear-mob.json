@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.bugbears.statblock/bugbear-mob",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/bugbears/statblock/bugbear-mob/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/bugbears/statblock/bugbear-mob/",
   "name": "Bugbear Mob",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

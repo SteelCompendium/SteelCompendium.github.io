@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.elves-wode.statblock/wode-elf-warleader",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/elves-wode/statblock/wode-elf-warleader/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/elves-wode/statblock/wode-elf-warleader/",
   "name": "Wode Elf Warleader",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

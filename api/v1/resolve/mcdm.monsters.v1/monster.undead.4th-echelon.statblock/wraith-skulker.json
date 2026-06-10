@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.undead.4th-echelon.statblock/wraith-skulker",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/undead/4th-echelon/statblock/wraith-skulker/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/undead/4th-echelon/statblock/wraith-skulker/",
   "name": "Wraith Skulker",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }

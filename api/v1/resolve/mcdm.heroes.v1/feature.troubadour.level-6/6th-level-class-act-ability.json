@@ -3,5 +3,6 @@
   "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-6/6th-level-class-act-ability/",
   "name": "6th-Level Class Act Ability",
   "type": "feature",
-  "source": "mcdm.heroes.v1"
+  "source": "mcdm.heroes.v1",
+  "scheme_version": 1
 }

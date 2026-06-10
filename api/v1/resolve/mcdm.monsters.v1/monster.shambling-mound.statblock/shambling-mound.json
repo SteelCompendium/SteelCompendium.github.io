@@ -1,7 +1,8 @@
 {
   "scc": "mcdm.monsters.v1/monster.shambling-mound.statblock/shambling-mound",
-  "url": "https://steelcompendium.io/v2/Bestiary/monster/shambling-mound/statblock/shambling-mound/",
+  "url": "https://steelcompendium.io/v2/Browse/monster/shambling-mound/statblock/shambling-mound/",
   "name": "Shambling Mound",
   "type": "statblock",
-  "source": "mcdm.monsters.v1"
+  "source": "mcdm.monsters.v1",
+  "scheme_version": 1
 }
