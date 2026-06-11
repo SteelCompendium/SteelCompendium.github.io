@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-11T21:29:37Z",
+  "generated": "2026-06-11T21:44:50Z",
   "base_url": "https://steelcompendium.io/v2",
   "entries": [
     {
@@ -41,98 +41,98 @@
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/basilisk",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/basilisk/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/basilisk/",
       "name": "Basilisk",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/bear",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/bear/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/bear/",
       "name": "Bear",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/boar",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/boar/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/boar/",
       "name": "Boar",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/condor",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/condor/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/condor/",
       "name": "Condor",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/deinonychus",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/deinonychus/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/deinonychus/",
       "name": "Deinonychus",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/drake",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/drake/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/drake/",
       "name": "Drake",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/elemental-spark",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/elemental-spark/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/elemental-spark/",
       "name": "Elemental Spark",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/gummy-ball",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/gummy-ball/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/gummy-ball/",
       "name": "Gummy Ball",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/hellhound",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/hellhound/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/hellhound/",
       "name": "Hellhound",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/lightbender",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/lightbender/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/lightbender/",
       "name": "Lightbender",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/panther",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/panther/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/panther/",
       "name": "Panther",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/spider",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/spider/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/spider/",
       "name": "Spider",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/sporeling",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/sporeling/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/sporeling/",
       "name": "Sporeling",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
     },
     {
       "scc": "mcdm.beastheart.v1/feature-group.companion/wolf",
-      "url": "https://steelcompendium.io/v2/feature-group/companion/wolf/",
+      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/wolf/",
       "name": "Wolf",
       "type": "feature-group",
       "source": "mcdm.beastheart.v1"
@@ -11836,63 +11836,63 @@
     },
     {
       "scc": "mcdm.heroes.v1/god/adun",
-      "url": "https://steelcompendium.io/v2/god/adun/",
+      "url": "https://steelcompendium.io/v2/Browse/god/adun/",
       "name": "Adûn",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/cavall",
-      "url": "https://steelcompendium.io/v2/god/cavall/",
+      "url": "https://steelcompendium.io/v2/Browse/god/cavall/",
       "name": "Cavall",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/kul",
-      "url": "https://steelcompendium.io/v2/god/kul/",
+      "url": "https://steelcompendium.io/v2/Browse/god/kul/",
       "name": "Kul",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/nebular",
-      "url": "https://steelcompendium.io/v2/god/nebular/",
+      "url": "https://steelcompendium.io/v2/Browse/god/nebular/",
       "name": "Nebular the Star Mother",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/ord",
-      "url": "https://steelcompendium.io/v2/god/ord/",
+      "url": "https://steelcompendium.io/v2/Browse/god/ord/",
       "name": "Ord",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/ov",
-      "url": "https://steelcompendium.io/v2/god/ov/",
+      "url": "https://steelcompendium.io/v2/Browse/god/ov/",
       "name": "OV the Wave Pilot",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/salorna",
-      "url": "https://steelcompendium.io/v2/god/salorna/",
+      "url": "https://steelcompendium.io/v2/Browse/god/salorna/",
       "name": "Salorna",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/thellasko",
-      "url": "https://steelcompendium.io/v2/god/thellasko/",
+      "url": "https://steelcompendium.io/v2/Browse/god/thellasko/",
       "name": "Thellasko the Great Designer",
       "type": "god",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/god/val",
-      "url": "https://steelcompendium.io/v2/god/val/",
+      "url": "https://steelcompendium.io/v2/Browse/god/val/",
       "name": "Val",
       "type": "god",
       "source": "mcdm.heroes.v1"
@@ -12578,112 +12578,112 @@
     },
     {
       "scc": "mcdm.heroes.v1/project/build-airship",
-      "url": "https://steelcompendium.io/v2/project/build-airship/",
+      "url": "https://steelcompendium.io/v2/Browse/project/build-airship/",
       "name": "Build Airship",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/build-or-repair-road",
-      "url": "https://steelcompendium.io/v2/project/build-or-repair-road/",
+      "url": "https://steelcompendium.io/v2/Browse/project/build-or-repair-road/",
       "name": "Build or Repair Road",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/community-service",
-      "url": "https://steelcompendium.io/v2/project/community-service/",
+      "url": "https://steelcompendium.io/v2/Browse/project/community-service/",
       "name": "Community Service",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/craft-teleportation-platform",
-      "url": "https://steelcompendium.io/v2/project/craft-teleportation-platform/",
+      "url": "https://steelcompendium.io/v2/Browse/project/craft-teleportation-platform/",
       "name": "Craft Teleportation Platform",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/craft-treasure",
-      "url": "https://steelcompendium.io/v2/project/craft-treasure/",
+      "url": "https://steelcompendium.io/v2/Browse/project/craft-treasure/",
       "name": "Craft Treasure",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/discover-lore",
-      "url": "https://steelcompendium.io/v2/project/discover-lore/",
+      "url": "https://steelcompendium.io/v2/Browse/project/discover-lore/",
       "name": "Discover Lore",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/find-a-cure",
-      "url": "https://steelcompendium.io/v2/project/find-a-cure/",
+      "url": "https://steelcompendium.io/v2/Browse/project/find-a-cure/",
       "name": "Find a Cure",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/fishing",
-      "url": "https://steelcompendium.io/v2/project/fishing/",
+      "url": "https://steelcompendium.io/v2/Browse/project/fishing/",
       "name": "Fishing",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/go-undercover",
-      "url": "https://steelcompendium.io/v2/project/go-undercover/",
+      "url": "https://steelcompendium.io/v2/Browse/project/go-undercover/",
       "name": "Go Undercover",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/hone-career-skills",
-      "url": "https://steelcompendium.io/v2/project/hone-career-skills/",
+      "url": "https://steelcompendium.io/v2/Browse/project/hone-career-skills/",
       "name": "Hone Career Skills",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/imbue-treasure",
-      "url": "https://steelcompendium.io/v2/project/imbue-treasure/",
+      "url": "https://steelcompendium.io/v2/Browse/project/imbue-treasure/",
       "name": "Imbue Treasure",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/learn-from-a-master",
-      "url": "https://steelcompendium.io/v2/project/learn-from-a-master/",
+      "url": "https://steelcompendium.io/v2/Browse/project/learn-from-a-master/",
       "name": "Learn From a Master",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/learn-new-language",
-      "url": "https://steelcompendium.io/v2/project/learn-new-language/",
+      "url": "https://steelcompendium.io/v2/Browse/project/learn-new-language/",
       "name": "Learn New Language",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/learn-new-skill",
-      "url": "https://steelcompendium.io/v2/project/learn-new-skill/",
+      "url": "https://steelcompendium.io/v2/Browse/project/learn-new-skill/",
       "name": "Learn New Skill",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/perfect-new-recipe",
-      "url": "https://steelcompendium.io/v2/project/perfect-new-recipe/",
+      "url": "https://steelcompendium.io/v2/Browse/project/perfect-new-recipe/",
       "name": "Perfect New Recipe",
       "type": "project",
       "source": "mcdm.heroes.v1"
     },
     {
       "scc": "mcdm.heroes.v1/project/spend-time-with-loved-ones",
-      "url": "https://steelcompendium.io/v2/project/spend-time-with-loved-ones/",
+      "url": "https://steelcompendium.io/v2/Browse/project/spend-time-with-loved-ones/",
       "name": "Spend Time With Loved Ones",
       "type": "project",
       "source": "mcdm.heroes.v1"
