@@ -4,5 +4,6 @@
   "name": "Search for Hidden Creatures",
   "type": "feature",
   "source": "mcdm.heroes.v1",
+  "printing": "1.01b",
   "scheme_version": 1
 }
