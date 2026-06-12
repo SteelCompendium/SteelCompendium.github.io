@@ -4,5 +4,6 @@
   "name": "Gummy Ball",
   "type": "feature-group",
   "source": "mcdm.beastheart.v1",
+  "printing": "1.0",
   "scheme_version": 1
 }

@@ -4,5 +4,6 @@
   "name": "Undead Malice (Level 7+ Malice Features)",
   "type": "featureblock",
   "source": "mcdm.monsters.v1",
+  "printing": "1.01",
   "scheme_version": 1
 }

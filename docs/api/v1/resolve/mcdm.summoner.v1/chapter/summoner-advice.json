@@ -4,5 +4,6 @@
   "name": "Summoner Advice",
   "type": "chapter",
   "source": "mcdm.summoner.v1",
+  "printing": "1.0",
   "scheme_version": 1
 }
