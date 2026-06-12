@@ -4,5 +4,6 @@
   "name": "Soulraker Praetorian",
   "type": "statblock",
   "source": "mcdm.monsters.v1",
+  "printing": "1.01",
   "scheme_version": 1
 }

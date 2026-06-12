@@ -4,5 +4,6 @@
   "name": "Gnoll Abyssal Archer",
   "type": "statblock",
   "source": "mcdm.monsters.v1",
+  "printing": "1.01",
   "scheme_version": 1
 }

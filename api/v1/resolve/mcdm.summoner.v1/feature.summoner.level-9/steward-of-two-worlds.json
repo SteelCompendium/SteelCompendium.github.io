@@ -4,5 +4,6 @@
   "name": "Steward of Two Worlds",
   "type": "feature",
   "source": "mcdm.summoner.v1",
+  "printing": "1.0",
   "scheme_version": 1
 }

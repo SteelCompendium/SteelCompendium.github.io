@@ -4,5 +4,6 @@
   "name": "Warbanner of Wrath",
   "type": "treasure",
   "source": "mcdm.summoner.v1",
+  "printing": "1.0",
   "scheme_version": 1
 }
