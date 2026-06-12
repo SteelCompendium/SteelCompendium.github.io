@@ -4,5 +4,6 @@
   "name": "Pick Pocket",
   "type": "skill",
   "source": "mcdm.heroes.v1",
+  "printing": "1.01b",
   "scheme_version": 1
 }
