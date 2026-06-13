@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-13T11:57:53Z",
+  "generated": "2026-06-13T12:16:18Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -21895,6 +21895,334 @@
       "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/wode-elf-arrowswift/",
       "name": "Wode Elf Arrowswift",
       "type": "statblock",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/abyssal",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/abyssal/",
+      "name": "Abyssal",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/accursed",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/accursed/",
+      "name": "Accursed",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/animal",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/animal/",
+      "name": "Animal",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/beast",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/beast/",
+      "name": "Beast",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/construct",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/construct/",
+      "name": "Construct",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/dragon",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/dragon/",
+      "name": "Dragon",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/elemental",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/elemental/",
+      "name": "Elemental",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/fey",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/fey/",
+      "name": "Fey",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/giant",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/giant/",
+      "name": "Giant",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/horror",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/horror/",
+      "name": "Horror",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/humanoid",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/humanoid/",
+      "name": "Humanoid",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/infernal",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/infernal/",
+      "name": "Infernal",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/ooze",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/ooze/",
+      "name": "Ooze",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/plant",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/plant/",
+      "name": "Plant",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/soulless",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/soulless/",
+      "name": "Soulless",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/swarm",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/swarm/",
+      "name": "Swarm",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.keyword/undead",
+      "url": "https://steelcompendium.io/v2/Browse/rule/keyword/undead/",
+      "name": "Undead",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/captain",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/captain/",
+      "name": "Attached Squad Captain",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/creature-free-strike",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/creature-free-strike/",
+      "name": "Creature Free Strikes",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/encounter-value",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/encounter-value/",
+      "name": "Encounter Value",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/end-effect",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/end-effect/",
+      "name": "End Effect",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/keyword",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/keyword/",
+      "name": "Keywords",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/malice",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/malice/",
+      "name": "Malice",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/monster-trait",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/monster-trait/",
+      "name": "Traits",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/squad",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/squad/",
+      "name": "Organized as Squads",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.monster/villain-action",
+      "url": "https://steelcompendium.io/v2/Browse/rule/monster/villain-action/",
+      "name": "Villain Actions",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/elite",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/elite/",
+      "name": "Elite",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/horde",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/horde/",
+      "name": "Horde",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/leader",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/leader/",
+      "name": "Leader",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/minion",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/minion/",
+      "name": "Minion",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/platoon",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/platoon/",
+      "name": "Platoon",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.organization/solo",
+      "url": "https://steelcompendium.io/v2/Browse/rule/organization/solo/",
+      "name": "Solo",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/ambusher",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/ambusher/",
+      "name": "Ambusher",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/artillery",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/artillery/",
+      "name": "Artillery",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/brute",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/brute/",
+      "name": "Brute",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/controller",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/controller/",
+      "name": "Controller",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/defender",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/defender/",
+      "name": "Defender",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/harrier",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/harrier/",
+      "name": "Harrier",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/hexer",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/hexer/",
+      "name": "Hexer",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/mount",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/mount/",
+      "name": "Mount",
+      "type": "rule",
+      "source": "mcdm.monsters.v1",
+      "printing": "1.01"
+    },
+    {
+      "scc": "mcdm.monsters.v1/rule.role/support",
+      "url": "https://steelcompendium.io/v2/Browse/rule/role/support/",
+      "name": "Support",
+      "type": "rule",
       "source": "mcdm.monsters.v1",
       "printing": "1.01"
     },

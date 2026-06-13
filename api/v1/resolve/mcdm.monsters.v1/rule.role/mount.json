@@ -1,0 +1,9 @@
+{
+  "scc": "mcdm.monsters.v1/rule.role/mount",
+  "url": "https://steelcompendium.io/v2/Browse/rule/role/mount/",
+  "name": "Mount",
+  "type": "rule",
+  "source": "mcdm.monsters.v1",
+  "printing": "1.01",
+  "scheme_version": 1
+}
