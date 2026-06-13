@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-13T12:16:18Z",
+  "generated": "2026-06-13T20:15:34Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -23659,9 +23659,9 @@
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer",
-      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer/",
-      "name": "Pixie Bellringer",
+      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer-converted",
+      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer-converted/",
+      "name": "Pixie Bellringer (Converted)",
       "type": "statblock",
       "source": "mcdm.summoner.v1",
       "printing": "1.0"
