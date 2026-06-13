@@ -23659,9 +23659,9 @@
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer-converted",
-      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer-converted/",
-      "name": "Pixie Bellringer (Converted)",
+      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer",
+      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer/",
+      "name": "Pixie Bellringer",
       "type": "statblock",
       "source": "mcdm.summoner.v1",
       "printing": "1.0"
