@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-14T11:15:55Z",
+  "generated": "2026-06-14T18:40:53Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -55,118 +55,6 @@
       "url": "https://steelcompendium.io/v2/Browse/class/beastheart/",
       "name": "Beastheart",
       "type": "class",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/basilisk",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/basilisk/",
-      "name": "Basilisk",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/bear",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/bear/",
-      "name": "Bear",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/boar",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/boar/",
-      "name": "Boar",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/condor",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/condor/",
-      "name": "Condor",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/deinonychus",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/deinonychus/",
-      "name": "Deinonychus",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/drake",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/drake/",
-      "name": "Drake",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/elemental-spark",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/elemental-spark/",
-      "name": "Elemental Spark",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/gummy-ball",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/gummy-ball/",
-      "name": "Gummy Ball",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/hellhound",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/hellhound/",
-      "name": "Hellhound",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/lightbender",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/lightbender/",
-      "name": "Lightbender",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/panther",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/panther/",
-      "name": "Panther",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/spider",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/spider/",
-      "name": "Spider",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/sporeling",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/sporeling/",
-      "name": "Sporeling",
-      "type": "feature-group",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature-group.companion/wolf",
-      "url": "https://steelcompendium.io/v2/Browse/feature-group/companion/wolf/",
-      "name": "Wolf",
-      "type": "feature-group",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
@@ -643,112 +531,112 @@
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.basilisk.level-1/petrify",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/basilisk/level-1/petrify/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.basilisk.level-1/petrify",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/basilisk/level-1/petrify/",
       "name": "Petrify",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.bear.level-1/backhand",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/bear/level-1/backhand/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.bear.level-1/backhand",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/bear/level-1/backhand/",
       "name": "Backhand",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/boar/level-1/gore/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.boar.level-1/gore",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/boar/level-1/gore/",
       "name": "Gore",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.condor.level-1/flurry-of-wings",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/condor/level-1/flurry-of-wings/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.condor.level-1/flurry-of-wings",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/condor/level-1/flurry-of-wings/",
       "name": "Flurry of Wings",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.deinonychus.level-1/terrible-claws",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/deinonychus/level-1/terrible-claws/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.deinonychus.level-1/terrible-claws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/deinonychus/level-1/terrible-claws/",
       "name": "Terrible Claws",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.drake.level-1/drake-breath",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/drake/level-1/drake-breath/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.drake.level-1/drake-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/drake/level-1/drake-breath/",
       "name": "Drake Breath",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.elemental-spark.level-1/static-shock",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/elemental-spark/level-1/static-shock/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.elemental-spark.level-1/static-shock",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/elemental-spark/level-1/static-shock/",
       "name": "Static Shock",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.gummy-ball.level-1/absorb",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/gummy-ball/level-1/absorb/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.gummy-ball.level-1/absorb",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/gummy-ball/level-1/absorb/",
       "name": "Absorb",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.hellhound.level-1/fire-breath",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/hellhound/level-1/fire-breath/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.hellhound.level-1/fire-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/hellhound/level-1/fire-breath/",
       "name": "Fire Breath",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.lightbender.level-1/sparking-tail-whip",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/lightbender/level-1/sparking-tail-whip/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.lightbender.level-1/sparking-tail-whip",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/lightbender/level-1/sparking-tail-whip/",
       "name": "Sparking Tail Whip",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.panther.level-1/pounce",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/panther/level-1/pounce/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.panther.level-1/pounce",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/panther/level-1/pounce/",
       "name": "Pounce",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.spider.level-1/web-shot",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/spider/level-1/web-shot/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.spider.level-1/web-shot",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/spider/level-1/web-shot/",
       "name": "Web Shot",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/sporeling/level-1/spore-puff/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.sporeling.level-1/spore-puff",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/sporeling/level-1/spore-puff/",
       "name": "Spore Puff",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.ability.companion.wolf.level-1/clamping-jaws",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/wolf/level-1/clamping-jaws/",
+      "scc": "mcdm.beastheart.v1/feature.ability.companion.beastheart.wolf.level-1/clamping-jaws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/companion/beastheart/wolf/level-1/clamping-jaws/",
       "name": "Clamping Jaws",
       "type": "ability",
       "source": "mcdm.beastheart.v1",
@@ -1211,458 +1099,682 @@
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.basilisk.level-1/stoned",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/basilisk/level-1/stoned/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-1/stoned",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/basilisk/level-1/stoned/",
       "name": "Stoned",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.basilisk.level-10/heart-of-stone",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/basilisk/level-10/heart-of-stone/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-10/heart-of-stone",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/basilisk/level-10/heart-of-stone/",
       "name": "Heart of Stone",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.basilisk.level-3/foes-forever-frozen",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/basilisk/level-3/foes-forever-frozen/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-3/foes-forever-frozen",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/basilisk/level-3/foes-forever-frozen/",
       "name": "Foes Forever Frozen",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.basilisk.level-6/rock-smasher",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/basilisk/level-6/rock-smasher/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-6/rock-smasher",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/basilisk/level-6/rock-smasher/",
       "name": "Rock Smasher",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.bear.level-1/strong-like-bear",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-1/strong-like-bear/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.bear.level-1/strong-like-bear",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/bear/level-1/strong-like-bear/",
       "name": "Strong Like Bear",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.bear.level-10/twin-colossi",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-10/twin-colossi/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.bear.level-10/twin-colossi",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/bear/level-10/twin-colossi/",
       "name": "Twin Colossi",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.bear.level-3/foe-thresher",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-3/foe-thresher/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.bear.level-3/foe-thresher",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/bear/level-3/foe-thresher/",
       "name": "Foe Thresher",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.bear.level-6/ursine-form",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/bear/level-6/ursine-form/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.bear.level-6/ursine-form",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/bear/level-6/ursine-form/",
       "name": "Ursine Form",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.boar.level-1/spiteful-endurance",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/boar/level-1/spiteful-endurance/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.boar.level-1/spiteful-endurance",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/boar/level-1/spiteful-endurance/",
       "name": "Spiteful Endurance",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.boar.level-10/immortal-rage",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/boar/level-10/immortal-rage/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/boar/level-10/immortal-rage/",
       "name": "Immortal Rage",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.boar.level-3/greased-pig",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/boar/level-3/greased-pig/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/boar/level-3/greased-pig/",
       "name": "Greased Pig",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.boar.level-6/wild-rush",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/boar/level-6/wild-rush/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/boar/level-6/wild-rush/",
       "name": "Wild Rush",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.condor.level-1/moving-target",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-1/moving-target/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.condor.level-1/moving-target",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/condor/level-1/moving-target/",
       "name": "Moving Target",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.condor.level-10/flight-of-the-condor",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-10/flight-of-the-condor/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.condor.level-10/flight-of-the-condor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/condor/level-10/flight-of-the-condor/",
       "name": "Flight of the Condor",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.condor.level-3/dive-bomb",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-3/dive-bomb/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.condor.level-3/dive-bomb",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/condor/level-3/dive-bomb/",
       "name": "Dive Bomb",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.condor.level-6/borne-aloft",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/condor/level-6/borne-aloft/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.condor.level-6/borne-aloft",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/condor/level-6/borne-aloft/",
       "name": "Borne Aloft",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.deinonychus.level-1/blood-frenzy",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/deinonychus/level-1/blood-frenzy/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-1/blood-frenzy",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/deinonychus/level-1/blood-frenzy/",
       "name": "Blood Frenzy",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.deinonychus.level-10/reaping-scythe",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/deinonychus/level-10/reaping-scythe/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-10/reaping-scythe",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/deinonychus/level-10/reaping-scythe/",
       "name": "Reaping Scythe",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.deinonychus.level-3/tear-you-to-ribbons",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/deinonychus/level-3/tear-you-to-ribbons/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-3/tear-you-to-ribbons",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/deinonychus/level-3/tear-you-to-ribbons/",
       "name": "Tear You to Ribbons",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.deinonychus.level-6/slake-my-thirst-in-blood",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/deinonychus/level-6/slake-my-thirst-in-blood/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-6/slake-my-thirst-in-blood",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/deinonychus/level-6/slake-my-thirst-in-blood/",
       "name": "Slake My Thirst in Blood",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.drake.level-1/elementally-attuned",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/drake/level-1/elementally-attuned/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/elementally-attuned",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/drake/level-1/elementally-attuned/",
       "name": "Elementally Attuned",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.drake.level-1/shared-scales",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/drake/level-1/shared-scales/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/shared-scales",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/drake/level-1/shared-scales/",
       "name": "Shared Scales",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.drake.level-10/elemental-avatar",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/drake/level-10/elemental-avatar/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.drake.level-10/elemental-avatar",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/drake/level-10/elemental-avatar/",
       "name": "Elemental Avatar",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.drake.level-3/endless-breath",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/drake/level-3/endless-breath/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.drake.level-3/endless-breath",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/drake/level-3/endless-breath/",
       "name": "Endless Breath",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.drake.level-6/a-burning-inside-me",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/drake/level-6/a-burning-inside-me/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.drake.level-6/a-burning-inside-me",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/drake/level-6/a-burning-inside-me/",
       "name": "A Burning Inside Me",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.elemental-spark.level-1/electric-surge",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/elemental-spark/level-1/electric-surge/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-1/electric-surge",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/elemental-spark/level-1/electric-surge/",
       "name": "Electric Surge",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.elemental-spark.level-10/lightning-speed",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/elemental-spark/level-10/lightning-speed/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-10/lightning-speed",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/elemental-spark/level-10/lightning-speed/",
       "name": "Lightning Speed",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.elemental-spark.level-3/electroshock",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/elemental-spark/level-3/electroshock/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-3/electroshock",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/elemental-spark/level-3/electroshock/",
       "name": "Electroshock",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.elemental-spark.level-6/conductive",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/elemental-spark/level-6/conductive/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-6/conductive",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/elemental-spark/level-6/conductive/",
       "name": "Conductive",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.gummy-ball.level-1/gelatinous",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/gummy-ball/level-1/gelatinous/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-1/gelatinous",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/gummy-ball/level-1/gelatinous/",
       "name": "Gelatinous",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.gummy-ball.level-10/runaway-expansion",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/gummy-ball/level-10/runaway-expansion/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-10/runaway-expansion",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/gummy-ball/level-10/runaway-expansion/",
       "name": "Runaway Expansion",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.gummy-ball.level-3/suck-it-up",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/gummy-ball/level-3/suck-it-up/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-3/suck-it-up",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/gummy-ball/level-3/suck-it-up/",
       "name": "Suck It Up",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.gummy-ball.level-6/taffy-pull",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/gummy-ball/level-6/taffy-pull/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-6/taffy-pull",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/gummy-ball/level-6/taffy-pull/",
       "name": "Taffy Pull",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.hellhound.level-1/hellish-pact",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/hellhound/level-1/hellish-pact/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-1/hellish-pact",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/hellhound/level-1/hellish-pact/",
       "name": "Hellish Pact",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.hellhound.level-10/wreathed-in-flames",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/hellhound/level-10/wreathed-in-flames/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-10/wreathed-in-flames",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/hellhound/level-10/wreathed-in-flames/",
       "name": "Wreathed in Flames",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.hellhound.level-3/infernal-apparition",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/hellhound/level-3/infernal-apparition/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-3/infernal-apparition",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/hellhound/level-3/infernal-apparition/",
       "name": "Infernal Apparition",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.hellhound.level-6/slavering-jaws",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/hellhound/level-6/slavering-jaws/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-6/slavering-jaws",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/hellhound/level-6/slavering-jaws/",
       "name": "Slavering Jaws",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.lightbender.level-1/avoidance",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/lightbender/level-1/avoidance/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-1/avoidance",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/lightbender/level-1/avoidance/",
       "name": "Avoidance",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.lightbender.level-10/everywhere-and-nowhere",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/lightbender/level-10/everywhere-and-nowhere/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-10/everywhere-and-nowhere",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/lightbender/level-10/everywhere-and-nowhere/",
       "name": "Everywhere and Nowhere",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.lightbender.level-3/hit-and-run",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/lightbender/level-3/hit-and-run/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-3/hit-and-run",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/lightbender/level-3/hit-and-run/",
       "name": "Hit and Run",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.lightbender.level-6/lightbearer",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/lightbender/level-6/lightbearer/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-6/lightbearer",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/lightbender/level-6/lightbearer/",
       "name": "Lightbearer",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.panther.level-1/mighty-spring",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/panther/level-1/mighty-spring/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.panther.level-1/mighty-spring",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/panther/level-1/mighty-spring/",
       "name": "Mighty Spring",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.panther.level-10/panther-spirit",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/panther/level-10/panther-spirit/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.panther.level-10/panther-spirit",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/panther/level-10/panther-spirit/",
       "name": "Panther Spirit",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.panther.level-3/cat-and-mouse",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/panther/level-3/cat-and-mouse/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.panther.level-3/cat-and-mouse",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/panther/level-3/cat-and-mouse/",
       "name": "Cat and Mouse",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.panther.level-6/single-bound",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/panther/level-6/single-bound/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.panther.level-6/single-bound",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/panther/level-6/single-bound/",
       "name": "Single Bound",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.spider.level-1/come-into-my-parlor",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/spider/level-1/come-into-my-parlor/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.spider.level-1/come-into-my-parlor",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/spider/level-1/come-into-my-parlor/",
       "name": "Come Into My Parlor",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.spider.level-10/life-drinker",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/spider/level-10/life-drinker/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.spider.level-10/life-drinker",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/spider/level-10/life-drinker/",
       "name": "Life Drinker",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.spider.level-3/dripping-fangs",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/spider/level-3/dripping-fangs/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.spider.level-3/dripping-fangs",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/spider/level-3/dripping-fangs/",
       "name": "Dripping Fangs",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.spider.level-6/web-slinger",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/spider/level-6/web-slinger/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.spider.level-6/web-slinger",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/spider/level-6/web-slinger/",
       "name": "Web Slinger",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.sporeling.level-1/skulker",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/sporeling/level-1/skulker/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-1/skulker",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/sporeling/level-1/skulker/",
       "name": "Skulker",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.sporeling.level-10/trailing-mycelia",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/sporeling/level-10/trailing-mycelia/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-10/trailing-mycelia",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/sporeling/level-10/trailing-mycelia/",
       "name": "Trailing Mycelia",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.sporeling.level-3/slowing-spores",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/sporeling/level-3/slowing-spores/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-3/slowing-spores",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/sporeling/level-3/slowing-spores/",
       "name": "Slowing Spores",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.sporeling.level-6/plant-walk",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/sporeling/level-6/plant-walk/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-6/plant-walk",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/sporeling/level-6/plant-walk/",
       "name": "Plant Walk",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.wolf.level-1/retriever",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-1/retriever/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-1/retriever",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/wolf/level-1/retriever/",
       "name": "Retriever",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.wolf.level-10/dire-wolf",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-10/dire-wolf/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-10/dire-wolf",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/wolf/level-10/dire-wolf/",
       "name": "Dire Wolf",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.wolf.level-3/my-what-big-teeth-you-have",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-3/my-what-big-teeth-you-have/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-3/my-what-big-teeth-you-have",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/wolf/level-3/my-what-big-teeth-you-have/",
       "name": "My, What Big Teeth You Have",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.beastheart.v1/feature.companion.wolf.level-6/call-of-the-wild",
-      "url": "https://steelcompendium.io/v2/Browse/feature/companion/wolf/level-6/call-of-the-wild/",
+      "scc": "mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-6/call-of-the-wild",
+      "url": "https://steelcompendium.io/v2/Browse/feature/companion/beastheart/wolf/level-6/call-of-the-wild/",
       "name": "Call of the Wild",
       "type": "feature",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/basilisk/",
+      "name": "Basilisk Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/bear/",
+      "name": "Bear Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/boar/",
+      "name": "Boar Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/condor/",
+      "name": "Condor Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/deinonychus/",
+      "name": "Deinonychus Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/drake/",
+      "name": "Drake Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/elemental-spark/",
+      "name": "Elemental Spark Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/gummy-ball/",
+      "name": "Gummy Ball Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/hellhound/",
+      "name": "Hellhound Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/lightbender/",
+      "name": "Lightbender Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/panther/",
+      "name": "Panther Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/spider/",
+      "name": "Spider Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/sporeling/",
+      "name": "Sporeling Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/advancement-features/wolf/",
+      "name": "Wolf Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/basilisk/",
+      "name": "Basilisk",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/bear/",
+      "name": "Bear",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/boar/",
+      "name": "Boar",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/condor/",
+      "name": "Condor",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/deinonychus/",
+      "name": "Deinonychus",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/drake/",
+      "name": "Drake",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/elemental-spark/",
+      "name": "Elemental Spark",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/gummy-ball/",
+      "name": "Gummy Ball",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/hellhound/",
+      "name": "Hellhound",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/lightbender/",
+      "name": "Lightbender",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/panther/",
+      "name": "Panther",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/spider/",
+      "name": "Spider",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/sporeling/",
+      "name": "Sporeling",
+      "type": "feature-group",
+      "source": "mcdm.beastheart.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf",
+      "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/wolf/",
+      "name": "Wolf",
+      "type": "feature-group",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
     },
@@ -23235,38 +23347,6 @@
       "printing": "1.0"
     },
     {
-      "scc": "mcdm.summoner.v1/fixture.demon.statblock/the-boil",
-      "url": "https://steelcompendium.io/v2/Browse/fixture/demon/statblock/the-boil/",
-      "name": "The Boil",
-      "type": "statblock",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.summoner.v1/fixture.elemental.statblock/primordial-crystal",
-      "url": "https://steelcompendium.io/v2/Browse/fixture/elemental/statblock/primordial-crystal/",
-      "name": "Primordial Crystal",
-      "type": "statblock",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.summoner.v1/fixture.fey.statblock/glade-pond",
-      "url": "https://steelcompendium.io/v2/Browse/fixture/fey/statblock/glade-pond/",
-      "name": "Glade Pond",
-      "type": "statblock",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.summoner.v1/fixture.undead.statblock/barrow-gates",
-      "url": "https://steelcompendium.io/v2/Browse/fixture/undead/statblock/barrow-gates/",
-      "name": "Barrow Gates",
-      "type": "statblock",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
       "scc": "mcdm.summoner.v1/minion.demon.statblock/archer-spittlich",
       "url": "https://steelcompendium.io/v2/Browse/minion/demon/statblock/archer-spittlich/",
       "name": "Archer Spittlich",
@@ -23655,6 +23735,70 @@
       "url": "https://steelcompendium.io/v2/Browse/minion/undead/statblock/zombie-titan/",
       "name": "Zombie Titan",
       "type": "statblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/demon/advancement-features/the-boil/",
+      "name": "The Boil Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.demon.featureblock/the-boil",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/demon/featureblock/the-boil/",
+      "name": "The Boil",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/elemental/advancement-features/primordial-crystal/",
+      "name": "Primordial Crystal Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.elemental.featureblock/primordial-crystal",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/elemental/featureblock/primordial-crystal/",
+      "name": "Primordial Crystal",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/fey/advancement-features/glade-pond/",
+      "name": "Glade Pond Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.fey.featureblock/glade-pond",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/fey/featureblock/glade-pond/",
+      "name": "Glade Pond",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/undead/advancement-features/barrow-gates/",
+      "name": "Barrow Gates Advancement Features",
+      "type": "featureblock",
+      "source": "mcdm.summoner.v1",
+      "printing": "1.0"
+    },
+    {
+      "scc": "mcdm.summoner.v1/monster.fixture.undead.featureblock/barrow-gates",
+      "url": "https://steelcompendium.io/v2/Browse/monster/fixture/undead/featureblock/barrow-gates/",
+      "name": "Barrow Gates",
+      "type": "featureblock",
       "source": "mcdm.summoner.v1",
       "printing": "1.0"
     },
