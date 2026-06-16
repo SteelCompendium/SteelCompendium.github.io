@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-15T19:49:54Z",
+  "generated": "2026-06-16T00:39:50Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -3803,46 +3803,6 @@
       "printing": "1.01b"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/free-strikes/melee-weapon-free-strike-combat/",
-      "name": "Melee Weapon Free Strike",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/free-strikes/ranged-weapon-free-strike-combat/",
-      "name": "Ranged Weapon Free Strike",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/maneuvers/escape-grab/",
-      "name": "Escape Grab",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common.maneuvers/grab",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/maneuvers/grab/",
-      "name": "Grab",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/feature.ability.common.maneuvers/knockback",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/maneuvers/knockback/",
-      "name": "Knockback",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
       "scc": "mcdm.heroes.v1/feature.ability.common/claw-dirt",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/claw-dirt/",
       "name": "Claw Dirt",
@@ -3854,6 +3814,30 @@
       "scc": "mcdm.heroes.v1/feature.ability.common/dragons-fire",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/dragons-fire/",
       "name": "Dragon's Fire",
+      "type": "ability",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.common/escape-grab",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/escape-grab/",
+      "name": "Escape Grab",
+      "type": "ability",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.common/grab",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/grab/",
+      "name": "Grab",
+      "type": "ability",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.common/knockback",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/knockback/",
+      "name": "Knockback",
       "type": "ability",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"
