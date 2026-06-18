@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-18T18:12:33Z",
+  "generated": "2026-06-18T22:43:39Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -13635,78 +13635,6 @@
       "printing": "1.01b"
     },
     {
-      "scc": "mcdm.heroes.v1/god/adun",
-      "url": "https://steelcompendium.io/v2/Browse/god/adun/",
-      "name": "Adûn",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/cavall",
-      "url": "https://steelcompendium.io/v2/Browse/god/cavall/",
-      "name": "Cavall",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/kul",
-      "url": "https://steelcompendium.io/v2/Browse/god/kul/",
-      "name": "Kul",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/nebular",
-      "url": "https://steelcompendium.io/v2/Browse/god/nebular/",
-      "name": "Nebular the Star Mother",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/ord",
-      "url": "https://steelcompendium.io/v2/Browse/god/ord/",
-      "name": "Ord",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/ov",
-      "url": "https://steelcompendium.io/v2/Browse/god/ov/",
-      "name": "OV the Wave Pilot",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/salorna",
-      "url": "https://steelcompendium.io/v2/Browse/god/salorna/",
-      "name": "Salorna",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/thellasko",
-      "url": "https://steelcompendium.io/v2/Browse/god/thellasko/",
-      "name": "Thellasko the Great Designer",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
-      "scc": "mcdm.heroes.v1/god/val",
-      "url": "https://steelcompendium.io/v2/Browse/god/val/",
-      "name": "Val",
-      "type": "god",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
       "scc": "mcdm.heroes.v1/kit/arcane-archer",
       "url": "https://steelcompendium.io/v2/Browse/kit/arcane-archer/",
       "name": "Arcane Archer",
@@ -14607,6 +14535,318 @@
       "url": "https://steelcompendium.io/v2/Browse/project/spend-time-with-loved-ones/",
       "name": "Spend Time With Loved Ones",
       "type": "project",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/adun",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/adun/",
+      "name": "Adûn",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/cavall",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/cavall/",
+      "name": "Cavall",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/cyrvis",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/cyrvis/",
+      "name": "Cyrvis",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/kul",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/kul/",
+      "name": "Kul",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/lords-of-hell",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/lords-of-hell/",
+      "name": "Lords of Hell",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/nebular",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/nebular/",
+      "name": "Nebular the Star Mother",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/nikros",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/nikros/",
+      "name": "Nikros the Tyrant",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/ord",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/ord/",
+      "name": "Ord",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/ov",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/ov/",
+      "name": "OV the Wave Pilot",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/salorna",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/salorna/",
+      "name": "Salorna",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.god/val",
+      "url": "https://steelcompendium.io/v2/Browse/religion/god/val/",
+      "name": "Val",
+      "type": "god",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/a-sea-of-suns",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/a-sea-of-suns/",
+      "name": "A Sea of Suns",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/atossa-the-shepherd",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/atossa-the-shepherd/",
+      "name": "Atossa the Shepherd",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/chokassa-the-time-rider",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/chokassa-the-time-rider/",
+      "name": "Cho'kassa the Time Rider",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/draighen-the-warden",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/draighen-the-warden/",
+      "name": "Draighen the Warden",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/eriarwen-the-wroth",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/eriarwen-the-wroth/",
+      "name": "Eriarwen the Wroth",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/eseld-of-the-eye",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/eseld-of-the-eye/",
+      "name": "Eseld of the Eye",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/gaed-the-confessor",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/gaed-the-confessor/",
+      "name": "Gaed the Confessor",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/grole-the-one-handed",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/grole-the-one-handed/",
+      "name": "Grole the One-Handed",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/gryffyn-the-stout",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/gryffyn-the-stout/",
+      "name": "Gryffyn the Stout",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/gwenllian-the-fell-handed",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/gwenllian-the-fell-handed/",
+      "name": "Gwenllian the Fell-Handed",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/illwyv-li-orchiax",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/illwyv-li-orchiax/",
+      "name": "Illwyv li Orchiax",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/khorvath-who-slew-a-thousand",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/khorvath-who-slew-a-thousand/",
+      "name": "Khorvath Who Slew a Thousand",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/khravila-who-ran-forty-leagues",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/khravila-who-ran-forty-leagues/",
+      "name": "Khravila Who Ran Forty Leagues",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/kuryalka-the-false-principle",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/kuryalka-the-false-principle/",
+      "name": "Kuryalka the False Principle",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/lady-magnetar",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/lady-magnetar/",
+      "name": "Lady Magnetar",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/llewellyn-the-valiant",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/llewellyn-the-valiant/",
+      "name": "Llewellyn the Valiant",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/mahsiti-the-weaver",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/mahsiti-the-weaver/",
+      "name": "Mahsiti the Weaver",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/pentalion-the-paladin",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/pentalion-the-paladin/",
+      "name": "Pentalion the Paladin",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/prexaspes-the-stargazer",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/prexaspes-the-stargazer/",
+      "name": "Prexaspes the Stargazer",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/ripples-of-honey-on-a-shore-of-gold",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/ripples-of-honey-on-a-shore-of-gold/",
+      "name": "Ripples of Honey on a Shore of Gold",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/stakros-the-engineer",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/stakros-the-engineer/",
+      "name": "Stakros the Engineer",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/the-taste-of-morning",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/the-taste-of-morning/",
+      "name": "The Taste of Morning",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/thellasko",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/thellasko/",
+      "name": "Thellasko the Great Designer",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/thyll-hylacae",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/thyll-hylacae/",
+      "name": "Thyll Hylacae",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/uryal-the-subtle",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/uryal-the-subtle/",
+      "name": "Uryal the Subtle",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/valak-koth-the-seeker",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/valak-koth-the-seeker/",
+      "name": "Valak-koth the Seeker",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/yllin-dyrvis",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/yllin-dyrvis/",
+      "name": "Yllin Dyrvis",
+      "type": "saint",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/religion.saint/zarok-the-law-giver",
+      "url": "https://steelcompendium.io/v2/Browse/religion/saint/zarok-the-law-giver/",
+      "name": "Zarok the Law-Giver",
+      "type": "saint",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"
     },
