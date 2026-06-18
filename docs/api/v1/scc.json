@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-17T21:04:51Z",
+  "generated": "2026-06-18T01:33:15Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -23926,14 +23926,6 @@
       "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/zombie-titan",
       "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/zombie-titan/",
       "name": "Zombie Titan",
-      "type": "statblock",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.summoner.v1/monster.statblock/pixie-bellringer-converted",
-      "url": "https://steelcompendium.io/v2/Browse/monster/statblock/pixie-bellringer-converted/",
-      "name": "Pixie Bellringer (Converted)",
       "type": "statblock",
       "source": "mcdm.summoner.v1",
       "printing": "1.0"
