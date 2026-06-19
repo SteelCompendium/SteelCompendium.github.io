@@ -1,6 +1,6 @@
 # Xentis' Steel Compendium
 
-> The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+> The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 
 This compendium is a suite of tools and resources to support 
 [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
@@ -11,17 +11,36 @@ This compendium is a suite of tools and resources to support
 
 #### Quick Links:
 
-- [Steel Compendium](./compendium): Rules and Resources for MCDM's Draw Steel TTRPG
+- [Steel Compendium](https://steelcompendium.io/v2): Rules and resources for MCDM's Draw Steel TTRPG (current site)
 - [Draw Steel Elements](https://obsidian.md/plugins?id=draw-steel-elements): Obsidian plugin ([docs](https://steelcompendium.io/draw-steel-elements/))
 
 ---
 
-## [Draw Steel Compendium](./compendium)
+## Sites
 
-The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Steel TTPRG
+<div class="grid cards" markdown>
 
-![compendium.png](Media/compendium.png)
+-   ### :material-book-open-variant: Steel Compendium
 
+    ---
+
+    The current Steel Compendium: the full Draw Steel Rules and Monsters book, organized for
+    browsing, reading, and reference.
+
+    [:octicons-arrow-right-24: Open the Steel Compendium](https://steelcompendium.io/v2)
+
+    <!-- TODO: replace with a v2 screenshot -->
+
+-   ### :material-clock-alert-outline: Legacy site (deprecated)
+
+    ---
+
+    The original Compendium site. It is **no longer maintained** and has been replaced by the
+    current Steel Compendium above; it is kept available for now.
+
+    [:octicons-arrow-right-24: Open the legacy site](./compendium)
+
+</div>
 
 ## [Draw Steel Elements](https://steelcompendium.io/draw-steel-elements/) Obsidian Plugin
 
@@ -34,46 +53,63 @@ The [Draw Steel Compendium](./compendium) contains the Rules for MCDM's Draw Ste
 
 ## Draw Steel Data
 
-Parsed variants of the Draw Steel rules and bestiary are distributed across several repos.  These repos are still under 
-construction.
+Parsed variants of the Draw Steel rules and bestiary are distributed across several GitHub repos.
 
-There is also an `npm` module for parsing and working with these models here: 
+There is also an `npm` module for parsing and working with these models:
 
 - [Github - data-sdk-npm](https://github.com/SteelCompendium/data-sdk-npm)
 - [npmjs.com - steel-compendium-sdk](https://www.npmjs.com/package/steel-compendium-sdk)
 
-**Don't know which markdown to download?**
+<div class="grid cards" markdown>
 
-- If you're using Obsidian with the Draw Steel Elements plugin, use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).
-- If you want the markdown for any other purpose, you want [data-md](https://github.com/SteelCompendium/data-md).
+-   ### :material-database: New data repos
 
-##### Unified (Everything)
+    ---
 
-These repos contain data aggregated from all the other repos (Adventures, Bestiary, and Rules)
+    **:material-alert: Work in progress.** These are the new, SCC-coded data repos. They are
+    **not yet production-ready** -- the structure may change and they may contain errors.
 
-- [data-md](https://github.com/SteelCompendium/data-md): Markdown 
-- [data-md-dse](https://github.com/SteelCompendium/data-md-dse): Markdown for Draw Steel Elements Obsidian Plugin
+    - [data-rules](https://github.com/SteelCompendium/data-rules) -- Heroes book
+    - [data-bestiary](https://github.com/SteelCompendium/data-bestiary) -- Monsters book
+    - [data-unified](https://github.com/SteelCompendium/data-unified) -- everything, aggregated
 
-##### Rules
+    Each repo provides Markdown, Markdown for the Draw Steel Elements plugin, SCC-linked
+    Markdown, JSON, and YAML variants under its `en/` directory.
 
-These repos contain rules (Heroes book) data.
+-   ### :material-folder-clock: Legacy data repos
 
-- [data-rules-md](https://github.com/SteelCompendium/data-rules-md): Markdown
-- [data-rules-md-dse](https://github.com/SteelCompendium/data-rules-md-dse): Markdown for Draw Steel Elements Obsidian Plugin
-- [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml): Yaml
-- [data-rules-json](https://github.com/SteelCompendium/data-rules-json): Json
-- [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml): Xml
+    ---
 
-##### Bestiary
+    **Deprecated.** These older repos are still available, but are being replaced by the new
+    repos to the left.
 
-- [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md): Markdown
-- [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse): Markdown for Draw Steel Elements Obsidian Plugin
-- [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml): Yaml
-- [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json): Json
+    **Don't know which markdown to download?**
 
-##### Adventures
+    - Using Obsidian with the Draw Steel Elements plugin? Use [data-md-dse](https://github.com/SteelCompendium/data-md-dse).
+    - For any other purpose, use [data-md](https://github.com/SteelCompendium/data-md).
 
-These repos contain adventure data.  **Note: these repos are not currently populated with data**
+    *Unified (everything):*
 
-- [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md): Markdown
+    - [data-md](https://github.com/SteelCompendium/data-md) -- Markdown
+    - [data-md-dse](https://github.com/SteelCompendium/data-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
 
+    *Rules (Heroes book):*
+
+    - [data-rules-md](https://github.com/SteelCompendium/data-rules-md) -- Markdown
+    - [data-rules-md-dse](https://github.com/SteelCompendium/data-rules-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
+    - [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml) -- YAML
+    - [data-rules-json](https://github.com/SteelCompendium/data-rules-json) -- JSON
+    - [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml) -- XML
+
+    *Bestiary (Monsters book):*
+
+    - [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md) -- Markdown
+    - [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
+    - [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml) -- YAML
+    - [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json) -- JSON
+
+    *Adventures* (not yet populated with data):
+
+    - [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md) -- Markdown
+
+</div>
