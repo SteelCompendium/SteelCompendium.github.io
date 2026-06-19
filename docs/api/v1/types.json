@@ -14378,6 +14378,246 @@
         "printing": "1.01"
       },
       {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/angulotl-hopper",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/angulotl-hopper/",
+        "name": "Angulotl Hopper Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/bugbear-commando",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/bugbear-commando/",
+        "name": "Bugbear Commando Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/devil-defector",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/devil-defector/",
+        "name": "Devil Defector Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/dwarf-mortar",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/dwarf-mortar/",
+        "name": "Dwarf Mortar Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/gnoll-gnasher",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/gnoll-gnasher/",
+        "name": "Gnoll Gnasher Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/goblin-guide",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/goblin-guide/",
+        "name": "Goblin Guide Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/high-elf-weatherwise",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/high-elf-weatherwise/",
+        "name": "High Elf Weatherwise Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/hobgoblin-flameslinger",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/hobgoblin-flameslinger/",
+        "name": "Hobgoblin Flameslinger Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/human-warrior",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/human-warrior/",
+        "name": "Human Warrior Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/kobold-shieldbearer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/kobold-shieldbearer/",
+        "name": "Kobold Shieldbearer Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/minotaur-gorer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/minotaur-gorer/",
+        "name": "Minotaur Gorer Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/orc-charger",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/orc-charger/",
+        "name": "Orc Charger Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/radenwight-sidekick",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/radenwight-sidekick/",
+        "name": "Radenwight Sidekick Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/shadow-elf-shade",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/shadow-elf-shade/",
+        "name": "Shadow Elf Shade Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/the-nameless",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/the-nameless/",
+        "name": "The Nameless Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/time-raider-mind-healer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/time-raider-mind-healer/",
+        "name": "Time Raider Mind Healer Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/troll-mercenary",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/troll-mercenary/",
+        "name": "Troll Mercenary Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/undead-servitor",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/undead-servitor/",
+        "name": "Undead Servitor Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/unquiet-spirit",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/unquiet-spirit/",
+        "name": "Unquiet Spirit Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/vampire-rebel",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/vampire-rebel/",
+        "name": "Vampire Rebel Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.advancement-features/wode-elf-arrowswift",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/wode-elf-arrowswift/",
+        "name": "Wode Elf Arrowswift Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/ambusher",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/ambusher/",
+        "name": "Ambusher Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/artillery",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/artillery/",
+        "name": "Artillery Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/brute",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/brute/",
+        "name": "Brute Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/controller",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/controller/",
+        "name": "Controller Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/defender",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/defender/",
+        "name": "Defender Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/harrier",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/harrier/",
+        "name": "Harrier Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/hexer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/hexer/",
+        "name": "Hexer Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/mount",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/mount/",
+        "name": "Mount Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.role-advancement/support",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/role-advancement/support/",
+        "name": "Support Abilities",
+        "type": "featureblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
         "scc": "mcdm.monsters.v1/monster.rival/rival-malice-level-1-malice-features",
         "url": "https://steelcompendium.io/v2/Browse/monster/rival/rival-malice-level-1-malice-features/",
         "name": "Rival Malice (Level 1+ Malice Features)",
@@ -20146,6 +20386,174 @@
         "printing": "1.01"
       },
       {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/angulotl-hopper",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/angulotl-hopper/",
+        "name": "Angulotl Hopper",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/bugbear-commando",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/bugbear-commando/",
+        "name": "Bugbear Commando",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/devil-defector",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/devil-defector/",
+        "name": "Devil Defector",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/dwarf-mortar",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/dwarf-mortar/",
+        "name": "Dwarf Mortar",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/gnoll-gnasher",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/gnoll-gnasher/",
+        "name": "Gnoll Gnasher",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/goblin-guide",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/goblin-guide/",
+        "name": "Goblin Guide",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/high-elf-weatherwise",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/high-elf-weatherwise/",
+        "name": "High Elf Weatherwise",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/hobgoblin-flameslinger",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/hobgoblin-flameslinger/",
+        "name": "Hobgoblin Flameslinger",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/human-warrior",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/human-warrior/",
+        "name": "Human Warrior",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/kobold-shieldbearer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/kobold-shieldbearer/",
+        "name": "Kobold Shieldbearer",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/minotaur-gorer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/minotaur-gorer/",
+        "name": "Minotaur Gorer",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/orc-charger",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/orc-charger/",
+        "name": "Orc Charger",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/radenwight-sidekick",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/radenwight-sidekick/",
+        "name": "Radenwight Sidekick",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/shadow-elf-shade",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/shadow-elf-shade/",
+        "name": "Shadow Elf Shade",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/the-nameless",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/the-nameless/",
+        "name": "The Nameless",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/time-raider-mind-healer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/time-raider-mind-healer/",
+        "name": "Time Raider Mind Healer",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/troll-mercenary",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/troll-mercenary/",
+        "name": "Troll Mercenary",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/undead-servitor",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/undead-servitor/",
+        "name": "Undead Servitor",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/unquiet-spirit",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/unquiet-spirit/",
+        "name": "Unquiet Spirit",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/vampire-rebel",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/vampire-rebel/",
+        "name": "Vampire Rebel",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
+        "scc": "mcdm.monsters.v1/monster.retainer.statblock/wode-elf-arrowswift",
+        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/wode-elf-arrowswift/",
+        "name": "Wode Elf Arrowswift",
+        "type": "statblock",
+        "source": "mcdm.monsters.v1",
+        "printing": "1.01"
+      },
+      {
         "scc": "mcdm.monsters.v1/monster.rival.1st-echelon.statblock/rival-conduit",
         "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/statblock/rival-conduit/",
         "name": "Rival Conduit",
@@ -21309,174 +21717,6 @@
         "scc": "mcdm.monsters.v1/monster.xorannox-the-tyract.statblock/zapper-eye",
         "url": "https://steelcompendium.io/v2/Browse/monster/xorannox-the-tyract/statblock/zapper-eye/",
         "name": "Zapper Eye",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/angulotl-hopper",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/angulotl-hopper/",
-        "name": "Angulotl Hopper",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/bugbear-commando",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/bugbear-commando/",
-        "name": "Bugbear Commando",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/devil-defector",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/devil-defector/",
-        "name": "Devil Defector",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/dwarf-mortar",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/dwarf-mortar/",
-        "name": "Dwarf Mortar",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/gnoll-gnasher",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/gnoll-gnasher/",
-        "name": "Gnoll Gnasher",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/goblin-guide",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/goblin-guide/",
-        "name": "Goblin Guide",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/high-elf-weatherwise",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/high-elf-weatherwise/",
-        "name": "High Elf Weatherwise",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/hobgoblin-flameslinger",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/hobgoblin-flameslinger/",
-        "name": "Hobgoblin Flameslinger",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/human-warrior",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/human-warrior/",
-        "name": "Human Warrior",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/kobold-shieldbearer",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/kobold-shieldbearer/",
-        "name": "Kobold Shieldbearer",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/minotaur-gorer",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/minotaur-gorer/",
-        "name": "Minotaur Gorer",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/orc-charger",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/orc-charger/",
-        "name": "Orc Charger",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/radenwight-sidekick",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/radenwight-sidekick/",
-        "name": "Radenwight Sidekick",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/shadow-elf-shade",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/shadow-elf-shade/",
-        "name": "Shadow Elf Shade",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/the-nameless",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/the-nameless/",
-        "name": "The Nameless",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/time-raider-mind-healer",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/time-raider-mind-healer/",
-        "name": "Time Raider Mind Healer",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/troll-mercenary",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/troll-mercenary/",
-        "name": "Troll Mercenary",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/undead-servitor",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/undead-servitor/",
-        "name": "Undead Servitor",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/unquiet-spirit",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/unquiet-spirit/",
-        "name": "Unquiet Spirit",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/vampire-rebel",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/vampire-rebel/",
-        "name": "Vampire Rebel",
-        "type": "statblock",
-        "source": "mcdm.monsters.v1",
-        "printing": "1.01"
-      },
-      {
-        "scc": "mcdm.monsters.v1/retainer.statblock/wode-elf-arrowswift",
-        "url": "https://steelcompendium.io/v2/Browse/retainer/statblock/wode-elf-arrowswift/",
-        "name": "Wode Elf Arrowswift",
         "type": "statblock",
         "source": "mcdm.monsters.v1",
         "printing": "1.01"
