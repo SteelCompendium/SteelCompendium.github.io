@@ -5,22 +5,13 @@
 This compendium is a suite of tools and resources to support 
 [MCDM's Draw Steel TTRPG](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg).
 
-- This Compendium is unofficial
-- There is no warranty written or implied
-- Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
-
-#### Quick Links:
-
-- [Steel Compendium](https://steelcompendium.io/v2): Rules and resources for MCDM's Draw Steel TTRPG (current site)
-- [Draw Steel Elements](https://obsidian.md/plugins?id=draw-steel-elements): Obsidian plugin ([docs](https://steelcompendium.io/draw-steel-elements/))
-
 ---
 
 ## Sites
 
 <div class="grid cards" markdown>
 
--   ### :material-book-open-variant: Steel Compendium
+-   #### :material-book-open-variant: Steel Compendium
 
     ---
 
@@ -31,12 +22,12 @@ This compendium is a suite of tools and resources to support
 
     <!-- TODO: replace with a v2 screenshot -->
 
--   ### :material-clock-alert-outline: Legacy site (deprecated)
+-   #### :material-clock-alert-outline: Legacy site (deprecated)
 
     ---
 
     The original Compendium site. It is **no longer maintained** and has been replaced by the
-    current Steel Compendium above; it is kept available for now.
+    current Steel Compendium (v2); it is kept available for now.
 
     [:octicons-arrow-right-24: Open the legacy site](./compendium)
 
@@ -62,7 +53,7 @@ There is also an `npm` module for parsing and working with these models:
 
 <div class="grid cards" markdown>
 
--   ### :material-database: New data repos
+-   #### :material-database: New data repos
 
     ---
 
@@ -76,7 +67,7 @@ There is also an `npm` module for parsing and working with these models:
     Each repo provides Markdown, Markdown for the Draw Steel Elements plugin, SCC-linked
     Markdown, JSON, and YAML variants under its `en/` directory.
 
--   ### :material-folder-clock: Legacy data repos
+-   #### :material-folder-clock: Legacy data repos
 
     ---
 
