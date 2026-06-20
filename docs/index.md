@@ -15,7 +15,7 @@ This compendium is a suite of tools and resources to support
 
     ---
 
-    The current Steel Compendium: the full Draw Steel Rules and Monsters book, organized for
+    The current Steel Compendium: the full Draw Steel Heroes, Monster, Beastheart, and Summoner books - organized for
     browsing, reading, and reference.
 
     [:octicons-arrow-right-24: Open the Steel Compendium](https://steelcompendium.io/v2)
