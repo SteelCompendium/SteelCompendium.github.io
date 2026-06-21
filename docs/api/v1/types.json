@@ -14840,14 +14840,6 @@
         "type": "featureblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.summoner.v1/monster.retainer.advancement-features/devil-detective",
-        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/advancement-features/devil-detective/",
-        "name": "Devil Detective Advancement Features",
-        "type": "featureblock",
-        "source": "mcdm.summoner.v1",
-        "printing": "1.0"
       }
     ],
     "god": [
@@ -16869,14 +16861,6 @@
         "scc": "mcdm.heroes.v1/rule.general/follower",
         "url": "https://steelcompendium.io/v2/Browse/rule/general/follower/",
         "name": "Attract Followers",
-        "type": "rule",
-        "source": "mcdm.heroes.v1",
-        "printing": "1.01b"
-      },
-      {
-        "scc": "mcdm.heroes.v1/rule.general/follower-types",
-        "url": "https://steelcompendium.io/v2/Browse/rule/general/follower-types/",
-        "name": "Follower Types",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
@@ -22186,38 +22170,6 @@
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.retainer.statblock/devil-detective",
-        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/statblock/devil-detective/",
-        "name": "Devil Detective",
-        "type": "statblock",
-        "source": "mcdm.summoner.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.summoner.v1/monster.retainer.summoner.minion.statblock/gorrre",
-        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/summoner/minion/statblock/gorrre/",
-        "name": "Gorrre",
-        "type": "statblock",
-        "source": "mcdm.summoner.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.summoner.v1/monster.retainer.summoner.minion.statblock/razor",
-        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/summoner/minion/statblock/razor/",
-        "name": "Razor",
-        "type": "statblock",
-        "source": "mcdm.summoner.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.summoner.v1/monster.retainer.summoner.minion.statblock/violent",
-        "url": "https://steelcompendium.io/v2/Browse/monster/retainer/summoner/minion/statblock/violent/",
-        "name": "Violent",
-        "type": "statblock",
-        "source": "mcdm.summoner.v1",
-        "printing": "1.0"
-      },
-      {
         "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.statblock/rival-summoner",
         "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/statblock/rival-summoner/",
         "name": "Rival Summoner",
@@ -22226,24 +22178,24 @@
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion.statblock/accursed-mummy",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/statblock/accursed-mummy/",
+        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/accursed-mummy",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/accursed-mummy/",
         "name": "Accursed Mummy",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion.statblock/skeleton",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/statblock/skeleton/",
+        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/skeleton",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/skeleton/",
         "name": "Skeleton",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion.statblock/zombie-lumberer",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/statblock/zombie-lumberer/",
+        "scc": "mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/zombie-lumberer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/1st-echelon/summoner/minion/zombie-lumberer/",
         "name": "Zombie Lumberer",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
@@ -22258,24 +22210,24 @@
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion.statblock/ceaseless-mournling",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/statblock/ceaseless-mournling/",
+        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/ceaseless-mournling",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/ceaseless-mournling/",
         "name": "Ceaseless Mournling",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion.statblock/grave-knight",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/statblock/grave-knight/",
+        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/grave-knight",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/grave-knight/",
         "name": "Grave Knight",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion.statblock/skeleton",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/statblock/skeleton/",
+        "scc": "mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/skeleton",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/2nd-echelon/summoner/minion/skeleton/",
         "name": "Skeleton",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
@@ -22290,32 +22242,32 @@
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion.statblock/ceaseless-mournling",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/statblock/ceaseless-mournling/",
+        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/ceaseless-mournling",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/ceaseless-mournling/",
         "name": "Ceaseless Mournling",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion.statblock/false-vampire",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/statblock/false-vampire/",
+        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/false-vampire",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/false-vampire/",
         "name": "False Vampire",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion.statblock/skeleton",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/statblock/skeleton/",
+        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/skeleton",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/skeleton/",
         "name": "Skeleton",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion.statblock/zombie-lumberer",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/statblock/zombie-lumberer/",
+        "scc": "mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/zombie-lumberer",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/3rd-echelon/summoner/minion/zombie-lumberer/",
         "name": "Zombie Lumberer",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
@@ -22330,33 +22282,65 @@
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion.statblock/ceaseless-mournling",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/statblock/ceaseless-mournling/",
+        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/ceaseless-mournling",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/ceaseless-mournling/",
         "name": "Ceaseless Mournling",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion.statblock/grave-knight",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/statblock/grave-knight/",
+        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/grave-knight",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/grave-knight/",
         "name": "Grave Knight",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion.statblock/skeleton",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/statblock/skeleton/",
+        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/skeleton",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/skeleton/",
         "name": "Skeleton",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
       },
       {
-        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion.statblock/zombie-titan",
-        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/statblock/zombie-titan/",
+        "scc": "mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/zombie-titan",
+        "url": "https://steelcompendium.io/v2/Browse/monster/rival/4th-echelon/summoner/minion/zombie-titan/",
         "name": "Zombie Titan",
+        "type": "statblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/retainer.summoner.statblock/devil-detective",
+        "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/devil-detective/",
+        "name": "Devil Detective",
+        "type": "statblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/retainer.summoner.statblock/gorrre",
+        "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/gorrre/",
+        "name": "Gorrre",
+        "type": "statblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/retainer.summoner.statblock/razor",
+        "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/razor/",
+        "name": "Razor",
+        "type": "statblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/retainer.summoner.statblock/violent",
+        "url": "https://steelcompendium.io/v2/Browse/retainer/summoner/statblock/violent/",
+        "name": "Violent",
         "type": "statblock",
         "source": "mcdm.summoner.v1",
         "printing": "1.0"
@@ -22551,6 +22535,14 @@
         "scc": "mcdm.heroes.v1/title/fleet-admiral",
         "url": "https://steelcompendium.io/v2/Browse/title/fleet-admiral/",
         "name": "Fleet Admiral",
+        "type": "title",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/title/follower-types",
+        "url": "https://steelcompendium.io/v2/Browse/title/follower-types/",
+        "name": "Follower Types",
         "type": "title",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
