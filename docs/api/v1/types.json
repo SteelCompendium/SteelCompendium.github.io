@@ -12918,9 +12918,41 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/feature.troubadour.level-5/bolstering-banter",
+        "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-5/bolstering-banter/",
+        "name": "Bolstering Banter",
+        "type": "feature",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/feature.troubadour.level-5/duelist-features",
         "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-5/duelist-features/",
         "name": "Duelist Features",
+        "type": "feature",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.troubadour.level-5/fix-it-in-post",
+        "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-5/fix-it-in-post/",
+        "name": "Fix It in Post",
+        "type": "feature",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.troubadour.level-5/medley",
+        "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-5/medley/",
+        "name": "Medley",
+        "type": "feature",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/feature.troubadour.level-5/verbal-duel",
+        "url": "https://steelcompendium.io/v2/Browse/feature/troubadour/level-5/verbal-duel/",
+        "name": "Verbal Duel",
         "type": "feature",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
