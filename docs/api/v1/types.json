@@ -16882,6 +16882,14 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.general/always-round-down",
+        "url": "https://steelcompendium.io/v2/Browse/rule/general/always-round-down/",
+        "name": "Always Round Down",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.general/creature",
         "url": "https://steelcompendium.io/v2/Browse/rule/general/creature/",
         "name": "Creatures and Objects",

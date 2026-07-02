@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-06-22T21:55:06Z",
+  "generated": "2026-07-02T17:45:13Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -15398,6 +15398,14 @@
       "scc": "mcdm.heroes.v1/rule.general/ability",
       "url": "https://steelcompendium.io/v2/Browse/rule/general/ability/",
       "name": "Ability Keywords",
+      "type": "rule",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/rule.general/always-round-down",
+      "url": "https://steelcompendium.io/v2/Browse/rule/general/always-round-down/",
+      "name": "Always Round Down",
       "type": "rule",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"
