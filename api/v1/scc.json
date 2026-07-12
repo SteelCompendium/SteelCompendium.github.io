@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-07-02T17:45:13Z",
+  "generated": "2026-07-12T14:31:23Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -12950,6 +12950,14 @@
       "scc": "mcdm.heroes.v1/feature.trait.polder/reactive-tumble",
       "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/reactive-tumble/",
       "name": "Reactive Tumble",
+      "type": "trait",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.trait.polder/shadowmeld",
+      "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/shadowmeld/",
+      "name": "Signature Trait: Shadowmeld",
       "type": "trait",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"

@@ -23494,6 +23494,14 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/feature.trait.polder/shadowmeld",
+        "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/shadowmeld/",
+        "name": "Signature Trait: Shadowmeld",
+        "type": "trait",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/feature.trait.polder/small",
         "url": "https://steelcompendium.io/v2/Browse/feature/trait/polder/small/",
         "name": "Signature Trait: Small!",
