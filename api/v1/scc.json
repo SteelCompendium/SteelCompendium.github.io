@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-07-12T14:31:23Z",
+  "generated": "2026-07-12T19:00:59Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -646,14 +646,6 @@
       "scc": "mcdm.beastheart.v1/feature.beastheart.level-1/adding-and-subtracting-actions",
       "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-1/adding-and-subtracting-actions/",
       "name": "Adding and Subtracting Actions",
-      "type": "feature",
-      "source": "mcdm.beastheart.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.beastheart.v1/feature.beastheart.level-1/basics",
-      "url": "https://steelcompendium.io/v2/Browse/feature/beastheart/level-1/basics/",
-      "name": "Basics",
       "type": "feature",
       "source": "mcdm.beastheart.v1",
       "printing": "1.0"
@@ -23206,14 +23198,6 @@
       "scc": "mcdm.summoner.v1/feature.summoner.level-1/1st-level-circle-features",
       "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/1st-level-circle-features/",
       "name": "1st-Level Circle Features",
-      "type": "feature",
-      "source": "mcdm.summoner.v1",
-      "printing": "1.0"
-    },
-    {
-      "scc": "mcdm.summoner.v1/feature.summoner.level-1/basics",
-      "url": "https://steelcompendium.io/v2/Browse/feature/summoner/level-1/basics/",
-      "name": "Basics",
       "type": "feature",
       "source": "mcdm.summoner.v1",
       "printing": "1.0"
