@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-08-02T17:11:48Z",
+  "generated": "2026-08-03T14:39:37Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -15326,6 +15326,14 @@
       "scc": "mcdm.heroes.v1/rule.dice/tier-outcome",
       "url": "https://steelcompendium.io/v2/Browse/rule/dice/tier-outcome/",
       "name": "Power Roll Outcomes",
+      "type": "rule",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/rule.downtime/crafting-and-research-events-table",
+      "url": "https://steelcompendium.io/v2/Browse/rule/downtime/crafting-and-research-events-table/",
+      "name": "Crafting and Research Events Table",
       "type": "rule",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"

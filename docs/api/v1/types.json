@@ -16794,6 +16794,14 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.downtime/crafting-and-research-events-table",
+        "url": "https://steelcompendium.io/v2/Browse/rule/downtime/crafting-and-research-events-table/",
+        "name": "Crafting and Research Events Table",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.downtime/crafting-project",
         "url": "https://steelcompendium.io/v2/Browse/rule/downtime/crafting-project/",
         "name": "Crafting Projects",
