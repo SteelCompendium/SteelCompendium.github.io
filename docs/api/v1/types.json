@@ -14794,6 +14794,38 @@
         "printing": "1.01"
       },
       {
+        "scc": "mcdm.summoner.v1/monster.champion.summoner.demon.advancement-features/demon-lords-aspect",
+        "url": "https://steelcompendium.io/v2/Browse/monster/champion/summoner/demon/advancement-features/demon-lords-aspect/",
+        "name": "Demon Lord's Aspect Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/monster.champion.summoner.elemental.advancement-features/dragons-portent",
+        "url": "https://steelcompendium.io/v2/Browse/monster/champion/summoner/elemental/advancement-features/dragons-portent/",
+        "name": "Dragon's Portent Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/monster.champion.summoner.fey.advancement-features/celestial-attendant",
+        "url": "https://steelcompendium.io/v2/Browse/monster/champion/summoner/fey/advancement-features/celestial-attendant/",
+        "name": "Celestial Attendant Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.summoner.v1/monster.champion.summoner.undead.advancement-features/avatar-of-death",
+        "url": "https://steelcompendium.io/v2/Browse/monster/champion/summoner/undead/advancement-features/avatar-of-death/",
+        "name": "Avatar of Death Advancement Features",
+        "type": "featureblock",
+        "source": "mcdm.summoner.v1",
+        "printing": "1.0"
+      },
+      {
         "scc": "mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil",
         "url": "https://steelcompendium.io/v2/Browse/monster/fixture/demon/advancement-features/the-boil/",
         "name": "The Boil Advancement Features",
@@ -18297,6 +18329,14 @@
       }
     ],
     "statblock": [
+      {
+        "scc": "mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth",
+        "url": "https://steelcompendium.io/v2/Browse/monster/summon/elementalist/statblock/source-of-earth/",
+        "name": "Source of Earth",
+        "type": "statblock",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
       {
         "scc": "mcdm.monsters.v1/monster.ajax-the-invincible.statblock/ajax-the-invincible",
         "url": "https://steelcompendium.io/v2/Browse/monster/ajax-the-invincible/statblock/ajax-the-invincible/",
