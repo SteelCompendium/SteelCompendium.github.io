@@ -796,11 +796,11 @@
 <div class="highlight"><pre><span></span><code>GET /api/v1/resolve/mcdm.heroes.v1/class/fury.json
 </code></pre></div>
 <div class="highlight"><pre><span></span><code><span class="p">{</span>
-<span class="w">  </span><span class="nt">&quot;scc&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;mcdm.heroes.v1/class/fury&quot;</span><span class="p">,</span>
-<span class="w">  </span><span class="nt">&quot;url&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;https://steelcompendium.io/v2/Browse/class/fury/&quot;</span><span class="p">,</span>
-<span class="w">  </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Fury&quot;</span><span class="p">,</span>
-<span class="w">  </span><span class="nt">&quot;type&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;class&quot;</span><span class="p">,</span>
-<span class="w">  </span><span class="nt">&quot;source&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;mcdm.heroes.v1&quot;</span>
+<span class="w">  </span><span class="nt">"scc"</span><span class="p">:</span><span class="w"> </span><span class="s2">"mcdm.heroes.v1/class/fury"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"url"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://steelcompendium.io/v2/Browse/class/fury/"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Fury"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"class"</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">"source"</span><span class="p">:</span><span class="w"> </span><span class="s2">"mcdm.heroes.v1"</span>
 <span class="p">}</span>
 </code></pre></div>
 <h3 id="bulk-registry">Bulk Registry<a class="headerlink" href="#bulk-registry" title="Permanent link">&para;</a></h3>
@@ -810,7 +810,7 @@
 <p>Returns all entries sorted by SCC code, plus alias mappings.</p>
 <h3 id="usage-example">Usage Example<a class="headerlink" href="#usage-example" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code><span class="c1">// Resolve a single SCC code</span>
-<span class="nx">fetch</span><span class="p">(</span><span class="s2">&quot;https://steelcompendium.io/api/v1/resolve/mcdm.heroes.v1/class/fury.json&quot;</span><span class="p">)</span>
+<span class="nx">fetch</span><span class="p">(</span><span class="s2">"https://steelcompendium.io/api/v1/resolve/mcdm.heroes.v1/class/fury.json"</span><span class="p">)</span>
 <span class="w">  </span><span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">r</span><span class="w"> </span><span class="p">=&gt;</span><span class="w"> </span><span class="nx">r</span><span class="p">.</span><span class="nx">json</span><span class="p">())</span>
 <span class="w">  </span><span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">entry</span><span class="w"> </span><span class="p">=&gt;</span><span class="w"> </span><span class="nb">window</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="nx">entry</span><span class="p">.</span><span class="nx">url</span><span class="p">));</span>
 </code></pre></div>
