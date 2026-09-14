@@ -1,0 +1,10 @@
+{
+  "scc": "mcdm.heroes.v1/feature.ability.treasure/dragons-fire",
+  "url": "https://steelcompendium.io/v2/Browse/feature/ability/treasure/dragons-fire/",
+  "name": "Dragon's Fire",
+  "type": "ability",
+  "source": "mcdm.heroes.v1",
+  "printing": "1.01b",
+  "granted_by": "mcdm.heroes.v1/rule.treasure/enhancement",
+  "scheme_version": 1
+}
