@@ -1,7 +1,7 @@
 {
   "version": 1,
   "scheme_version": 1,
-  "generated": "2026-09-14T01:38:57Z",
+  "generated": "2026-09-14T13:47:48Z",
   "base_url": "https://steelcompendium.io/v2",
   "books": {
     "mcdm.beastheart.v1": {
@@ -3803,14 +3803,6 @@
       "printing": "1.01b"
     },
     {
-      "scc": "mcdm.heroes.v1/feature.ability.common/dragons-fire",
-      "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/dragons-fire/",
-      "name": "Dragon's Fire",
-      "type": "ability",
-      "source": "mcdm.heroes.v1",
-      "printing": "1.01b"
-    },
-    {
       "scc": "mcdm.heroes.v1/feature.ability.common/escape-grab",
       "url": "https://steelcompendium.io/v2/Browse/feature/ability/common/escape-grab/",
       "name": "Escape Grab",
@@ -7017,6 +7009,15 @@
       "type": "ability",
       "source": "mcdm.heroes.v1",
       "printing": "1.01b"
+    },
+    {
+      "scc": "mcdm.heroes.v1/feature.ability.treasure/dragons-fire",
+      "url": "https://steelcompendium.io/v2/Browse/feature/ability/treasure/dragons-fire/",
+      "name": "Dragon's Fire",
+      "type": "ability",
+      "source": "mcdm.heroes.v1",
+      "printing": "1.01b",
+      "granted_by": "mcdm.heroes.v1/rule.treasure/enhancement"
     },
     {
       "scc": "mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics",
