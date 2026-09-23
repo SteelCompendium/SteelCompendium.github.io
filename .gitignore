@@ -1,0 +1,9 @@
+site/
+.cache/
+
+# Licensed Playtype web fonts (Berlingske Slab). NEVER commit these: this repo is public
+# and the license forbids making the font files downloadable anywhere but the website.
+# `just fonts` (local) and ci.yml (deploy) fetch them from the private
+# SteelCompendium/licensed-fonts repo. ci.yml refuses to deploy if any get tracked.
+.licensed-fonts/
+docs/fonts/licensed/

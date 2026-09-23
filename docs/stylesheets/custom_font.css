@@ -2,11 +2,12 @@
    the rationale for every value below. Mirror any change made there. (SC-335)
 
    Cinzel, Petrona, Zilla Slab and JetBrains Mono are OFL faces served by Google Fonts.
-   Berlingske Slab is LICENSED from Playtype (SC-320). The v2 site serves it, and this
-   page borrows those files by root-relative path: same domain, same host, no second
-   copy. Never copy the font files into this public repo, and never point at a CDN.
-   Rules: v2/.repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md.
-   A local `mkdocs serve` has no /v2/ path, so the body falls back to Zilla Slab there. */
+   Berlingske Slab is LICENSED from Playtype (SC-320). THIS site hosts it for the whole
+   domain at /fonts/licensed/berlingske-slab/ (SC-335): ci.yml / `just fonts` copy the
+   files in from the private SteelCompendium/licensed-fonts repo, and v2 (and any later
+   site) loads them from that path. Moving or renaming them breaks every site's body
+   font. Never commit the files to this public repo, and never point at a CDN.
+   Rules: workspace ARCHITECTURE.md → "Licensed fonts". */
 @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
@@ -18,42 +19,42 @@
     font-style: normal;
     font-weight: 100 500;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBd.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-DBd.woff2") format("woff2");
 }
 @font-face {
     font-family: "Berlingske Slab";
     font-style: italic;
     font-weight: 100 500;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBdIt.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-DBdIt.woff2") format("woff2");
 }
 @font-face {
     font-family: "Berlingske Slab";
     font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-Bd.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-Bd.woff2") format("woff2");
 }
 @font-face {
     font-family: "Berlingske Slab";
     font-style: italic;
     font-weight: 600;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-BdIt.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-BdIt.woff2") format("woff2");
 }
 @font-face {
     font-family: "Berlingske Slab";
     font-style: normal;
     font-weight: 700 900;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-XBd.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-XBd.woff2") format("woff2");
 }
 @font-face {
     font-family: "Berlingske Slab";
     font-style: italic;
     font-weight: 700 900;
     font-display: swap;
-    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-XBdIt.woff2") format("woff2");
+    src: url("../fonts/licensed/berlingske-slab/BerlingskeSlab-XBdIt.woff2") format("woff2");
 }
 
 /* Role variables, same values as v2's :root. */

@@ -6,20 +6,67 @@ on:
       - master
       - main
 
+# This site is the ONE host of the licensed Berlingske Slab web fonts for every
+# steelcompendium.io site (SC-335). It serves them at /fonts/licensed/berlingske-slab/,
+# and v2 (and any later site on this domain) loads them from that path. The files come
+# from the private SteelCompendium/licensed-fonts repo at build time and must never be
+# public in git, so this deploys through GitHub's Pages artifact, not `mkdocs gh-deploy`
+# (which would commit them to this public repo's gh-pages branch). Requires the Pages
+# source to be "GitHub Actions" and the github-pages environment to allow main.
+# Rules: ARCHITECTURE.md → "Licensed fonts".
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+  actions: write   # delete the Pages artifact after deploying (last step)
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out the code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # fetch all commits/branches
+          fetch-depth: 1   # no build plugin reads git history
+
+      # The licensed font files must never be committed here (see the header). If one
+      # ever is, fail before deploying so it gets noticed and purged.
+      - name: Refuse licensed font files tracked in this public repo
+        run: |
+          tracked="$(git ls-files | grep -i -E '(^|/)\.?licensed-fonts/|(^|/)fonts/licensed/|berlingske[^/]*\.(woff2?|eot|ttf|otf|svg)$' || true)"
+          if [ -n "$tracked" ]; then
+            echo "::error::Licensed font files are committed to this public repo. Remove them from git (and its history):"
+            echo "$tracked"
+            exit 1
+          fi
+
+      # Private repo, read through a read-only deploy key (the default GITHUB_TOKEN can
+      # only read this repo). A missing or broken key fails the deploy on purpose, so
+      # every site on the domain never silently loses its body font.
+      - name: Check out the licensed web fonts (private)
+        uses: actions/checkout@v4
+        with:
+          repository: SteelCompendium/licensed-fonts
+          ssh-key: ${{ secrets.LICENSED_FONTS_DEPLOY_KEY }}
+          path: .licensed-fonts
+          persist-credentials: false
+
+      # Only the .woff2 files, by name, so nothing else in the private repo (the license
+      # certificate, say) can ride along into the public site.
+      - name: Install the licensed web fonts
+        run: |
+          mkdir -p docs/fonts/licensed/berlingske-slab
+          cp .licensed-fonts/web/berlingske-slab/*.woff2 docs/fonts/licensed/berlingske-slab/
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: 3.x
 
@@ -34,4 +81,28 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-rss-plugin
 
-      - run: mkdocs gh-deploy --force
+      - name: Build the site
+        run: mkdocs build
+
+      - name: Check the licensed fonts made it into the build
+        run: test -f site/fonts/licensed/berlingske-slab/BerlingskeSlab-DBd.woff2
+
+      - name: Upload the Pages artifact
+        id: upload
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+          retention-days: 1
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      # The artifact is the whole built site, fonts included, and any signed-in GitHub
+      # user can download a public repo's artifacts until they expire. Pages keeps its
+      # own copy once deploy-pages returns, so delete ours immediately, even on failure.
+      - name: Delete the Pages artifact (it contains the licensed fonts)
+        if: always() && steps.upload.outputs.artifact_id != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X DELETE "repos/${{ github.repository }}/actions/artifacts/${{ steps.upload.outputs.artifact_id }}"
