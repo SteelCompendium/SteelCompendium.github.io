@@ -1,51 +1,99 @@
+/* The same four faces as the v2 site (v2/docs/stylesheets/custom_font.css), which owns
+   the rationale for every value below. Mirror any change made there. (SC-335)
+
+   Cinzel, Petrona, Zilla Slab and JetBrains Mono are OFL faces served by Google Fonts.
+   Berlingske Slab is LICENSED from Playtype (SC-320). The v2 site serves it, and this
+   page borrows those files by root-relative path: same domain, same host, no second
+   copy. Never copy the font files into this public repo, and never point at a CDN.
+   Rules: v2/.repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md.
+   A local `mkdocs serve` has no /v2/ path, so the body falls back to Zilla Slab there. */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
+
+/* Weight map as in v2: Demibold is the normal weight, Bold 600, Extrabold bold. */
 @font-face {
-    font-family: "BerlingskeSlab-DBd";
-    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot");
-    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.svg#BerlingskeSlab-DBd")format("svg");
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 100 500;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 100 500;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBdIt.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-Bd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-BdIt.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 700 900;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-XBd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 700 900;
+    font-display: swap;
+    src: url("/v2/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-XBdIt.woff2") format("woff2");
+}
+
+/* Role variables, same values as v2's :root. */
+:root {
+    --md-large-header-font: "Cinzel";
+    --md-large-header-weight: 900;
+    --md-large-header-scale: 0.90;
+    --md-large-header-tracking: 0px;
+    --md-large-header-stroke: 0px;
+    --md-small-header-font: "Petrona";
+    --md-small-header-weight: 700;
+    --md-text-font: "Berlingske Slab", "Zilla Slab";
+    --md-code-font: "JetBrains Mono";
 }
 
 body {
-    font-family: "BerlingskeSlab-DBd";
-}
-
-@font-face {
-    font-family: "Test Newzald";
-    src: url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.eot");
-    src: url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.svg#Test Newzald")format("svg");
-}
-
-@font-face {
-    font-family: "Beaufort W01 Heavy";
-    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot");
-    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.svg#Beaufort W01 Heavy")format("svg");
+    font-family: var(--md-text-font);
 }
 
 /* Headers */
 .md-typeset h1 {
-    font-family: "Beaufort W01 Heavy";
-    font-size: 5em;
+    font-family: var(--md-large-header-font);
+    font-weight: var(--md-large-header-weight);
+    letter-spacing: var(--md-large-header-tracking);
+    -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
+    font-size: calc(5em * var(--md-large-header-scale));
     text-transform: uppercase;
     margin: 0 0 .25em;
 }
 .md-typeset h2 {
-    font-family: "Beaufort W01 Heavy";
-    font-size: 3em;
+    font-family: var(--md-large-header-font);
+    font-weight: var(--md-large-header-weight);
+    letter-spacing: var(--md-large-header-tracking);
+    -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
+    font-size: calc(3em * var(--md-large-header-scale));
     text-transform: uppercase;
 }
 .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
-    font-family: "Test Newzald";
+    font-family: var(--md-small-header-font);
+    font-weight: var(--md-small-header-weight);
 }
 .md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
