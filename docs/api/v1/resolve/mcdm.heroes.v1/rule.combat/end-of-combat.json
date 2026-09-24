@@ -1,0 +1,9 @@
+{
+  "scc": "mcdm.heroes.v1/rule.combat/end-of-combat",
+  "url": "https://steelcompendium.io/v2/Browse/rule/combat/end-of-combat/",
+  "name": "End of Combat",
+  "type": "rule",
+  "source": "mcdm.heroes.v1",
+  "printing": "1.01b",
+  "scheme_version": 1
+}

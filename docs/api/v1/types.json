@@ -16555,9 +16555,25 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.combat/end-of-combat",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/end-of-combat/",
+        "name": "End of Combat",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.combat/end-of-turn",
         "url": "https://steelcompendium.io/v2/Browse/rule/combat/end-of-turn/",
         "name": "End of Next Turn (EoT)",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/ending-effects",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/ending-effects/",
+        "name": "Ending Effects",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
@@ -16619,6 +16635,14 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.combat/movement",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/movement/",
+        "name": "Movement",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.combat/objective",
         "url": "https://steelcompendium.io/v2/Browse/rule/combat/objective/",
         "name": "Objective Endings",
@@ -16654,6 +16678,14 @@
         "scc": "mcdm.heroes.v1/rule.combat/signature-ability",
         "url": "https://steelcompendium.io/v2/Browse/rule/combat/signature-ability/",
         "name": "Signature Abilities",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.combat/stacking-effects",
+        "url": "https://steelcompendium.io/v2/Browse/rule/combat/stacking-effects/",
+        "name": "Stacking Unique Effects",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
@@ -16782,6 +16814,14 @@
         "scc": "mcdm.heroes.v1/rule.dice/edge",
         "url": "https://steelcompendium.io/v2/Browse/rule/dice/edge/",
         "name": "Edge",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.dice/multiple-targets",
+        "url": "https://steelcompendium.io/v2/Browse/rule/dice/multiple-targets/",
+        "name": "Roll Against Multiple Creatures",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
@@ -17067,6 +17107,14 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.negotiation/argument",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/argument/",
+        "name": "Making Arguments",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.negotiation/interest",
         "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/interest/",
         "name": "Interest",
@@ -17078,6 +17126,22 @@
         "scc": "mcdm.heroes.v1/rule.negotiation/motivation",
         "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/motivation/",
         "name": "Motivations",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/offer",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/offer/",
+        "name": "NPC Response and Offer",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.negotiation/opening",
+        "url": "https://steelcompendium.io/v2/Browse/rule/negotiation/opening/",
+        "name": "Opening a Negotiation",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"
@@ -17163,9 +17227,25 @@
         "printing": "1.01b"
       },
       {
+        "scc": "mcdm.heroes.v1/rule.test/assist-a-test",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/assist-a-test/",
+        "name": "Assist a Test",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
         "scc": "mcdm.heroes.v1/rule.test/group-test",
         "url": "https://steelcompendium.io/v2/Browse/rule/test/group-test/",
         "name": "Group Tests",
+        "type": "rule",
+        "source": "mcdm.heroes.v1",
+        "printing": "1.01b"
+      },
+      {
+        "scc": "mcdm.heroes.v1/rule.test/hide-and-sneak",
+        "url": "https://steelcompendium.io/v2/Browse/rule/test/hide-and-sneak/",
+        "name": "Hide and Sneak",
         "type": "rule",
         "source": "mcdm.heroes.v1",
         "printing": "1.01b"

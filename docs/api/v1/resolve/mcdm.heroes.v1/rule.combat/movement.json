@@ -1,0 +1,9 @@
+{
+  "scc": "mcdm.heroes.v1/rule.combat/movement",
+  "url": "https://steelcompendium.io/v2/Browse/rule/combat/movement/",
+  "name": "Movement",
+  "type": "rule",
+  "source": "mcdm.heroes.v1",
+  "printing": "1.01b",
+  "scheme_version": 1
+}
