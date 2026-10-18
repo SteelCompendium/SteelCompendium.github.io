@@ -13815,120 +13815,6 @@
         "printing": "1.0"
       }
     ],
-    "feature-group": [
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/basilisk/",
-        "name": "Basilisk",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/bear/",
-        "name": "Bear",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/boar/",
-        "name": "Boar",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/condor/",
-        "name": "Condor",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/deinonychus/",
-        "name": "Deinonychus",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/drake/",
-        "name": "Drake",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/elemental-spark/",
-        "name": "Elemental Spark",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/gummy-ball/",
-        "name": "Gummy Ball",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/hellhound/",
-        "name": "Hellhound",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/lightbender/",
-        "name": "Lightbender",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/panther/",
-        "name": "Panther",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/spider/",
-        "name": "Spider",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/sporeling/",
-        "name": "Sporeling",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      },
-      {
-        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf",
-        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/wolf/",
-        "name": "Wolf",
-        "type": "feature-group",
-        "source": "mcdm.beastheart.v1",
-        "printing": "1.0"
-      }
-    ],
     "featureblock": [
       {
         "scc": "mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk",
@@ -18410,6 +18296,118 @@
       }
     ],
     "statblock": [
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/basilisk/",
+        "name": "Basilisk",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/bear/",
+        "name": "Bear",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/boar/",
+        "name": "Boar",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/condor/",
+        "name": "Condor",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/deinonychus/",
+        "name": "Deinonychus",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/drake/",
+        "name": "Drake",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/elemental-spark/",
+        "name": "Elemental Spark",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/gummy-ball/",
+        "name": "Gummy Ball",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/hellhound/",
+        "name": "Hellhound",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/lightbender/",
+        "name": "Lightbender",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/panther/",
+        "name": "Panther",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/spider/",
+        "name": "Spider",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/sporeling/",
+        "name": "Sporeling",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
+      {
+        "scc": "mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf",
+        "url": "https://steelcompendium.io/v2/Browse/monster/companion/beastheart/statblock/wolf/",
+        "name": "Wolf",
+        "type": "statblock",
+        "source": "mcdm.beastheart.v1",
+        "printing": "1.0"
+      },
       {
         "scc": "mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth",
         "url": "https://steelcompendium.io/v2/Browse/monster/summon/elementalist/statblock/source-of-earth/",
